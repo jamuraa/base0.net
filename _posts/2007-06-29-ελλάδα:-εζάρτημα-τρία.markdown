@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 212
+layout: post
+title: !binary |
+  zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM+Ez4HOr86x
+
+excerpt: |-
+  (I recently learned that I may be naming these posts incorrectly.  If anyone who knows Greek can tell me, please do)
+  
+  After the ordeal on Wednesday, I had a mission Thursday: get a phone that would work in Greece.  I wasn't all that interested in the talks that were being given that day, so I figured that it would work out.  I meant to stop at one of the stores that I had previously walked by on my way to Viktoria station, but they were all closed at 9am - stores open kind of late here, apparently.
+date: 2007-06-29 02:08:13 -05:00
+tags: "teach, work-life, learn, live-journal, planet-debian, sleep, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, athens, walking"
+---
+(I recently learned that I may be naming these posts incorrectly.  If anyone who knows Greek can tell me, please do)
+
+After the ordeal on Wednesday, I had a mission Thursday: get a phone that would work in Greece.  I wasn't all that interested in the talks that were being given that day, so I figured that it would work out.  I meant to stop at one of the stores that I had previously walked by on my way to Viktoria station, but they were all closed at 9am - stores open kind of late here, apparently.  I gave up on the search until later in the day.
+
+The next stop was the national gallery, which has a lot of very nice paintings in it.  I was particularly took by a fairly small painting of a girl at a window - I don't know why but I could easily look at it for a half hour or more I feel.  There was also many Greek artists' work, and some very large work there.  I was there with Hyeun for about an hour looking at everything.  Hyeun noted that there wasn't much from before the 18th century there.  I think she thought we were going to go to the archaeological museum.
+
+After that, we went to the conference hotel where I posted the previously-written posts from yesterday (parts one and two) and then went to lunch at a bistro near the hotel.  I'm somewhat surprised about the price of some things here, they are very different than in the US.  Here a 500ml coke bottle is 2-3€  or so, but a large Carbonara plate is only 5€  where it would be about $9-$10 in the states.  So I have spent much less than I had anticipated.
+
+After lunch, I took upon the cell phone task yet again.  The conference hotel directed me towards a cell store ΓΕΡΜΑΝΟΣ, which was about a mile away.  I expected it to be quicker and <a href="&lt;br &gt;&lt;/a&gt; http://www.gmap-pedometer.com/?r=1091288">wandered around</a> looking for it a while, then went back and asked to see where it was on a map.
+
+I found it and looked at phones for a while, and finally settled on a Motorola L6 for 135€  which is tri-band and I believe unlocked as many of the phones that were available were.  The seller was kind enough for me to switch it to English so I could use it.   I had to charge it for a while before I could use it, and it seems to be working fine.   I am hoping that I can sell it to someone else for a reasonable recoup if my old phone is actually still usable in the states.  I did look it up and I should be able to use this phone in the twin cities if my old phone is broken.  Also, I can't find my old T-Mobile SIM anywhere.  Does anyone know if I can get it replaced easily?
+
+After that walk, I was sweating like crazy so I stopped at the restaurant in the hotel where everything is very expensive - a 250ml soda was 5€!  I then did boring thing like work on my talk for Friday and also check email, but I managed to meet a nice french guy named Guillame and another guy who works in robotics.  They were generally nice and interesting to talk to, so I sat near them at the banquet which happened later that night.  The banquet was basically standard fare for conferences, not excellent.
+
+It was quite late when we finished, so I shared a taxi with Hyeun to get back to the hotel.  The driver turned off the meter at the end and wrote a handwritten receipt while charging us more than what the meter showed when we stopped.  I think we might have gotten scammed because many sites say that you should get a official receipt from the meter.   At that point I was very tired and just wanted to go to bed.
+
+Today I need to give my talk at 9:30, so I am working on movies at the last minute of course.  It is the last day of the conference, and I am much more tired than I expect to be at this point.  I hope it is not something serious and only exhaustion based on lots of walking and the heat.

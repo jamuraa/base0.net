@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 219
+layout: post
+title: !binary |
+  zpXOu867zqzOtM6xOiDOtc+Azq/Ou86/zrPOv8+C
+
+excerpt: "Well, the last day in Greece went swimmingly.  It was mostly just relaxing, playing on the Internet, chatting with lovely Di, and working out logistics of taking a long flight back to the United States.  The only strange thing about it is that I haven't slept since the last post, which is away from the norm.  It's a kind of forced all-nighter caused by the bad scheduling that I made for myself.  The flight from \xCE\x9A\xCF\x8E\xCF\x83 to Athens happened at 10:20pm in the evening."
+date: 2007-07-05 20:42:47 -05:00
+tags: "think, learn, live-journal, planet-debian, airports, greece, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, languages, flights, \xCE\xBA\xCF\x8E\xCF\x83, greek"
+---
+Well, the last day in Greece went swimmingly.  It was mostly just relaxing, playing on the Internet, chatting with lovely Di, and working out logistics of taking a long flight back to the United States.  The only strange thing about it is that I haven't slept since the last post, which is away from the norm.  It's a kind of forced all-nighter caused by the bad scheduling that I made for myself.  The flight from Κώσ to Athens happened at 10:20pm in the evening.  This was the latest flight that I could get and assure that I could get to the Athens airport in time for my 7:20 flight to Madrid, which connects through Chicago and back to Minneapolis at last.
+
+I've spent a total of 10 days outside of the United States now, the longest time since I have been alive, according to my knowledge.  It has caused some interesting results.  I realized that I am inextricably connected to the people who I am familiar with in my life, and being without them decreases my mood significantly, and without contact to them decreases my mood sharply.
+
+I am not alone in this fact.  There are many studies that show that people who have more social connections lead happier lives.   I am lucky in that I am technologically ept and can connect to my near and dear in a number of ways, and be resourceful in finding other ways to contact them if necessary.   I feel that I am lucky to live in a time which it is possible for me to spend so much time apart and still be in connection with people.  I am also lucky that I was born in a geological area which enables me to be as such.
+
+At the same time, I am sad to leave this place.  It is a nice area, with good food and a very long history.  As Nikos reminded me the other day, it is the birthplace of Democracy, which I hold to a fairly high regard.   It is also the birthplace of modern medicine, and a significant portion of many early sciences.  The wealth of the nation as a whole and as parts is clear to me, and I wish to return.
+
+I've learned part of the language while I am here, and it has made me more cognizant of communication with other cultures.  People in Athens seemed put off when I tried to talk in Greek, but in Kos they were at the worst amused at my attempts.  The language may not be as romantic to learn as French or Italian, and may not be as useful in the long term as Latin, but it would be interesting to speak nonetheless.   I am tempted to start working on some of the i18n Greek QA issues in Debian -- It would help me learn the language more, and also keep me aware of the issues in software when you start working with other countries' characters.  I have been lucky to be using a MacBook this entire time with decent Greek support, allowing me to type at least some greek while I was here.  It helped me understand even more of the language - I now know mostly the numbers 1-9 at least.
+
+The trip has highlighted for me something which is highly lacking in airports: power.   Every airport that I have been to has prominently displayed the signs of wireless access, and has people using their laptops in almost every direction you can look (I am one of those), but they are sorely without power points for people who are using those laptops.  This may be a designed flaw in order to save energy, but I don't really believe that 50 or even 5,000 laptops at 65-150W will put a significant dent in the power grid at somewhere as large as an airport, where LCD screens are running 24/7 with ads and bright lights illuminate every corner for all to be seen.  I won't even start talking about the airplanes themselves.
+
+All in all, the trip has been a happy one, and I would very much repeat it.  I will make different decisions on lodging at some places and probably plan a shorter trip.  I however wholly endorse Greece as a vacation spot, and even would consider moving here if offered a position (that would depend highly on Diana as well, obviously).  I find it entirely favorable.  I hope that this small series on the site has caused you, the reader some pleasure at least, even if it was at my expense.
+
+Now begins the long trip home, on three planes and with 14.5 hours in the airplane and 18 hours in total.  It'll be only 10 hours counting local time, unfortunately -- the jet lag will, I'm sure, be horrible.

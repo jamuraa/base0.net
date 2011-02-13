@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 209
+layout: post
+title: !binary |
+  zpXOu867zqzPgjogz4DPgc6/zr/Or868zrnOvw==
+
+excerpt: I've started on my first trip to countries that aren't English-speaking today.  I don't really have any time at my destination today, so it's a prelude to the real deal.  I'm headed to Greece - Athens and Kos in particular, for a couple of weeks in order to attend MED 2007 and ECC 2007.  My advisor is from Greece originally, so we usually send at least one paper to one of these conferences.
+date: 2007-06-27 01:17:44 -05:00
+tags: "work-life, learn, live-journal, planet-debian, airports, conferences, greece, power, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82"
+---
+I've started on my first trip to countries that aren't English-speaking today.  I don't really have any time at my destination today, so it's a prelude to the real deal.  I'm headed to Greece - Athens and Kos in particular, for a couple of weeks in order to attend MED 2007 and ECC 2007.  My advisor is from Greece originally, so we usually send at least one paper to one of these conferences.  This year we have two papers at MED and one at ECC.
+
+I have a built-in downside of having two separate stops before my destination on this trip, mostly due to the ticket being much much cheaper than it would normally be.  This means at least 8 hours in airports, waiting for another plane to board or standing in line.  It seems like most of the day has been spent charging the laptop, or looking for power.
+
+One thing that I have noted is that when you travel in airports, you need to be wary of power plugs.  There are very few available, even it seems in modern airports.  Surprisingly, the Iceland airport we stopped at last year on our way to england was much more accommodating for the traveler.  This is very frustrating when you land with a dead battery from working on a flight after 7 hours or so, and you can't charge up for your next flight.  I found a <a href="http://wiki.jeffsandquist.com/default.aspx/AirPower/AirPower%20Home.html">wiki online</a> which is trying to map the power available at some airports, and I added a couple entries on my travels just today.
+
+I took a gamble on purchasing wifi from <a href="http://www.boingo.com">Boingo</a> earlier, and I may sign up again with the "world unlimited" plan before the trip is over.   Apparently the plan that I signed up on is 0.12 euro a minute at most locations in Athens, and I can easily see spending more than the ~30 euro it will cost for the month of unlimited.  As an added downside, you can't see your minute charge right away, so I don't know if I have logged off here at Madrid.
+
+I hope to take a bunch of bad camera phone pictures, but first I need to find a charger and SIM card for my phone.  You can keep track of my travels on <a href="http://twitter.com/jamuraa">twitter</a>, I'll probably be updating it more often due to the high price of internet and relative cheapness of SMS.  Suddenly texting has a whole new appeal to me.

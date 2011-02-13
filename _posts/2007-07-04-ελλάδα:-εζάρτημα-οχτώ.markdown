@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 217
+layout: post
+title: !binary |
+  zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM6/z4fPhM+O
+
+excerpt: The actual conference was not too difficult to get to - I ended up waiting for the bus much longer than I should have, sitting about 30 minutes.  That was kind of annoying, but more annoying was the issue that I had to make a connecting bus, but it wouldn't show up for another 40 minutes after the first one dropped me off.  This was just intolerable.  Luckily there was someone else who was going to the conference as well, and we both decided that waiting was not our cup of tea, and split a cab.
+date: 2007-07-04 08:06:33 -05:00
+tags: "play, teach, learn, live-journal, planet-debian, conferences, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, \xCE\xBA\xCF\x8E\xCF\x83, presentation"
+---
+The actual conference was not too difficult to get to - I ended up waiting for the bus much longer than I should have, sitting about 30 minutes.  That was kind of annoying, but more annoying was the issue that I had to make a connecting bus, but it wouldn't show up for another 40 minutes after the first one dropped me off.  This was just intolerable.  Luckily there was someone else who was going to the conference as well, and we both decided that waiting was not our cup of tea, and split a cab.  The cab was too expensive for 1 but just right to split, between the actual bus fare we would have to wait to pay and the imaginary unreasonable price to pay in order to get that far.
+
+Unfortunately when I got to the conference I was unhappy to discover that the wireless problems I experienced on monday were not fixed by now, and it was completely not working.  This is frustrating because a much smaller conference got it down just fine, and we also managed to get it right at ICRA06.   Granted, this is a much more remote place, but they had many days to at least get the wireless access points working.  One of the main reasons that the wireless wasn't working was because every point was on channel 11, except for a few, that were on channel 10 and broadcasting the same ESSID.  This causes insane interference because the channels are very close to each other.
+
+Anyway I was pretty fed up with that, but it was time for some talks.   Lots of the talks yesterday were on things that were covered a long time ago in robotics, but are now just being completely formalized by the control people.  It's not really my crowd of engineers.  The different applications were interesting at least though.
+
+I went to get lunch downtown and was reminded again of the "have to ask for your bill" thing when I well, had to ask for my bill.  Carbonara for lunch was decent, but just blandish and not great.  Back to the conference for some more talks, but the internet was partially working so I made a stop in order to check email.  By the time I got up to the room, it was right to some papers that I was actually interested in.  Unfortunately none of them were there.   I decided to call the conference a day and go back to relax a bit.
+
+I caught the bus to the hotel and then relaxed quite a bit, enough that I took a short nap.  Also I chatted with Diana over Skype a bit, and that was pretty nice, but we got cut off again.  I discovered that it's just the link to the repeater that gets severed.  I think if I wanted to make a career setting up wireless networks correctly in Europe it would be a definite moneymaking endeavor.  None of them seem to be setup correctly, except for the ones in airports and actually the one at MED07 worked fine as well.
+
+After some relaxing time, I went out to eat at the same restaurant as before.  There was some interesting motorcycle racing, and the food was again superb.  I am kind of sad that I won't be able to go back there again this trip.  The banquet is tonight and I will be there, and then I will have to go back to the airport in order to head home.   The hotel isn't sure if I can get a late checkout on Thursday so I don't think I will come to the conference then, just stay in my room for a bit and possibly check out the town some more.   Today, I give the talk in a session of unrelated talks.  Hopefully I will do okay.

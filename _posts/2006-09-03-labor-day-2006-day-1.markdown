@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 181
+layout: post
+title: Labor Day 2006 Day 1
+excerpt: <img src="http://base0.net/uploads/laborday06-2.jpg" alt="North Shore Scenic Railroad" />
+date: 2006-09-03 07:53:14 -05:00
+tags: play, live-journal, planet-debian, holiday, labor-day
+---
+<img src="http://base0.net/uploads/laborday06-2.jpg" alt="North Shore Scenic Railroad" />

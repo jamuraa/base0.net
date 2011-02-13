@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 111
+layout: post
+title: Late Nights, Early Mornings
+date: 2004-12-04 11:06:04 -06:00
+tags: work-life, hack
+---
+As the semester draws to a close, my days get longer.  The last week has been full of working on the project for computational vision, which amounts to an image manipulation library for <a href="http://www.woilfram.com">Mathematica</a>.   The project is about halfway done I would guess, but I can see why people get paid largs sums of money to develop packages for this language - it's incredibly hard to learn, but once you know it, you can do things very quickly.  The harder problem involves coding which is acually efficient.  The package I'm building's whole point is that it is a more computationally efficient than normal algorithms - unfortunately, in Mathematica you need to do some things slightly differently.  Most of the efficiency changes I need to make are due to Matrix computation being much faster than normal.  The second Mathematica issue is that they are very courteous to different programming styles - the progam accomodates functional, procedural, object-oriented, and rule-based programming.  You would think this is a bonus because you can program in any way you want, but some algorithms are faster in one language than others.
+
+Of course, not everything surfaces in fun coding projects - the next thing on my list of things to do is homework for my tortuous class, Theory of Matrix Computation.  The class is teaching me lots of material, but the tests seem overly complex to me - the same kinds of questions that are on the homework and take hours to do are only part of the test.  The tests also seem very much weighted toward the problems which I deem impossible to solve when I glance at them normally.   These problems are normal for a hard class - the big beef I am having with the class is that there never fails to be a set of questions that have never been introduced in class, practice tests or homework and are worth 20% or more of the test.  I can't complain though, because even if I completely fail the course I will have what can be consider a decent GPA.
+
+I really want to buy myself a new bed for christmas.   I really want to watch some of the DVDs I have waiting for me.  I really want to start coding on the research project I'm working on.  All the things I want to do, I can't because it's the end of the semester.  Time to get back to grading.

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 182
+layout: post
+title: Labor Day 2006 Day 2
+excerpt: |-
+  <div class="serendipity_imageComment_center" style="width: 640px;">
+  <div class="serendipity_imageComment_img"><!--s9ymdb:3--><img src="/wp-content/uploads/laborday06-3.jpg" alt="" width="640" height="480" /></div>
+  <div class="serendipity_imageComment_txt">We went to the beach, near park point.  It was nice.</div>
+  </div>
+date: 2006-09-04 09:03:28 -05:00
+tags: play, live-journal, planet-debian, holiday, labor-day
+---
+<div class="serendipity_imageComment_center" style="width: 640px;">
+<div class="serendipity_imageComment_img"><!--s9ymdb:3--><img src="/wp-content/uploads/laborday06-3.jpg" alt="" width="640" height="480" /></div>
+<div class="serendipity_imageComment_txt">We went to the beach, near park point.  It was nice.</div>
+</div>

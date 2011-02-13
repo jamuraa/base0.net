@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 168
+layout: post
+title: Go Go Gadget Vacuum
+excerpt: The gift which I bought Di last week came this Thursday - a <a href="http://irobot.com/sp.cfm?pageid=122"  title="iRobot Roomba Sage">iRobot Roomba Sage</a>.  So far we have ran it about 4 times - the first three times it's bin filled up completely, today when it was finished it wasn't even half full.  The robot is really maddening to watch, because the pseudo-random walk that it uses doesn't seem like it is covering the floor that well.
+date: 2006-06-10 19:01:47 -05:00
+tags: hack
+---
+The gift which I bought Di last week came this Thursday - a <a title="iRobot Roomba Sage" href="http://irobot.com/sp.cfm?pageid=122">iRobot Roomba Sage</a>.  So far we have ran it about 4 times - the first three times it's bin filled up completely, today when it was finished it wasn't even half full.  The robot is really maddening to watch, because the pseudo-random walk that it uses doesn't seem like it is covering the floor that well.  The roboticist in me knows better though, and the proof is in the particle-free floor which our apartment is now sporting.
+
+It's not to say that there is no setup before turning the Roomba on - you need to clean up the floors just as you would for any low-powered vacuum, picking up pieces of deitrius which will not be picked up.  The Roomba doesn't deal well with the type of rugs which we have in apartment either, so those need to be picked up and placed somewhere while it's running.   After these steps, it's just turning it on and waiting basically.  It easily gets to the 3 rooms which we have it vacuuming in (living room w/attached kitchen, bedroom, bathroom) multiple times in one cleaning cycle, but our apartment is not that large.  After it's done you need to empty the bin and clean the brushes of hair and other debris, which takes about 2 minutes.  All told I would say that using it takes about 10 minutes total interactive time.
+
+Other than that, this week has been pretty dull actually, work and more work.  Completed some code for Marsupial <a href="http://playerstage.sf.net">Player/Stage</a> but it doesn't quite work the way I want yet.  Monday went out with Di to look at couches and found a great table for the dining area.  You can see pictures of it on my <a title="Jamuraa's Flickr Page" href="http://www.flickr.com/photos/jamuraa/">flickr page</a>.
+
+I need to install a backup system which works on Windows, OS X and Linux on the server machine, and figure out a network file system which works with all of them as well.  I'm fairly sure that I am going to use Samba as the file serving capabilities.   The machine has been rock-solid stable since the removal of the <a title="D-Link DWL-G520 Product Page" href="http://www.dlink.com/products/?pid=12">DWL-G520</a> which was providing network for it before the upgrade to a wireless bridge.  I suspect that the <a title="Madwifi Atheros Drivers" href="http://madwifi.org/">madwifi</a> drivers were not playing well with the amd64 architecture.

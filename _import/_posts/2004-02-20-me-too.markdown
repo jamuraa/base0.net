@@ -1,0 +1,394 @@
+--- 
+wordpress_id: 22
+layout: post
+title: Me too!
+excerpt: "<pre><table BORDER=0 STYLE=\"width: auto\" CELLSPACING=0 CELLPADDING=0><tr><td BGCOLOR=\"#FFFFFF\" STYLE=\"padding: 0px\"><table BORDER=0 STYLE=\"margin: 0px\"><tr><td STYLE=\"padding: 0px\"><table border=0 CELLSPACING=0 CELLPADDING=0 STYLE=\"margin: 0px\"><tr><td STYLE=\"padding: 0px; text-align: right; width: 140px\"><b><a target=\"_new\" HREF=\"http://www.livejournal.com/users/jwendl/\"><font FACE=\"Verdana\" SIZE=\"1\" COLOR=\"#0033CC\">jwendl</font></a></b></td><td STYLE=\"padding: 0px; width: 20px\"></td><td STYLE=\"padding: 0px; text-align: right; width: 40px\"><font FACE=\"Verdana\" SIZE=\"1\" COLOR=\"#000000\"><b>91%<"
+date: 2004-02-20 07:24:00 -06:00
+tags: play, meme, livejournal
+---
+<pre>
+<table style="width: auto" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px" bgcolor="#FFFFFF">
+<table style="margin: 0px" border="0">
+<tbody>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/jwendl/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">jwendl</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>91%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 182px" bgcolor="#468CDB"></td>
+<td style="padding: 0px; width: 38px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/sugarbeet/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">sugarbeet</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>91%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 182px" bgcolor="#468CDB"></td>
+<td style="padding: 0px; width: 38px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/zedd/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">zedd</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>91%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 182px" bgcolor="#468CDB"></td>
+<td style="padding: 0px; width: 38px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/amagdalyn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">amagdalyn</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>90%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 180px" bgcolor="#4690DA"></td>
+<td style="padding: 0px; width: 40px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/joceiphus/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">joceiphus</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>90%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 180px" bgcolor="#4690DA"></td>
+<td style="padding: 0px; width: 40px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/silvrayn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">silvrayn</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>80%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 160px" bgcolor="#46B5C7"></td>
+<td style="padding: 0px; width: 60px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/kitchenwitch/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">kitchenwitch</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>76%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 152px" bgcolor="#46C3C0"></td>
+<td style="padding: 0px; width: 68px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/gunn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">gunn</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>69%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 138px" bgcolor="#46DDB3"></td>
+<td style="padding: 0px; width: 82px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/pinkscotch/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">pinkscotch</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>69%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 138px" bgcolor="#46DDB3"></td>
+<td style="padding: 0px; width: 82px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/skarletbeg0nias/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">skarletbeg0nias</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>54%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 108px" bgcolor="#ADE846"></td>
+<td style="padding: 0px; width: 112px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/adrianne/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">adrianne</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>50%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 100px" bgcolor="#B5DA46"></td>
+<td style="padding: 0px; width: 120px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px; text-align: center" colspan="6" align="center" bgcolor="#FFFFFF"><strong><a href="http://www.ljmatch.com/index.php?r=ezInRELJSVJdZc3EJ+g3Lu2d75N3mxe2" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;"><span style="text-decoration: underline;">How compatible with me are YOU?</span></span></a></strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</pre>
+<pre>
+<table style="width: auto" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px" bgcolor="#FFFFFF">
+<table style="margin: 0px" border="0">
+<tbody>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/kitchenwitch/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">kitchenwitch</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>41%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 82px" bgcolor="#6400BF"></td>
+<td style="padding: 0px; width: 138px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/skarletbeg0nias/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">skarletbeg0nias</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>37%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 74px" bgcolor="#6400C5"></td>
+<td style="padding: 0px; width: 146px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/amagdalyn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">amagdalyn</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>37%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 74px" bgcolor="#6400C5"></td>
+<td style="padding: 0px; width: 146px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/adrianne/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">adrianne</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>36%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 72px" bgcolor="#6400C7"></td>
+<td style="padding: 0px; width: 148px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/gunn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">gunn</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>29%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 58px" bgcolor="#6400D2"></td>
+<td style="padding: 0px; width: 162px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/joceiphus/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">joceiphus</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>4%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 8px" bgcolor="#6400F8"></td>
+<td style="padding: 0px; width: 212px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/sugarbeet/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">sugarbeet</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>0%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 0px" bgcolor="#6400FF"></td>
+<td style="padding: 0px; width: 220px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px">
+<table style="margin: 0px" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: right; width: 140px"><strong><a href="http://www.livejournal.com/users/jwendl/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">jwendl</span></a></strong></td>
+<td style="padding: 0px; width: 20px"></td>
+<td style="padding: 0px; text-align: right; width: 40px"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>0%</strong></span></td>
+<td style="padding: 0px; width: 5px"></td>
+<td style="padding: 0px; width: 0px" bgcolor="#6400FF"></td>
+<td style="padding: 0px; width: 220px" bgcolor="white"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px; text-align: center" colspan="6" align="center" bgcolor="#FFFFFF"><strong><a href="http://www.ljmatch.com/index.php?r=ezInRELJSVJdZc3EJ+g3Lu2d75N3mxe2&amp;goto=sextest_list" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;"><span style="text-decoration: underline;">How sexually compatible with me are you?
+Take the NEW sexual compatibility quiz at LJMatch!</span></span></a></strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</pre>
+<table style="width: auto" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px" bgcolor="#FFFFFF">
+<table style="margin: 0px" border="0">
+<tbody>
+<tr>
+<td style="padding: 2px; text-align: center;" colspan="2" align="center"><span style="font-family: Verdana; color: #000000; font-size: x-small;"><strong>jamuraa's LiveJournal Friend Stats I</strong></span></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Biggest digital packrat:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/gunn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">gunn</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Most easily-distracted:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/miss_jones/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">miss_jones</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Most friendly:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/sugarbeet/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">sugarbeet</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Most popular:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/gunn/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">gunn</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Most communities:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/adrianne/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">adrianne</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Oldest on LJ:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/adrianne/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">adrianne</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: right; width: 200px" align="right"><span style="font-family: Verdana; color: #000000; font-size: xx-small;"><strong>Newest to LJ:</strong></span></td>
+<td style="padding: 2px; text-align: left; width: 200px" align="left"><strong><a href="http://www.livejournal.com/users/want_a_be/" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">want_a_be</span></a></strong></td>
+</tr>
+<tr>
+<td style="padding: 2px; text-align: center;" colspan="2" align="center"><strong><a href="http://www.ljmatch.com/index.php?r=ezInRELJSVJdZc3EJ+g3Lu2d75N3mxe2&amp;goto=stats_list" target="_new"><span style="font-family: Verdana; color: #0033cc; font-size: xx-small;">What Are YOUR LiveJournal Friend Stats?</span></a></strong>
+<span style="font-family: Verdana; color: #000000; font-size: xx-small;">(Beta - May be slow for those with large friends lists)</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

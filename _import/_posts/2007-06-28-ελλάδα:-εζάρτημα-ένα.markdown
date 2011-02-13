@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 210
+layout: post
+title: !binary |
+  zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM6tzr3OsQ==
+
+excerpt: |-
+  Well, I arrived yesterday at Eleftherios Venizelos airport around 4:30pm.  I finally found some power at the Madrid Barajas airport next to some nice chairs, and plugged in, I didn't have any problems.  I'm still surprised how few are available.  The only thing I can figure is that most people don't use the power too much when on vacation.  After arriving in Athens, I took the metro to a station close to my Hotel, the Filoxenia after getting some cash.
+  
+  The hotel is cheap.  Very cheap.
+date: 2007-06-28 01:04:35 -05:00
+tags: "play, learn, live-journal, planet-debian, food, airports, conferences, power, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, hotels"
+---
+Well, I arrived yesterday at Eleftherios Venizelos airport around 4:30pm.  I finally found some power at the Madrid Barajas airport next to some nice chairs, and plugged in, I didn't have any problems.  I'm still surprised how few are available.  The only thing I can figure is that most people don't use the power too much when on vacation.  After arriving in Athens, I took the metro to a station close to my Hotel, the Filoxenia after getting some cash.
+
+The hotel is cheap.  Very cheap.  Granted, when you pay 35€ a night, you can't expect too much, but there isn't even an alarm clock in the room, and the shower isn't really a shower as much as a bath with a convenient shower handle.  The power for the room is completely off when you are not in the room, probably to keep people from running the AC all day.  The one small favor that this room has is that - the AC works well, cooling the place to a chilly 68 when it's left on for long enough.  Otherwise, the room is basically a place to sleep and clean yourself.   The owner expected me to bring my reservation, which I hadn't thought of because everywhere else I have been the reservation was handled by verifying who the person was who made the reservation, and then having them pay.
+
+After getting to my room and dropping off my stuff, Hyeun and I took a walk outside to find some food.  We eventually went to a place recommended by the owner of the hotel - they had menus in english, and recognized us as tourists pretty quickly.  I had a large σουβλάκι (Souvlaki), which was actually very good even with the tomatoes and lettuce.  When supper was over, it was time to take the task of finding a charger (which I learned the greek word for: φορτισή) and SIM card for my phone so that calling home wouldn't cost me $1.40 a minute, and also finding the best way to get to the conference hotel.
+
+There was a internet cafe just across Αχαρνον that had reasonable rates, so we went there for some precious connectivity.  I couldn't plug in or log on to the wireless there, so I had to use one of the computers.  I am always wary when using someone else's computer to log on to the internet, especially so when I am trying to check my own email and do things that I wouldn't want some random person to go to.  I also couldn't use my USB drive which has secure pocket versions of Firefox and the like.  After the net surfing session we walked back to the hotel, and on the way I found a cell shop that I was able to buy a SIM card and charger at.   They don't speak English there, but they were very helpful and I was happy that they were friendly with me standing there very confused and patient when I was trying to find the greek words for things.
+
+After we got back to the Filoxenia, we sat in the lobby while I tried to show Hyeun how to use the SIM card.  Unfortunately I had forgotten to call T-mobile back after I put in my request to unlock my phone, so I had to call them back (at high prices) in order to unlock the phone and use the new SIM card.  When I was done with them, I put the new SIM card in and tried to call someone, but the service started talking to me in Greek, so I was confused.  The manual that came with the SIM card was only in Greek and I couldn't seem to get anyone but this Greek voice when I dialed.  After a short trip back to the Internet Cafe to read instructions in English at the <a href="http://www.cosmote.gr/cosmote/cosmote.portal?locale=en_US&amp;_nfpb=true&amp;_pageLabel=L88_for_you_index&amp;path=&amp;_locale=en_US&amp;selectEnglishLanguage=true">Cosmote]</a> website, I learned that I was just not patient enough - if I waited for the Greek to stop, it would talk to me shortly in English (telling me to dial 1313 for English support) and then connect my call.  I assume it was just explaining the legal ramifications of using their cell network or something.
+
+I was able to call home after that, and talk to Diana for a short time before the minutes that came on the SIM card were used up.  It was time for sleep then, and I was completely jet lagged and tired, so I slept from ~10pm to 6am when we were meant to meet in the breakfast area before going to the conference.
+
+Having got my bearings when going to the Filoxenia, finding Victoria (Βικτορια) station was pretty easy, and the ticket machine was simple and cheap for a single trip, only 0,80€.  I'm at the conference now, where English is the <a href="http://en.wikipedia.org/wiki/Lingua_franca">lingua franca</a>.

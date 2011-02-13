@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 659
+layout: post
+title: "Cullect.com: Part 1 - Importance (and Google's Magic)"
+date: 2010-02-11 00:40:47 -06:00
+tags: life, think
+wordpress_url: http://base0.net/?p=659
+---
+This is a series of posts that I've been meaning to write about the site Cullect.com, which is currently on "extended hiatus".  For those of you that don't know about cullect, it was an interesting beast of a website developed by <a href="http://garrickvanburen.com/">Garrick Van Buren</a>, a local developer.  It was plagued by downtime near the end of it's life, and I think it was right to take it down for a while and work on it.  Garrick may have abandoned it for now, but I'd like to explain some of it's features, because they are innovations which I wish I would see more of the aggregators take a look at.   It was one of the few feed readers out there which had some real innovation under it's hood, and I was thrilled to be using it.
+
+The first of these features, and the one which was most visible and that I want the most, was the way that it made reading a lot of feeds a trivial task.  This was because it included a recommendation system that would rank the stories that you hadn't hidden (which is somewhat, but not exactly analagous to "read", a topic I'll take on in a later post).   It used the fact that you liked some feeds better than others to put those at the top.  I don't know the whole algorithm, but there was a hidden social aspect as well - if some other people "recommended" the story, then it would get more importance.   This was brilliant, because you could spend ANY amount of time looking through your feeds, sorted by importance, and be sure that you weren't missing the big story of the day.   When you got bored with the stories, you would just leave, knowing that you wouldn't be missing anything that was more important.
+
+Some other aggregators would like you to think that they have something similar, sorting by something like times recommended, or amount of comments, or votes, but they are not the same.  Importance score was tailored to each post, and to each Cullection (a set of feeds).   This made it personalized to you, and presented the things that YOU wanted the most.   Unfortunately, I think that one of the reasons Cullect ended up shutting down was because recalculating all of the importance scores was very CPU consuming, and it was taking too many resources.
+
+Since the takedown of Cullect, I've been using Google reader as a passable replacement.  Recently (as in, like the last year?) they added a bunch of new features, including "liking" a story, sharing stories with friends (another thing which Cullect excelled at), and "Sort by magic".  It's not exactly the same as sorting by Importance I am sure, but it is the most likely the closest thing out there.   It seems to have a little more in common with the "popularity" indices that other aggregators are using, but I was happy to see something at lease somewhat similar show up in the reader that I ended up using as a replacement.    Still, I hope that Cullect can come back in some form in the future, as it was hands down the best reader that I had ever used.  That's not to say that there weren't problems with the site, though.  I'll cover some of it's disconnects in part 2.
+
+Garrick is still making cool new properties.  I'm using <a href="http://kernest.com">kernest</a> on this site to get fonts that I like out to every modern browser with little effort.

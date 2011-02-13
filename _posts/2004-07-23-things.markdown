@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 91
+layout: post
+title: Things
+date: 2004-07-23 16:20:15 -05:00
+tags: think, learn
+---
+Things I can control:
+<ul>
+	<li>Caloric intake</li>
+	<li>TV habits</li>
+	<li>Keeping in touch with people</li>
+	<li>Posting of Homeworks</li>
+	<li>Movies I see</li>
+	<li>Upkeep of Debian  packages</li>
+	<li>Spending</li>
+</ul>
+Things I can't control:
+<ul>
+	<li>Other's feelings</li>
+	<li>Annoying people</li>
+	<li>The price of objects</li>
+	<li>Financial penalties</li>
+	<li>Liars</li>
+	<li>Employers</li>
+</ul>
+So, why am I focusing on the second list?

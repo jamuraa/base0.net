@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 146
+layout: post
+title: Amazing
+date: 2005-11-27 12:23:58 -06:00
+tags: play, think, meme
+---
+I was actually very surprised, that this changed - I used to be worth nothing.  I wonder what changed?
+<div style="border: 1px solid #cccccc; background-color: white; width: 115px; text-align: center; padding: 0 0 10px 0;">
+<p style="margin: 0;"><img style="border: 0;" src="http://static.flickr.com/23/25822676_789bf55448_t.jpg" alt="" />
+<span style="font-size: 11px;">My <a href="http://base0.net">blog</a> is worth <strong>$5,645.40</strong>.</span>
+<span style="font-size: 10px;"><a href="http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/">How much is your blog worth?</a></span></p>
+<a style="border: 0px;" href="http://www.technorati.com/"><img style="border: 0px;" src="http://technorati.com/pix/tech-logo-embed.gif" alt="" /></a>
+
+</div>

@@ -1,0 +1,135 @@
+--- 
+wordpress_id: 141
+layout: post
+title: Meme time
+date: 2005-09-05 08:56:15 -05:00
+tags: play, meme
+---
+<img src="http://images.quizfarm.com/1110084125questionmark.jpg" alt="question mark" />
+You scored as <strong>agnosticism</strong>. You are an agnostic. Though it is generally taken that agnostics neither believe nor disbelieve in God, it is possible to be a theist or atheist in addition to an agnostic. Agnostics don't believe it is possible to prove the existence of God (nor lack thereof).
+
+Agnosticism is a philosophy that God's existence cannot be proven. Some say it is possible to be agnostic and follow a religion; however, one cannot be a devout believer if he or she does not truly believe.
+(Bar graphs folllow)
+<table border="0" cellspacing="0" cellpadding="0" width="300">
+<tbody>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">agnosticism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="75" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">75%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Islam</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="63" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">63%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Judaism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="58" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">58%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Buddhism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="54" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">54%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Satanism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="54" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">54%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">atheism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="38" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">38%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Paganism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="33" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">33%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Christianity</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="29" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">29%</span></td>
+</tr>
+<tr>
+<td><span style="font-family: Arial; font-size: xx-small;">Hinduism</span></td>
+<td>
+<table border="1" cellspacing="0" cellpadding="0" width="21" bgcolor="#dddddd">
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><span style="font-family: Arial; font-size: xx-small;">21%</span></td>
+</tr>
+</tbody>
+</table>
+<a href="http://quizfarm.com/test.php?q_id=10907">Which religion is the right one for you? (new version)</a>
+<span style="font-family: Arial; font-size: xx-small;">created with <a href="http://quizfarm.com">QuizFarm.com</a></span>
