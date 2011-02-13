@@ -1,0 +1,26 @@
+!!! 5
+%html
+  %head
+    %title {{ page.title }}
+    %meta{:name => "author", :content => "Michael Janssen"}/
+    %meta{"http-equiv" => "Content-Type", :content => "text/html; charset=UTF-8"}/
+    %link{:rel => "stylesheet", :href => "/css/screen.css", :type => "text/css", :media => "screen, projection"}/
+    %link{:rel => "stylesheet", :href => "http://kernest.com/base0-net.css", :type => "text/css", :media => "screen, projection"}/
+
+  %body
+    #wrapper
+      #header
+        %a{:href => "/"}
+          %img{:src => "/images/logo.png"}/
+        In Transition
+      #content {{ content }}
+      #footer
+        .myinfo
+          base0.net is all copyright 2004-2011 Michael Janssen
+        .sites
+          github
+          twitter
+          flickr
+        .rss
+          rss
+

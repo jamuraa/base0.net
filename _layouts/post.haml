@@ -1,0 +1,18 @@
+---
+layout: default
+---
+.post
+  %h2 {{ page.title }}
+  .date {{ page.date }}
+  .entry {{ content }}
+  .comments {% include disqus_embed.html %}
+
+.related
+  %h2 Related Posts
+  %ul.posts
+    {% for post in site.related_posts limit:3 %}
+    %li
+      %span {{ post.date | date_to_string }}
+      &raquo;
+      %a{:href => "{{ post.url }}"} {{ post.title }}
+    {% endfor %}
