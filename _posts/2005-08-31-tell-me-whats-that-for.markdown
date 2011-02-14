@@ -3,7 +3,7 @@
 layout: post
 title: Tell me what's that for..
 date: 2005-08-31 01:02:49 -05:00
-tags: work-life, hack
+tags: [work-life, hack]
 ---
 <h4>SCM tools</h4>
 There has been a lot of talk on <a href="http://planet.debian.org">Planet Debian</a> about SCM tools recently.  Lately I've been leaning toward using bzr for source control, although cdv is looking nice too (and not just because I help maintain it).  I really believe that cdv is trying to solve the underlying problem which is part of all of these systems: ambiguous merging.  Most traffic I've seen on the developer list have been <a href="http://www.livejournal.com/users/bramcohen/">bram</a> conversing on common lists about solving three-way merges automatically.   That said, it requires a standalone server for distributed work, which I think will be it's downfall.  Noone wants to run a server when almost every other new system out there works automatically with any web server you can get your hands on.   For now, bzr seems like it's being actively developed.  Given the amazing array of systems out there now, I suspect tools like tailor will be the most important ones.   Everyone choose your own, and then work things out from there.

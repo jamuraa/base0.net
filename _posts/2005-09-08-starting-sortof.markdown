@@ -3,7 +3,7 @@
 layout: post
 title: Starting, sortof
 date: 2005-09-08 20:38:21 -05:00
-tags: think, work-life
+tags: [think, work-life]
 ---
 <h4>Moving</h4>
 The moving is finally almost done.  We have a problem with the amount of shelving space that we have now - we switched a couple of the shelves and some of them aren't setup yet, so we have a couple of boxes of books which are not unpacked because we don't have shelf space.  Other than that we have everything unpacked, although it's somewhat unorgnaized.

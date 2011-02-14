@@ -3,7 +3,7 @@
 layout: post
 title: Tuesdays have a new name
 date: 2004-08-04 14:32:37 -05:00
-tags: play
+tags: [play]
 ---
 Tuesdays have now become my TV night.  I currently watch the lineup of Gilmore Girls, Last Comic Standing, Amazing Race, Friends, Dharma &amp; Greg, and sometimes Drew Carey.  This makes it hard to get other things done like anything.  My favorite show of the lineup is by far Amazing Race.  THIS is a reality show I can stand to watch - a race around the world.
 

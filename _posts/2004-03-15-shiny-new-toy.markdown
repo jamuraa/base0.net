@@ -3,7 +3,7 @@
 layout: post
 title: SHINY. NEW. TOY.
 date: 2004-03-15 22:16:00 -06:00
-tags: play
+tags: [play]
 ---
 This weekend was fun.  Friday I went out for bad food at McDonalds with <a href="http://amagdalyn.livejournal.com">amagdalyn</a> and <a href="http://th0rny.livejournal.com">th0rny</a> and we went to satisfy my shiny new toy urge.  That's right, I went and bought a 12" iBook.  I got it new from the Apple Store in the MOA with an AirPort card, 640MB of Memory, and the 3 years of service for around $1500.  I'll be paying it off for the next half a year at least I figure, but surprisingly, the interest rate on one of my credit cards was less than the rate on their dumb little instant loan.
 

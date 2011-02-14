@@ -7,7 +7,7 @@ excerpt: |-
   
   Tested for my license twice and passed on the second try, getting a large yellow sheet of paper which worked as a license until I received mine in the mail.  Why they don't just print out the license on the spot is beyond me, almost every other state and university on the planet prints them off while you wait.
 date: 2004-07-07 11:09:00 -05:00
-tags: play, learn
+tags: [play, learn]
 ---
 The last few weeks have gone by in what serems like a breeze.  Let me see if I can sum up the events in my life between now and then:
 

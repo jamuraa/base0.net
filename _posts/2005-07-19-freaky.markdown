@@ -7,7 +7,7 @@ excerpt: |-
   
   <p><a href="http://www.tk421.net/character/"><img src="http://www.tk421.net/character/harry.jpg" width="187" height="308" style="border-color:#f8f8ff;" border="2" alt="Which Fantasy/SciFi Character Are You?" /></a></p>
 date: 2005-07-19 08:36:25 -05:00
-tags: play, meme
+tags: [play, meme]
 ---
 And I just finished reading the book...
 

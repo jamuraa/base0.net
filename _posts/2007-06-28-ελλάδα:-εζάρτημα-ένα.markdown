@@ -9,7 +9,7 @@ excerpt: |-
   
   The hotel is cheap.  Very cheap.
 date: 2007-06-28 01:04:35 -05:00
-tags: "play, learn, live-journal, planet-debian, food, airports, conferences, power, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, hotels"
+tags: ["play, learn, live-journal, planet-debian, food, airports, conferences, power, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, hotels"]
 ---
 Well, I arrived yesterday at Eleftherios Venizelos airport around 4:30pm.  I finally found some power at the Madrid Barajas airport next to some nice chairs, and plugged in, I didn't have any problems.  I'm still surprised how few are available.  The only thing I can figure is that most people don't use the power too much when on vacation.  After arriving in Athens, I took the metro to a station close to my Hotel, the Filoxenia after getting some cash.
 

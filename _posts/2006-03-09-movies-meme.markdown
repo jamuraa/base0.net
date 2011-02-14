@@ -3,7 +3,7 @@
 layout: post
 title: Movies Meme
 date: 2006-03-09 07:32:50 -06:00
-tags: play, meme
+tags: [play, meme]
 ---
 <form action="http://www.obeythefist.com/movies/index.php?list=" method="post">
 <table class="movie" border="0" width="480" align="center">

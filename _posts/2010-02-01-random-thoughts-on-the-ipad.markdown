@@ -3,7 +3,7 @@
 layout: post
 title: Random thoughts on the iPad
 date: 2010-02-01 01:11:53 -06:00
-tags: think, ipad, ramblings
+tags: [think, ipad, ramblings]
 wordpress_url: http://base0.net/?p=656
 ---
 If there is one thing that has caused quite the stir, it's the announcement of the iPad last Wednesday. Everyone seems to have an opinion, and of course I have mine as well.  Apple fans are saying that it will change the paradigm of computing, including splitting people into two worlds.  There are of course a lot of grey areas here.  People are tying major issues to the lack of flash, which isn't really a big deal if you ask me.  Eventually Flash was bound to fall, because it's a closed system at it's core.  You can make some Flash things without Adobe, but they can always change the game on you.  Of course, the Apple App store is just as closed as Flash.  You can't put anything on the iPad without the magic bits from Apple saying that it's kosher.  There are already a bunch of invalid reasons that they have for rejecting apps, including the very anti-competitive practices of rejecting anything which will be competing against their own apps.  Will they reject word processors for the iPad which compete with iWork?  How close does something need to be in order to be rejected - will OmniGraffle's outline making tools be too close?

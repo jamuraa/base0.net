@@ -3,7 +3,7 @@
 layout: post
 title: Birthday Craziness
 date: 2005-04-26 22:22:05 -05:00
-tags: life, think
+tags: [life, think]
 ---
 <h3>Quarter of a Century</h3>
 I've officially been alive for a quarter of a century now.  Actually, I've been in this state since the 12th, but I was eith lazy or insanely busy since then.  I didn't do anything all that special - just went out to eat.  I got a couple of <a href="http://www.thinkgeek.com/tshirts/generic/724a/">cool</a> <a href="http://www.thinkgeek.com/stuff/41/05shirt.shtml">shirts</a> from my sweetie.  I don't feel any different than I did before 25 of course, but I suppose it's a milestone of some sort.  I expect the 30 mark will hit heavier on me, but then again I hope to be doing something entirely different when I hit 30.

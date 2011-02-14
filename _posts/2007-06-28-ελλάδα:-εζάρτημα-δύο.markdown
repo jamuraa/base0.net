@@ -6,7 +6,7 @@ title: !binary |
 
 excerpt: "It was a fairly uneventful day at the conference today, with quite a few talks on robotics, and working on my presentation for Friday.  The conference hotel is large and fancy, reminding me why we didn't stay there (it is &gt;100\xE2\x82\xAC a night).  There was some confusion at registration, because I was using Nikos' registration, with him not using it much at all."
 date: 2007-06-28 01:16:59 -05:00
-tags: "play, think, learn, live-journal, planet-debian, conferences, greece, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, connectedness"
+tags: ["play, think, learn, live-journal, planet-debian, conferences, greece, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, connectedness"]
 ---
 It was a fairly uneventful day at the conference today, with quite a few talks on robotics, and working on my presentation for Friday.  The conference hotel is large and fancy, reminding me why we didn't stay there (it is &gt;100€ a night).  There was some confusion at registration, because I was using Nikos' registration, with him not using it much at all.  There was one very interesting talk about robots with switching batteries, and some other interesting talks about mapping, although it was all grid-based mapping which is not as much in use anymore (although <a href="http://playerstage.sf.net">Stage</a> uses a grid-based map).  The conference had precious power and free internet, so I got to bring you the prelude (προοίμιο) of these posts there, and as it is free, I believe that I will be making all of my posts from there.
 

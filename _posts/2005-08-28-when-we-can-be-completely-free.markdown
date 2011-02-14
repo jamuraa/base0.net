@@ -3,7 +3,7 @@
 layout: post
 title: When we can be completely free..
 date: 2005-08-28 16:01:22 -05:00
-tags: play
+tags: [play]
 ---
 <h4>Maintenance</h4>
 Did the maintenance on the car a while back.   It went pretty much exactly as described in the many webpages I looked up beforehand.  I changed the oil and oil filter, air filter, and wiper blades.  For some reason, one of the old wiper blades was shorter than the other.   I would have rotated the tires as well, but I couldn't find jack stands (2 separate stores) so I got ramps instead.  Maybe I can borrow someone's jack and jack stands and rotate the tires - beats paying $30 to get it done for me.  Hell, for $30, I can buy the jack and jack stands when I find them.  Still need to schedule the other maintenance, I'll probably do that today.

@@ -4,7 +4,7 @@ layout: post
 title: Invisible Sharding and MTGO
 excerpt: "Lately I have been playing a lot of Magic: The Gathering.  While most people who play the game are content to go to a shop and play with paper cards, I'm much more geeky than that, and don't really have the time to go to a game store.  I play on the Magic Online.   I've detailed before how the server architecture of the Magic Online servers is not good - there is a single, monolithic server which is handling most of the game functions which users take part in."
 date: 2008-02-03 16:34:18 -06:00
-tags: think, hack, mtgo, servers, networking
+tags: [think, hack, mtgo, servers, networking]
 ---
 Lately I have been playing a lot of Magic: The Gathering.  While most people who play the game are content to go to a shop and play with paper cards, I'm much more geeky than that, and don't really have the time to go to a game store.  I play on the Magic Online.   I've detailed before how the server architecture of the Magic Online servers is not good - there is a single, monolithic server which is handling most of the game functions which users take part in.   Because of this horrible server architecture, Wizards of the Coast decided to make a new version, throwing out the code base that they had before.  While this is not necessarily a good idea, I understand why they did it.
 

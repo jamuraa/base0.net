@@ -3,7 +3,7 @@
 layout: post
 title: "Movie: Dodgeball"
 date: 2004-07-21 09:32:44 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 <table>
 <tbody>

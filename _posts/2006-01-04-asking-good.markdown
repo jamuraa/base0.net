@@ -3,7 +3,7 @@
 layout: post
 title: Asking = good
 date: 2006-01-04 06:54:34 -06:00
-tags: think
+tags: [think]
 ---
 I have noticed a new trend in my shopping habits lately:  I will ask for help from a "sales associate" much faster than I did previously.  This could be a product of the instant-gratification culture, but I really don't have much patience with floundering around a store trying to find what I need, especially if I have done all of my research earlier and show up at a store with just one thing in mind.  I will go to great lengths to find a live person because even if I spend 3-5 minutes trying to find help, they will most likely be able to help me right away.  That said, I won't just grab the first employee that I see in the store, I will actually make a reaosnable effort at finding the item first.  After getting help, I can look at my handy palm pilot and see if there's anything else in the store that I need.
 

@@ -6,7 +6,7 @@ excerpt: |-
   <img src="http://images.quizilla.com/L/littlelilly/1078119160_akandspell.jpg" border="0" alt="speak and spell"><br />You&apos;re a Speak & Spell!!  You nerd, you.  Just<br />because you were disguised as a toy doesn&apos;t<br />mean you weren&apos;t educational, you sneaky<br />bastard.
   <br /><br /><a href="http://quizilla.com/users/littlelilly/quizzes/What%20childhood%20toy%20from%20the%2080s%20are%20you%3F%20/"><font size="-1">What childhood toy from the 80s are you? </font></a><br /><font size="-3">brought to you by <a href="http://quizilla.com">Quizilla</a></font>
 date: 2004-05-25 14:03:00 -05:00
-tags: play, meme
+tags: [play, meme]
 ---
 <img src="http://images.quizilla.com/L/littlelilly/1078119160_akandspell.jpg" border="0" alt="speak and spell" />
 You're a Speak &amp; Spell!!  You nerd, you.  Just

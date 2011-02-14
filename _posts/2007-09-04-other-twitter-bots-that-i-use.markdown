@@ -7,7 +7,7 @@ excerpt: |-
   
   The first bot that I use is the bot at <a href="http://twitter.com/timer">timer</a>.
 date: 2007-09-04 23:19:45 -05:00
-tags: work-life, hack, live-journal, planet-debian, web, twitter, applications, bots, calendar
+tags: [work-life, hack, live-journal, planet-debian, web, twitter, applications, bots, calendar]
 ---
 Earlier this year I <a href="http://base0.net/archives/319-Dont-you-dun-dun-dun-da-dun-dun-forget-about-me.html">blogged</a> about using the <a href="http://twitter.com">twitter</a> bot for <a href="http://rmilk.com">Remember the Milk</a>.  I still use it fairly well, even though the SMS messages from the RTM come late a bit.  It's working for me in order to get a good chain going for the thesis proposal.  There are a couple other bots that I'm using which are on twitter as well.
 

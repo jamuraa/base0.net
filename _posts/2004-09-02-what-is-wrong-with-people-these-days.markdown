@@ -3,7 +3,7 @@
 layout: post
 title: What is wrong with people these days?
 date: 2004-09-02 16:38:59 -05:00
-tags: think
+tags: [think]
 ---
 I've been struck in the last few weeks with something that is baffling me.  The thing that really sparked this in my head was when I left Di's and my bike in front of her car in our new neighborhood.  They were not attached to anything, and I was pretty ansy about it, but after checking on them every couple of minutes for half an hour, I figured "wow, we live in a good neighborhood now".  No such luck.  Just after a walk, we came back to discover that her bike was stolen.   Just recently I moved into a new place (see post coming later), and of course I put my folding chair out on my porch.  Now, my new apartment is ground-level.  The placing of the chair on my porch was basically a test of the neighborhood to see how crappy it was.   The thing stayed there for near a week before, last night, it showed up missing.
 

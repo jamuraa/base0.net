@@ -8,7 +8,7 @@ excerpt: |-
   
   I went on opening day to see Fahrenheit 9/11 with Di.  It was a good thing that we bought our tickets online in advance, because it sold out almost every showing at the theater we went to - there was a line outside the door when we were leaving.  While I'm glad that lots of people are seeing this movie, I came out of it lukewarm.
 date: 2004-07-04 15:12:13 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 <em>Watched: 06/25/04 AMC Southdale 16</em>
 <strong>Score: 7</strong>

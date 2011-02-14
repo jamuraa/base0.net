@@ -6,7 +6,7 @@ excerpt: |-
   Saw <a href="http://www.imdb.com/title/tt0298148/">Shrek 2</a> last week.  The movie starts with the premise of meeting the
   inlaws, which always seems like a decent start to a comedy movie.  There are the requisite "I don't like you" from the father.  After a prescribed part of that, there is the main plot - Shrek feeling bad about not being good enough for Fiona.  Of course, at this point you can see where the movie will end up, but the writers make it worth your while to stay along for the journey.  It's a movie I'll have to see on DVD in order to catch all the jokes.
 date: 2004-05-24 07:54:00 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 Saw <a href="http://www.imdb.com/title/tt0298148/">Shrek 2</a> last week.  The movie starts with the premise of meeting the
 inlaws, which always seems like a decent start to a comedy movie.  There are the requisite "I don't like you" from the father.  After a prescribed part of that, there is the main plot - Shrek feeling bad about not being good enough for Fiona.  Of course, at this point you can see where the movie will end up, but the writers make it worth your while to stay along for the journey.  It's a movie I'll have to see on DVD in order to catch all the jokes.  Unfortunately some of them are topical, so don't look for them to make sense without context later in life.

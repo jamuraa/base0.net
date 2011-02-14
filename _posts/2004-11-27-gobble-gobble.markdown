@@ -4,7 +4,7 @@ layout: post
 title: Gobble Gobble
 excerpt: I spent time with family at thanksgiving this year.  A decent time was had by everyone, mostly eating and chatting about what was going on.   I ate way too much, but it's turkey day, what can you do? It was the first time I saw my grandfather for a very long time, actually since last christmas almost since I skipped easter this year.  He seems to be doing fairly well.   He's using a walker around his apartment complex now, and he seems to be getting around very well.
 date: 2004-11-27 21:07:06 -06:00
-tags: play, work-life
+tags: [play, work-life]
 ---
 I spent time with family at thanksgiving this year.  A decent time was had by everyone, mostly eating and chatting about what was going on.   I ate way too much, but it's turkey day, what can you do? It was the first time I saw my grandfather for a very long time, actually since last christmas almost since I skipped easter this year.  He seems to be doing fairly well.   He's using a walker around his apartment complex now, and he seems to be getting around very well.  I've wanted to know him better than I actually do, and I hope I get around to it soon.
 

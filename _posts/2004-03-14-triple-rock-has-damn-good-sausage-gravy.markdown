@@ -3,7 +3,7 @@
 layout: post
 title: Triple Rock has damn good sausage gravy.
 date: 2004-03-14 10:04:00 -06:00
-tags: play
+tags: [play]
 ---
 Okay so now I'm sitting at Triple Rock, typing this on my new  iBook (yay for new toys). We just ordered food and I'm at an  interesting policital discussion group with. Amy is talking  with Sarah's mom about her car.
 

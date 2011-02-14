@@ -3,7 +3,7 @@
 layout: post
 title: "Movie: Catwoman"
 date: 2004-08-14 19:13:49 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 <em>Brooklyn Park 20</em> 7/25/04 7:00pm
 <strong>Score: 6</strong>

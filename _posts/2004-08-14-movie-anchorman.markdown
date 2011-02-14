@@ -3,7 +3,7 @@
 layout: post
 title: "Movie: Anchorman"
 date: 2004-08-14 17:04:01 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 <table>
 <tbody>

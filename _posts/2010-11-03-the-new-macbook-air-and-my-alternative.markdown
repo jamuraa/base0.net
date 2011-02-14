@@ -3,7 +3,7 @@
 layout: post
 title: The new Macbook Air and my alternative
 date: 2010-11-03 22:12:48 -05:00
-tags: life, reviews, teach, think, hack, apple, macbook, laptop, comparison
+tags: [life, reviews, teach, think, hack, apple, macbook, laptop, comparison]
 wordpress_url: http://base0.net/?p=685
 ---
 I was actively avoiding watching the "Back to the Mac" event that happened recently, because I usually end up being non-productive when it is going around.  Apparently that was a good thing, because the event was super long and was boring for me until the end part.  I'm not interested in the Lion stuff because I don't run OS X anymore - and I didn't run it even when my MacBook was working.  At the end there was some new hardware though, which was very interesting to me.

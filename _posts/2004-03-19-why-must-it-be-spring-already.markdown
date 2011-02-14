@@ -3,7 +3,7 @@
 layout: post
 title: Why must it be spring already?
 date: 2004-03-19 12:35:00 -06:00
-tags: play, think
+tags: [play, think]
 ---
 Dear bike-stealers of last summer,
 

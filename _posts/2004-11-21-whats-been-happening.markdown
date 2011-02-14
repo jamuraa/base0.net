@@ -3,7 +3,7 @@
 layout: post
 title: What's been happening
 date: 2004-11-21 22:41:01 -06:00
-tags: teach, work-life, learn
+tags: [teach, work-life, learn]
 ---
 I've not been quite the busy blogging bee lately.  This is proabbly becuase of one of five things:
 <ul>

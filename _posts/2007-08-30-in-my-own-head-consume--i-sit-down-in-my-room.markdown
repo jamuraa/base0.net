@@ -10,7 +10,7 @@ excerpt: |-
   </ol>
   The first half of the schedule was easier than I thought it would be.
 date: 2007-08-30 07:06:42 -05:00
-tags: think, work-life, learn, live-journal, planet-debian, blog, phd, thesis, writing
+tags: [think, work-life, learn, live-journal, planet-debian, blog, phd, thesis, writing]
 ---
 Lately I have been tasked with a lot of writing to do.  I'm writing a chapter for a book on the field that my research is in, which is a good thing for me to get done, but I started it quite late.   I had to finish a 9,000-12,000 word chapter in 2 weeks.  Here's how I set it up:
 <ol>

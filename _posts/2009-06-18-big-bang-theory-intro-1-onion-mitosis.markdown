@@ -10,7 +10,7 @@ excerpt: |
   This is the first in a (hopefully) long series of posts in which I am attempting to identify all of the pictures in the opening credits of <a href="http://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</a>.   I've done some minor searching on the web for something of this nature but haven't found anything, and I'm always wondering what the heck all of those pictures flying by in the second half of the intro are actually.   I've decided to start at the beginning, mostly because the pictures will be easier to identify.
 
 date: 2009-06-18 03:12:28 -05:00
-tags: play, learn, tv, big-bang-theory-pictures, big-bang-theory-opening
+tags: [play, learn, tv, big-bang-theory-pictures, big-bang-theory-opening]
 ---
 The first picture in the Big Bang Theory Opening after the initial 3D universe expanding is very recognizable by lots of people, even though they might not know what it actually is:
 <img src="/wp-content/uploads/images/tbbt/large_00000180.png" alt="large_00000180.png" width="180" height="180" />

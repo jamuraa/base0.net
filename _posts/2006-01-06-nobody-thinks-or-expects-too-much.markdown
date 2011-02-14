@@ -3,7 +3,7 @@
 layout: post
 title: "nobody thinks or expects too much "
 date: 2006-01-06 06:39:32 -06:00
-tags: think, hack
+tags: [think, hack]
 ---
 Today is a bunch of quickies about random stuff.
 <h3>Sleeping..</h3>

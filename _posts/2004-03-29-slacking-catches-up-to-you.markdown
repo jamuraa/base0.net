@@ -3,7 +3,7 @@
 layout: post
 title: Slacking catches up to you
 date: 2004-03-29 07:07:00 -06:00
-tags: play, hack
+tags: [play, hack]
 ---
 Wow, a whole week without a post.  Not surprising from me, I suppose.  Last week was fairly normal, except for the fact that I had a bunch of homework and midterms to get done, so I was a busy bee and couldn't do too much of my normal fare, which is highly based on laziness.  Of course, it was the week after spring break, so it seems like it was a lot busier than it actually was, and in retrospect, I should have done a bunch of this stuff during the break.  Oh well.
 

@@ -9,7 +9,7 @@ excerpt: |-
   <td style="background: white; color: black; padding: 5px;" colspan="2"><strong style="font: bold 20px 'Times New Roman', serif; display: block; margin-bottom: 8px;">What American accent do you have?</strong>
   <div style="font-size: 16px; margin-bottom: 4px;">Your Result: <strong>The Midlan
 date: 2006-11-11 18:07:57 -06:00
-tags: play, live-journal, planet-debian, meme, language
+tags: [play, live-journal, planet-debian, meme, language]
 ---
 <table style="border: 1px solid gray; width: 320px; font-family: arial,verdana,sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; background-color: white;" border="0">
 <tbody>

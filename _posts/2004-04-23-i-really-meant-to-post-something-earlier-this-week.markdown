@@ -3,7 +3,7 @@
 layout: post
 title: I really meant to post something earlier this week
 date: 2004-04-23 07:59:00 -05:00
-tags: play, teach, diana, movies-reviews
+tags: [play, teach, diana, movies-reviews]
 ---
 I've been meaning to update more often.  Guess that goal isn't being reached.
 

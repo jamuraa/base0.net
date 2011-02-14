@@ -3,7 +3,7 @@
 layout: post
 title: Remote Control Wrapup
 date: 2005-10-24 23:23:59 -05:00
-tags: play
+tags: [play]
 ---
 Recently in the States a new season of TV shows started - okay, so it was 3 or 4 weeks ago, but I haven't gotten around to writing about it until now.  In preparation for the new seasons, I reactivated the ReplayTV, which makes it much easier and less stressful to catch all the shows.  Some of the shows were basically dead in the water before I even caught one glimpse.  Most of the shows that I'm watching this time around is just more seasons of the same while picking a couple new shows mostly for actors.   (Show list below the fold)
 

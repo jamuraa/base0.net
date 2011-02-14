@@ -13,7 +13,7 @@ excerpt: |
   
 
 date: 2009-07-15 03:13:39 -05:00
-tags: play, learn, tv, big-bang-theory-pictures, big-bang-theory-opening
+tags: [play, learn, tv, big-bang-theory-pictures, big-bang-theory-opening]
 ---
 We continue our jaunt through the microscopic world from <a href="http://base0.net/node/309">Onions</a> to some higher lifeforms.  This time we are still seeing mitosis:
 

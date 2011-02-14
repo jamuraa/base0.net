@@ -3,7 +3,7 @@
 layout: post
 title: Wheels keep on spinning round and round
 date: 2005-08-05 14:47:33 -05:00
-tags: play
+tags: [play]
 ---
 I decided yesterday that I was going to start biking again regularly, so today I cut my bike down from it's location (I had used zip ties to hold it in the closet over winter) and started out.  I found out pretty quick that I wasn't going to go far with this bike - the tubes had all lost their air over winter and I quickly punctured the back tube.  I also noticed that the tires were very old and the threads where showing (I got this bike for $20, remember) so I thought it was high time that I learned how to fix my bike.  After some help from <a href="http://www.sheldonbrown.com/harris/hub.html">a decent webpage</a> and Wal-Mart and SportMart (I would have gotten everything I needed from Wal-Mart but they only had one tire), I had a functioning bike again.  I also have a spare tube now just in case I bust another one.  Replacing the tubes and tires was surprisingly easy - I think I have the drop-out back wheel to thank for that.
 

@@ -4,7 +4,7 @@ layout: post
 title: Firefox 2.0 and User Interfaces
 excerpt: Classes have started for this semester, which means that I am just a bit more busy than I was before - and I had a pretty full plate before.  Luckily, both of my classes are fairly similar, allowing for some overlap and giving me two different perspectives on the same topic.  I suspect that I will end up skewed toward one direction or the other.  Both are on Human Machine Interaction, one from psychology and one from computer science.   I am particularly interested in improving software interfaces and novel interfaces, even though it isn't really in my defined research topic.
 date: 2006-09-07 17:21:18 -05:00
-tags: hack, learn, live-journal, planet-debian, classes, firefox, pet-peeves, user-interfaces
+tags: [hack, learn, live-journal, planet-debian, classes, firefox, pet-peeves, user-interfaces]
 ---
 Classes have started for this semester, which means that I am just a bit more busy than I was before - and I had a pretty full plate before.  Luckily, both of my classes are fairly similar, allowing for some overlap and giving me two different perspectives on the same topic.  I suspect that I will end up skewed toward one direction or the other.  Both are on Human Machine Interaction, one from psychology and one from computer science.   I am particularly interested in improving software interfaces and novel interfaces, even though it isn't really in my defined research topic.  Homework on both doesn't seem like it will be an issue.  There will be usability studies at the actual professional usability lab at the U.
 

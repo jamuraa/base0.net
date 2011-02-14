@@ -8,7 +8,7 @@ excerpt: |-
   
   When I first saw the trailer for this movie, with it's boasting of being based on a short story by Stephen King, I was skeptical about having a good time.  It was, although, quite a coup-de-force for John Cusack, with good acting and some twists and turns that were hard to spot in advance.
 date: 2007-08-10 22:41:44 -05:00
-tags: play, live-journal, movies-reviews
+tags: [play, live-journal, movies-reviews]
 ---
 <strong>Riverview Theater</strong> 8/7/07
 <strong>Score: 8</strong>

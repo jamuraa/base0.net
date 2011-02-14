@@ -3,7 +3,7 @@
 layout: post
 title: "Project 52: Week 4"
 date: 2011-01-31 00:39:59 -06:00
-tags: life, play, project-52
+tags: [life, play, project-52]
 wordpress_url: http://base0.net/?p=747
 ---
 <a rel="attachment wp-att-748" href="http://base0.net/posts/project-52-week-4/samsung-6/"><img class="alignnone size-large wp-image-748" title="Project 52 Week 4SAMSUNG" src="http://base0.net/wp-content/uploads/2011/01/2011-01-25-06.05.05-610x457.jpg" alt="" width="610" height="457" /></a>

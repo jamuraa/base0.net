@@ -6,7 +6,7 @@ title: !binary |
 
 excerpt: "Well, the last day in Greece went swimmingly.  It was mostly just relaxing, playing on the Internet, chatting with lovely Di, and working out logistics of taking a long flight back to the United States.  The only strange thing about it is that I haven't slept since the last post, which is away from the norm.  It's a kind of forced all-nighter caused by the bad scheduling that I made for myself.  The flight from \xCE\x9A\xCF\x8E\xCF\x83 to Athens happened at 10:20pm in the evening."
 date: 2007-07-05 20:42:47 -05:00
-tags: "think, learn, live-journal, planet-debian, airports, greece, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, languages, flights, \xCE\xBA\xCF\x8E\xCF\x83, greek"
+tags: ["think, learn, live-journal, planet-debian, airports, greece, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, languages, flights, \xCE\xBA\xCF\x8E\xCF\x83, greek"]
 ---
 Well, the last day in Greece went swimmingly.  It was mostly just relaxing, playing on the Internet, chatting with lovely Di, and working out logistics of taking a long flight back to the United States.  The only strange thing about it is that I haven't slept since the last post, which is away from the norm.  It's a kind of forced all-nighter caused by the bad scheduling that I made for myself.  The flight from Κώσ to Athens happened at 10:20pm in the evening.  This was the latest flight that I could get and assure that I could get to the Athens airport in time for my 7:20 flight to Madrid, which connects through Chicago and back to Minneapolis at last.
 

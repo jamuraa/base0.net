@@ -3,7 +3,7 @@
 layout: post
 title: Random Technological Ranting
 date: 2004-09-21 08:39:47 -05:00
-tags: play, hack
+tags: [play, hack]
 ---
 After spending the morning doing things that are throughly unproductive, I have a couple of things that bother me about the world right now, mostly technical.
 

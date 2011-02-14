@@ -4,7 +4,7 @@ layout: post
 title: First Experiences
 excerpt: This week I had my first experience riding on the Metro bus, since the strike is over.  I graciously received a bus pass as a gift from a friend's friend last weekend, so I figured I could use it in order to get to some of the stuff I do on my long Thursday.  It was interesting waiting for the bus again.  I hadn't done that since grade school - it seemed that I always had a ride from a parent or drove myself.  The ride was surprisingly quick, even though we ended up making all the stops because people wanted to leave or enter the bus at every stop.
 date: 2004-04-24 18:09:00 -05:00
-tags: play, miss-saigon
+tags: [play, miss-saigon]
 ---
 This week I had my first experience riding on the Metro bus, since the strike is over.  I graciously received a bus pass as a gift from a friend's friend last weekend, so I figured I could use it in order to get to some of the stuff I do on my long Thursday.  It was interesting waiting for the bus again.  I hadn't done that since grade school - it seemed that I always had a ride from a parent or drove myself.  The ride was surprisingly quick, even though we ended up making all the stops because people wanted to leave or enter the bus at every stop.  I made it to class with plenty of time to spare, which I expect most riders on a schedule end up doing in order to accommodate the bus's schedule.  All in all, it was good I guess, in that "nothing went wrong" way.  The seats on the Metro are much better than I expected, though.
 

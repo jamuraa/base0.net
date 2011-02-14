@@ -9,7 +9,7 @@ excerpt: |-
   
   Small town america in the late 50s doesn't know what hit it.  Science fiction is in it's hayday and the nation is on a hairpin trigger when a big robot falls from the sky and is discovered by a small boy.  I had heard much about this movie and everyone I knew who saw it liked it.  I have to tell you: the hype is well deserved.  The story is compelling and heartening, good for children and adults alike, and the humor throughout is well done.  Characters are voiced well.  The story obviously revolves around the giant.
 date: 2006-06-12 22:10:19 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 Wow, a semi-regular posting.
 <h3>The Iron Giant</h3>

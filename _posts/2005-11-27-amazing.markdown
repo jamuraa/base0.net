@@ -3,7 +3,7 @@
 layout: post
 title: Amazing
 date: 2005-11-27 12:23:58 -06:00
-tags: play, think, meme
+tags: [play, think, meme]
 ---
 I was actually very surprised, that this changed - I used to be worth nothing.  I wonder what changed?
 <div style="border: 1px solid #cccccc; background-color: white; width: 115px; text-align: center; padding: 0 0 10px 0;">

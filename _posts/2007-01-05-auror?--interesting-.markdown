@@ -14,7 +14,7 @@ excerpt: |-
   <td style="background-color:4FA7D2; border: 1px solid black; color: 000000; padding: 2px;">Name/Username</td>
   <td style="background-color:FFFFFF; border: 1px solid black; padding: 2
 date: 2007-01-05 12:36:12 -06:00
-tags: play, live-journal, meme
+tags: [play, live-journal, meme]
 ---
 <div style="display:none"></div>
 <div><form action="http://www.memegen.net/viewmeme.pl" method="post">

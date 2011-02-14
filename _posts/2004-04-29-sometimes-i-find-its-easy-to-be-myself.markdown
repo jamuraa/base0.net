@@ -3,7 +3,7 @@
 layout: post
 title: Sometimes, I find it's easy to be myself
 date: 2004-04-29 17:44:00 -05:00
-tags: hack, learn
+tags: [hack, learn]
 ---
 Okay, I'm scatterbrained today, so this entry is unorganized and non-cohesive, as compared to my other ones, I guess.
 

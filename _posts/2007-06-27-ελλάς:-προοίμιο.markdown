@@ -6,7 +6,7 @@ title: !binary |
 
 excerpt: I've started on my first trip to countries that aren't English-speaking today.  I don't really have any time at my destination today, so it's a prelude to the real deal.  I'm headed to Greece - Athens and Kos in particular, for a couple of weeks in order to attend MED 2007 and ECC 2007.  My advisor is from Greece originally, so we usually send at least one paper to one of these conferences.
 date: 2007-06-27 01:17:44 -05:00
-tags: "work-life, learn, live-journal, planet-debian, airports, conferences, greece, power, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82"
+tags: ["work-life, learn, live-journal, planet-debian, airports, conferences, greece, power, travel, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82"]
 ---
 I've started on my first trip to countries that aren't English-speaking today.  I don't really have any time at my destination today, so it's a prelude to the real deal.  I'm headed to Greece - Athens and Kos in particular, for a couple of weeks in order to attend MED 2007 and ECC 2007.  My advisor is from Greece originally, so we usually send at least one paper to one of these conferences.  This year we have two papers at MED and one at ECC.
 

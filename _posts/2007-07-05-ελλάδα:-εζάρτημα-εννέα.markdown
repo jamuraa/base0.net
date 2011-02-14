@@ -6,7 +6,7 @@ title: !binary |
 
 excerpt: Yesterday was pretty much a long day of preparation and presenting.  The day started with no internet, possibly for the entire island of Kos, I wasn't really every that clear on the whole of it.  Apparently there are 2 underwater lines coming to Kos island and both had been severed or put out of service by someone.  This was a bad thing, because I had intended to finish some final experiments and do some statistics on results, and Excel wasn't working.  I suspect it is because I hadn't installed the updating tool of Office 2004 for Mac.
 date: 2007-07-05 15:59:11 -05:00
-tags: "teach, think, work-life, learn, live-journal, planet-debian, network, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, presentations, \xCE\xBA\xCF\x8E\xCF\x83, banquets, skype"
+tags: ["teach, think, work-life, learn, live-journal, planet-debian, network, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, presentations, \xCE\xBA\xCF\x8E\xCF\x83, banquets, skype"]
 ---
 Yesterday was pretty much a long day of preparation and presenting.  The day started with no internet, possibly for the entire island of Kos, I wasn't really every that clear on the whole of it.  Apparently there are 2 underwater lines coming to Kos island and both had been severed or put out of service by someone.  This was a bad thing, because I had intended to finish some final experiments and do some statistics on results, and Excel wasn't working.  I suspect it is because I hadn't installed the updating tool of Office 2004 for Mac.   Anyway I could do what I needed to do with R or Gnumeric, but they were both not installed yet.   No internet = no new applications.
 

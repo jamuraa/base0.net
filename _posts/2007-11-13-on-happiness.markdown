@@ -4,7 +4,7 @@ layout: post
 title: On happiness
 excerpt: I was viewing one of my most favorite speakers today, Lawrence Lessig, talk about copyright, giving a speech that is very similar to one that I have heard a few times online, but Lessig presents it so well that I end up watching it over and over again.  This particular speech was <a href="http://www.ted.com/talks/view/id/187">given at TED</a>.    The nice thing about coming across a TED talk is that it is almost always enlightening in some way.
 date: 2007-11-13 22:19:47 -06:00
-tags: think, learn, live-journal, planet-debian, happiness, lessig, psychology, ted
+tags: [think, learn, live-journal, planet-debian, happiness, lessig, psychology, ted]
 ---
 I was viewing one of my most favorite speakers today, Lawrence Lessig, talk about copyright, giving a speech that is very similar to one that I have heard a few times online, but Lessig presents it so well that I end up watching it over and over again.  This particular speech was <a href="http://www.ted.com/talks/view/id/187">given at TED</a>.    The nice thing about coming across a TED talk is that it is almost always enlightening in some way.  Lessig's speech is enlightening enough, and it reminded me that I should watch something of his since he has switched to fighting corruption instead of copyright.
 

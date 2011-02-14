@@ -3,7 +3,7 @@
 layout: post
 title: Blogger Code
 date: 2005-02-08 12:31:55 -06:00
-tags: hack, meme
+tags: [hack, meme]
 ---
 <a href="http://www.leatheregg.com/bloggercode/">B5 d+ t+ k s u-- f o+ x+ e l+ c-</a>
 

@@ -3,7 +3,7 @@
 layout: post
 title: Refilling Laser Printer Cartridges
 date: 2006-06-21 11:47:24 -05:00
-tags: hack, learn
+tags: [hack, learn]
 ---
 I have the pleasure to have a laser printer at home, which works great and is wonderful for printing everything from research papers to read to envelopes for sending.  [lj user="ceilingsarecool"] uses it for taking things for proofing and research.  While it was a <a href="http://base0.net/archives/32-Getting-a-Samsung-ML-2010-to-work-in-Debian-Linux-amd64x86_64.html">slight trouble</a> to set up with my Linux server, but works great now.  Unfortunately while it was cheap as hell after rebate, the starter cartridge that it came with only prints off about 1,000 pages.   Recently it started printing very light and shaking the cartridge wasn't working anymore, so I started looking for new toner.  I found out quickly that one new toner cartridge costs as much as the whole printer itself, but my searches also turned up another option:  refilling the cartridge that I have already.   I figured I would take the chance, because it cost around $20 compared to the $80-90 for a new cartridge.
 

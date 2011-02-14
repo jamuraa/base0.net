@@ -3,7 +3,7 @@
 layout: post
 title: How to become more interesting to people
 date: 2006-01-28 22:04:19 -06:00
-tags: play, think
+tags: [play, think]
 ---
 Everyone would like to be more interesting.  While this seems like a broad statement which can't possibly be true for all people, I am confident that it is true for most.  Even if you aren't a person who is driven by social interaction, if asked "would you like to lead a more interesting life?" most people would answer with a yes (ninjas and pirates need not apply, I think).
 

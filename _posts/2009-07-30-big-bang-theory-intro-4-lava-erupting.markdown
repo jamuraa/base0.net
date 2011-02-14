@@ -3,7 +3,7 @@
 layout: post
 title: "Big Bang Theory Intro #4: Lava Erupting"
 date: 2009-07-30 02:26:49 -05:00
-tags: play, learn, tv, big-bang-theory-pictures, big-bang-theory-opening
+tags: [play, learn, tv, big-bang-theory-pictures, big-bang-theory-opening]
 ---
 Today we come upon our first picture in the montage which doesn't have a lifeform in it.  It's lava!  Dynamic!  BOOM!  Eruption!
 

@@ -3,7 +3,7 @@
 layout: post
 title: The time has come, to pay the rent
 date: 2005-03-04 22:10:15 -06:00
-tags: play
+tags: [play]
 ---
 Well, I can't say I have been the most forthcoming on here about what is actually going on.  Most of life is stuck in the same old same old every day.   Over the last few weeks, I have been working, playing, and sleeping.  Unfortunately I think that playing has taken up a lot more than it's fair share.
 

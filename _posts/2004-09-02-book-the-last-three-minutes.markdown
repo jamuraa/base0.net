@@ -3,7 +3,7 @@
 layout: post
 title: "Book: The Last Three Minutes"
 date: 2004-09-02 17:05:20 -05:00
-tags: books, learn
+tags: [books, learn]
 ---
 <table>
 <tbody>

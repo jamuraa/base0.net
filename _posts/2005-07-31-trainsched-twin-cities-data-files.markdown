@@ -3,7 +3,7 @@
 layout: post
 title: TrainSched Twin Cities Data Files
 date: 2005-07-31 21:40:28 -05:00
-tags: hack
+tags: [hack]
 ---
 I discovered <a href="http://trainsched.sourceforge.net/">TrainSched</a> for the Palm, and wanted to use it for my purposes in the Twin Cities, so I started creating data files.  The CSV files are what are fed into the tool included with trainsched to produce the PalmDB files.  I've tested the DBs here shortly, but not extensively
 <table id="attachments">

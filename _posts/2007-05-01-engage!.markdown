@@ -44,7 +44,7 @@ excerpt: |-
   <tr>
   <td>James T.
 date: 2007-05-01 19:04:33 -05:00
-tags: play, live-journal, meme, geek
+tags: [play, live-journal, meme, geek]
 ---
 Your results:
 <strong>You are <span style="font-size: x-large;">Jean-Luc Picard</span></strong>

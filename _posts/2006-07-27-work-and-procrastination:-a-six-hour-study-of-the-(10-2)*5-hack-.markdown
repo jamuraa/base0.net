@@ -4,7 +4,7 @@ layout: post
 title: "Work and Procrastination: A six-hour study of the (10+2)*5 hack."
 excerpt: "Recently I discovered the <a href=\"http://www.43folders.com/2005/10/11/procrastination-hack-1025/\">(10+2)*5 dash</a> courtesy of Merlin over at <a href=\"http://www.43folders.com\">43 Folders</a>, and I thought that I would give it a try.  The concept is fairly simple: work for 10 minutes, screw around for 2 minutes, repeat 5 times, and voila! you have filled an hour with 5/6 productivity."
 date: 2006-07-27 21:22:07 -05:00
-tags: think, work-life, hack, live-journal, planet-debian, gtd, lifehack, procrastination, tivo, work
+tags: [think, work-life, hack, live-journal, planet-debian, gtd, lifehack, procrastination, tivo, work]
 ---
 Recently I discovered the <a href="http://www.43folders.com/2005/10/11/procrastination-hack-1025/">(10+2)*5 dash</a> courtesy of Merlin over at <a href="http://www.43folders.com">43 Folders</a>, and I thought that I would give it a try.  The concept is fairly simple: work for 10 minutes, screw around for 2 minutes, repeat 5 times, and voila! you have filled an hour with 5/6 productivity.  The first thing that I did was download a <a href="http://www.widgetgallery.com/view.php?widget=28040">Konfabulator widget</a> which keeps track of the time and pops up a warning box when you should be screwing around and working.
 

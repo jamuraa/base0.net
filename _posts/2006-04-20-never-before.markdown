@@ -3,7 +3,7 @@
 layout: post
 title: Never before
 date: 2006-04-20 17:52:01 -05:00
-tags: life, think, diana
+tags: [life, think, diana]
 ---
 Never before have I cohabited with another person for a year.
 Never before have I visited another family for christmas.

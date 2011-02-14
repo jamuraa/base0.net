@@ -3,7 +3,7 @@
 layout: post
 title: Getting a Samsung ML-2010 to work in Debian Linux amd64/x86_64
 date: 2006-02-23 11:43:17 -06:00
-tags: hack
+tags: [hack]
 ---
 I recently bought a Samsung ML-2010, which is a nice laser printer for home use, and tried to set it up on Debian, only to discover that Samsung wasn't hip to my architecture, namely amd64/x86_64.  It's no matter, their printer drivers still work, but you have to hack around a bunch of their checks.   I'm documenting them here because I'd rather not forget when I reinstall, and it's probably useful for others to know about it.
 

@@ -9,7 +9,7 @@ excerpt: |-
   <td><img src="http://images.quizfarm.com/1134694137Wash.jpg" alt="" /></td>
   <td>You scored as <strong>Wash</strong>.
 date: 2006-10-28 07:21:55 -05:00
-tags: play, live-journal, meme
+tags: [play, live-journal, meme]
 ---
 <table border="0" cellspacing="0" cellpadding="5" width="600">
 <tbody>

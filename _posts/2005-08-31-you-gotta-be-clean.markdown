@@ -3,7 +3,7 @@
 layout: post
 title: You gotta be clean...
 date: 2005-08-31 23:23:59 -05:00
-tags: work-life, hack
+tags: [work-life, hack]
 ---
 Moving is coming along as expected.  The apartment looks really bare now, and that's to be expected since we are moving tomorrow.  I'm nervous mostly because I don't know when the movers are coming - hopefully they will show up sometime around 2pm, instead of some time around 11am.  I love it when important things like movers are scheduled for a three-hour window.
 

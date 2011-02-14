@@ -3,7 +3,7 @@
 layout: post
 title: If only I could now..
 date: 2005-09-03 00:34:02 -05:00
-tags: play, work-life
+tags: [play, work-life]
 ---
 Well, as expected, I didn't get the 5 things (oh yea, and about 40 sub-things) done today that I had planned on.  However, I did take a big chunk out of it.  I did clean the old place, making my hands raw.   There is really less than one carload left at the old apartment now.  Picking that up tomorrow at about 9:30am and then dropping off the keys with the manager of the building.  We officially have the place until the 31st but I want to give them a chance to rent it out to someone else so we may get some of that last month's rent back.
 

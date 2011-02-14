@@ -3,7 +3,7 @@
 layout: post
 title: In Want of Shiny New Toys
 date: 2004-03-11 10:43:00 -06:00
-tags: think, hack
+tags: [think, hack]
 ---
 Lately my days have been spent doing homework or just wasting time on the web.   Anyone who knows my normal schedule can guess what I've been doing - it basically consists of school-filled days and various fun activities at night.  I took a day in-house Tuesday in order to get some work done and also a bit more sleep than I normally get.  I only missed one class, and since I had it again today, I know I didn't miss much (or the professor was just being nice, as 2 of 6 were gone).
 

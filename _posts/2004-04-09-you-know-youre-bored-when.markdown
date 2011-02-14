@@ -3,7 +3,7 @@
 layout: post
 title: You know you're bored when...
 date: 2004-04-09 10:44:00 -05:00
-tags: play, bored
+tags: [play, bored]
 ---
 You decide that you want to check what all of the numbers from one to ten are on the internet.
 

@@ -3,7 +3,7 @@
 layout: post
 title: "Weekend Weeviews: Omega Man, Conquest of the Planet of the Apes"
 date: 2006-07-26 15:23:00 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 A month between postings.  Who needs regular updates?  I've got a few of these weekend weeviews piled up, so I'm going to do them two at a time every couple of days.
 <h3>Omega Man</h3>

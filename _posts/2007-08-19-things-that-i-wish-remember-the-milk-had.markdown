@@ -4,7 +4,7 @@ layout: post
 title: Things That I Wish Remember The Milk Had
 excerpt: A little bit ago I <a href="http://base0.net/archives/319-Dont-you-dun-dun-dun-da-dun-dun-forget-about-me.html">blogged</a> about how I was using <a href="http://rmilk.com">Remember The Milk</a> in order to get some things done around the house and to remind me about stuff that I want to do.  Things have been going pretty well on that account, I have been using it to great effect for basically everything that I need to do outside of things that I need to get done at Honeywell (I keep a separate todo list for there).
 date: 2007-08-19 21:48:53 -05:00
-tags: work-life, hack, live-journal, planet-debian, remember-the-milk, improvements, rants, todo, usability
+tags: [work-life, hack, live-journal, planet-debian, remember-the-milk, improvements, rants, todo, usability]
 ---
 A little bit ago I <a href="http://base0.net/archives/319-Dont-you-dun-dun-dun-da-dun-dun-forget-about-me.html">blogged</a> about how I was using <a href="http://rmilk.com">Remember The Milk</a> in order to get some things done around the house and to remind me about stuff that I want to do.  Things have been going pretty well on that account, I have been using it to great effect for basically everything that I need to do outside of things that I need to get done at Honeywell (I keep a separate todo list for there).  However, when using it these past weeks, I have noticed a few things that I wish it would have or things that could be improved upon, I think in a big way.
 

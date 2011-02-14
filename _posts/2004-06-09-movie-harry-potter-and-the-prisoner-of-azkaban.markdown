@@ -7,7 +7,7 @@ excerpt: |-
   
   I was long anticipating this new installment to the Harry Potter movie saga started by the <a href="http://www.imdb.com/title/tt0241527/">first</a><a href="http://www.imdb.com/title/tt0295297/">two</a> movies.  <a href="http://www.imdb.com/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> carries on the story by taking the third book to the big screen.
 date: 2004-06-09 13:36:00 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 <em>Viewing Date: June 4, 2004</em> (Technically - 12:01)
 

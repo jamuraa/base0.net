@@ -3,7 +3,7 @@
 layout: post
 title: Pet peeve number 1
 date: 2006-02-09 17:18:04 -06:00
-tags: think, hack
+tags: [think, hack]
 ---
 Okay, something bugs me, and it's somewhat irrational, and somewhat rational.  I totally hate really long <span class="caps">URL</span>s needed to "verify" that the sign-up is valid.  There are more than one type of these, sometimes they are required to continue into the site, sometime just for extra features, but they are more often that not, very long.  Now, I don't like long <span class="caps">URL</span>s in general in emails, because there are <a href="http://xrl.us">many</a><a href="http://tinyurl.com">services</a> which allow you to shorten them for public use.  Recently I signed up for <a href="http://30boxes.com">30 boxes</a> and they sent me this monstrosity:
 <pre><code>http://30boxes.com/signup.php?action=finishSignup&amp;d=aSDFJKLa43da

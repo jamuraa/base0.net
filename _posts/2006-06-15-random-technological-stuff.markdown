@@ -6,7 +6,7 @@ excerpt: |-
   <h3>Programming, windows style</h3>
   I'm now in the thick of a bunch of win32 programming at my Honeywell part-time job.  I don't mind it that much, but I continue to be amazed that Microsoft's IDE is still the one used most often.  The autocompletion is nice, but that's about the only good thing about it.  I am continually annoyed that the IDE doesn't know which definition of a function I want to use, and only seems to pop up it's hints when it decides.
 date: 2006-06-15 23:27:18 -05:00
-tags: think, hack
+tags: [think, hack]
 ---
 <h3>Programming, windows style</h3>
 I'm now in the thick of a bunch of win32 programming at my Honeywell part-time job.  I don't mind it that much, but I continue to be amazed that Microsoft's IDE is still the one used most often.  The autocompletion is nice, but that's about the only good thing about it.  I am continually annoyed that the IDE doesn't know which definition of a function I want to use, and only seems to pop up it's hints when it decides.  Add this to the fact that most win32 libraries aren't apparently setup in a way so you can put their source in the repository, and I have a lot of admin work which I'm not particularly thrilled to do.   10% programming, 90% random crap.  I'm beginning to understand why the average lines of code per day is so low.  I can't really complain that much though, I knew the tools we'd be using when I accepted the job.

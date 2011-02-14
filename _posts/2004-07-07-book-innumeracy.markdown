@@ -3,7 +3,7 @@
 layout: post
 title: "Book: Innumeracy"
 date: 2004-07-07 11:51:12 -05:00
-tags: play, think, books
+tags: [play, think, books]
 ---
 <table>
 <tbody>

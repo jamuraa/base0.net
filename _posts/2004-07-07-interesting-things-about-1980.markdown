@@ -3,7 +3,7 @@
 layout: post
 title: Interesting things about 1980?
 date: 2004-07-07 22:36:04 -05:00
-tags: think, learn
+tags: [think, learn]
 ---
 <table style="border: 1px solid black; border-collapse: collapse; text-align: center;" cellspacing="0" cellpadding="2" width="400">
 <tbody>

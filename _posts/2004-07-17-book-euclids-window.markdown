@@ -3,7 +3,7 @@
 layout: post
 title: "Book: Euclid's Window"
 date: 2004-07-17 17:36:27 -05:00
-tags: play, think, books
+tags: [play, think, books]
 ---
 <table>
 <tbody>

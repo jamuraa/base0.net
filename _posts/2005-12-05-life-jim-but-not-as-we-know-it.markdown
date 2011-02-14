@@ -3,7 +3,7 @@
 layout: post
 title: Life, Jim, but not as we know it..
 date: 2005-12-05 22:48:34 -06:00
-tags: play
+tags: [play]
 ---
 Well, things have been going okay in my life except for a couple things.  Diana has been sick for the last three days, which means she's staying at home over the weekend and couldn't work at all.  I've been trying to help her back to health.   The TV broke last week, so we went out and bought a new one which is much better.  <a href="http://www.bestbuy.com/site/olspage.jsp?skuId=7030544&amp;type=product&amp;productCategoryId=cat03003&amp;id=1099395069083">This</a> is the model we got, and I think we got a good deal at $199.  The quality is better than the old TV and it's of course not broken, which is it's major advantage over the old one.
 

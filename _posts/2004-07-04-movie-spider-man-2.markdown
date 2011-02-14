@@ -3,7 +3,7 @@
 layout: post
 title: "Movie: Spider-man 2"
 date: 2004-07-04 14:36:01 -05:00
-tags: play, movies-reviews
+tags: [play, movies-reviews]
 ---
 <em>Watched: 07/02/04 3:15pm AMC Southdale 16</em>
 <strong>Score: 10</strong>

@@ -10,7 +10,7 @@ excerpt: |+
   Thinking we are in the age of the internet, I type "debt consolidation" into google and give it a try.  This is my first mistake.  Apparently "debt consolidation" doesn't mean that you are consolidating your debt, it instead means that you are going into what I would call debt negotiation.  This means you decide of your own volition that you are going to stop paying your bills, and try to negotiate with the credit card companies to pay off your debt at a fraction of your actual debt.  But I don't know this, so I nievely fill out a couple of forms at "debt consolidation" sites.  This gets pretty long, so I put in a break.  Read on, MacDuff.
   
 date: 2006-02-17 14:43:08 -06:00
-tags: think, learn, credit, debt, scams
+tags: [think, learn, credit, debt, scams]
 ---
 Throughout the last couple of years, I've had some bad decisions.  I decided to start using my credit to work for me, and to buy things which I couldn't afford.  Partly this was because I had a horrible ex, who I thought I should do things for, and partly because of just living outside of my means for a certain period of time.
 

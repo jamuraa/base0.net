@@ -4,7 +4,7 @@ layout: post
 title: Got a camera rolling on your back
 excerpt: For the last few weeks, I've been trying to participate in <a href="http://photojojo.com/content/tutorials/project-365-take-a-photo-a-day/">Project 365</a>.  For those that don't know about it, it is the idea of taking one picture a day in order to accomplish.. something.  I'm mainly just doing it for fun, and in order to improve my picture-taking skills with my camera phone.   I have it walking around everywhere basically, so when I see something interesting, I try to have my phone at the ready.
 date: 2007-08-18 11:35:51 -05:00
-tags: play, live-journal, planet-debian, cameraphone, flickr, photos, project365
+tags: [play, live-journal, planet-debian, cameraphone, flickr, photos, project365]
 ---
 For the last few weeks, I've been trying to participate in <a href="http://photojojo.com/content/tutorials/project-365-take-a-photo-a-day/">Project 365</a>.  For those that don't know about it, it is the idea of taking one picture a day in order to accomplish.. something.  I'm mainly just doing it for fun, and in order to improve my picture-taking skills with my camera phone.   I have it walking around everywhere basically, so when I see something interesting, I try to have my phone at the ready.  Some times I just take pictures of  <a href="http://flickr.com/photos/jamuraa/1161207399/in/set-72157601532004533/">random</a><a> </a><a href="http://flickr.com/photos/jamuraa/1162062936/in/set-72157601532004533/">stuff</a>, but others are <a href="http://flickr.com/photos/jamuraa/1012736321/in/set-72157601532004533/">more</a> <a href="http://flickr.com/photos/jamuraa/1088783453/in/set-72157601532004533/">interesting</a>.
 

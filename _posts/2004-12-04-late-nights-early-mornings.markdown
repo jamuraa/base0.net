@@ -3,7 +3,7 @@
 layout: post
 title: Late Nights, Early Mornings
 date: 2004-12-04 11:06:04 -06:00
-tags: work-life, hack
+tags: [work-life, hack]
 ---
 As the semester draws to a close, my days get longer.  The last week has been full of working on the project for computational vision, which amounts to an image manipulation library for <a href="http://www.woilfram.com">Mathematica</a>.   The project is about halfway done I would guess, but I can see why people get paid largs sums of money to develop packages for this language - it's incredibly hard to learn, but once you know it, you can do things very quickly.  The harder problem involves coding which is acually efficient.  The package I'm building's whole point is that it is a more computationally efficient than normal algorithms - unfortunately, in Mathematica you need to do some things slightly differently.  Most of the efficiency changes I need to make are due to Matrix computation being much faster than normal.  The second Mathematica issue is that they are very courteous to different programming styles - the progam accomodates functional, procedural, object-oriented, and rule-based programming.  You would think this is a bonus because you can program in any way you want, but some algorithms are faster in one language than others.
 

@@ -14,7 +14,7 @@ excerpt: |-
   
   <b>4.
 date: 2004-04-09 10:01:00 -05:00
-tags: play, meme
+tags: [play, meme]
 ---
 <strong>1. What do you do for a living?</strong>
 I work at the University of Minnesota as a Teaching Assistant, currently teaching CSci 1901, a introduction to programming course.

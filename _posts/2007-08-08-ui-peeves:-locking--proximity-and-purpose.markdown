@@ -7,7 +7,7 @@ excerpt: |-
   
   The first is that some actions inexplicably lock the place that initiates that action.
 date: 2007-08-08 22:37:54 -05:00
-tags: think, hack, live-journal, planet-debian, honeywell, pet-peeves, user-interfaces, windows, coding, scm, subversion, tortoisesvn
+tags: [think, hack, live-journal, planet-debian, honeywell, pet-peeves, user-interfaces, windows, coding, scm, subversion, tortoisesvn]
 ---
 I have had, on occasion in the past, a reason to use the wonderful <a href="http://tortoisesvn.tigris.org/">TortoiseSVN</a> software.  It is, by all standards, a really great solution for someone wanting to use SVN in a MS Windows environment, and uses the official svn client in order to leverage open source as much as possible.  Recently I have been using it a bit more as I work at Honeywell as a programmer.  I've come across a couple things that bug me about the interface.
 
