@@ -1,9 +1,8 @@
---- 
-
+---
 layout: post
 title: Where does the time go when it's not around here?
 date: 2004-02-25 17:07:00 -06:00
-tags: play
+tags: [play]
 ---
 Okay, it's been since friday since my last update, and the weekend was busy, so this may get a little long.
 

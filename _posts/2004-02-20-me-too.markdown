@@ -1,10 +1,8 @@
---- 
-
+---
 layout: post
 title: Me too!
-excerpt: "<pre><table BORDER=0 STYLE=\"width: auto\" CELLSPACING=0 CELLPADDING=0><tr><td BGCOLOR=\"#FFFFFF\" STYLE=\"padding: 0px\"><table BORDER=0 STYLE=\"margin: 0px\"><tr><td STYLE=\"padding: 0px\"><table border=0 CELLSPACING=0 CELLPADDING=0 STYLE=\"margin: 0px\"><tr><td STYLE=\"padding: 0px; text-align: right; width: 140px\"><b><a target=\"_new\" HREF=\"http://www.livejournal.com/users/jwendl/\"><font FACE=\"Verdana\" SIZE=\"1\" COLOR=\"#0033CC\">jwendl</font></a></b></td><td STYLE=\"padding: 0px; width: 20px\"></td><td STYLE=\"padding: 0px; text-align: right; width: 40px\"><font FACE=\"Verdana\" SIZE=\"1\" COLOR=\"#000000\"><b>91%<"
 date: 2004-02-20 07:24:00 -06:00
-tags: play, meme, livejournal
+tags: [play, meme, livejournal]
 ---
 <pre>
 <table style="width: auto" border="0" cellspacing="0" cellpadding="0">

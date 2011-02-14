@@ -1,13 +1,8 @@
---- 
-
+---
 layout: post
 title: We should really bring back the siesta.
-excerpt: |-
-  Well, yesterday was Wedndsday again.  Class in the morning - in which I learned I missed something semi-important on Monday, so I had to read the stuff from the book instead.  This isn't such a bad thing, but it just makes my day longer on thursday.
-  
-  Last night I went over to <a href="http://amagdalyn.livejournal.com">amagdalyn</a>'s place again and we watched <a href="http://www.imdb.com/title/tt0291350/">Millenium Actress</a>, another Satoshi Kon movie.
 date: 2004-02-26 19:29:00 -06:00
-tags: play, teach, learn
+tags: [play, teach, learn]
 ---
 Well, yesterday was Wedndsday again.  Class in the morning - in which I learned I missed something semi-important on Monday, so I had to read the stuff from the book instead.  This isn't such a bad thing, but it just makes my day longer on thursday.
 

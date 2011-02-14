@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "\"Just the one guy, no other guys attached to me\""
 date: 2004-02-03 11:07:00 -06:00

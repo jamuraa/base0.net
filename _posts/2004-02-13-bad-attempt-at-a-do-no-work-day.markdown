@@ -1,10 +1,8 @@
---- 
-
+---
 layout: post
 title: Bad attempt at a do-no-work day
-excerpt: It being friday, I attempted to make today a do-no-work day, as I try to make all fridays.  It gets hard when I have office hours scheduled.   A lot of students yesterday didn't finish the lab (in fact, no one did, that I know of) and that means busy office hours on Monday at least, and it meant a bunch of questions today.  This is the gut-check lab for most of them I think.
 date: 2004-02-13 20:11:00 -06:00
-tags: hack, learn
+tags: [hack, learn]
 ---
 It being friday, I attempted to make today a do-no-work day, as I try to make all fridays.  It gets hard when I have office hours scheduled.   A lot of students yesterday didn't finish the lab (in fact, no one did, that I know of) and that means busy office hours on Monday at least, and it meant a bunch of questions today.  This is the gut-check lab for most of them I think.  It's hard enough that if you don't get off your ass and do something, you aren't going to do well in the class.
 

@@ -1,13 +1,8 @@
---- 
-
+---
 layout: post
 title: Valentine's
-excerpt: |-
-  This weekend was the first time in a few years that I have done anything on Valentine's day.  It was my busiest and best ever, I think.
-  
-  We had a lab meeting on saturday about the new scout user interface as a check to see where we are on the project.  I think it's turning out really good, as someone who is mostly sitting on the sidelines helping out when I can.
 date: 2004-02-16 12:12:00 -06:00
-tags: play
+tags: [play]
 ---
 This weekend was the first time in a few years that I have done anything on Valentine's day.  It was my busiest and best ever, I think.
 

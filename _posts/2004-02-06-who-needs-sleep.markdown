@@ -1,9 +1,8 @@
---- 
-
+---
 layout: post
 title: Who needs sleep?
 date: 2004-02-06 11:36:00 -06:00
-tags: play
+tags: [play]
 ---
 I hadn't updated for a couple days, so I figured I should put something up.
 
