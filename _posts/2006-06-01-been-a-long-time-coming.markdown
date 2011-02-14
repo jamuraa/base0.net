@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Been a long time coming.
+tags: 
+- work-life
+- learn
 date: 2006-06-01 17:34:34 -05:00
-tags: [work-life, learn]
 ---
 Life has taken a turn for the busy lately, which means of course that this space loses a lot of content.  Things have slowed down a bit now.  Things which were taking up my time before were being basically one of the only technical staff for ICRA2006 (with one other who helped enormously), a new job at Honeywell Labs, and actually getting some research done on my thesis.
 

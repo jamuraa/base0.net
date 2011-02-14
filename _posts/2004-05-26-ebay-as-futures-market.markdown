@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: eBay as futures market
+tags: 
+- think
+- ebay
 date: 2004-05-26 14:39:00 -05:00
-tags: [think, ebay]
 ---
 I was thinking the other day for no particular reason about the expected price of the inevitable "Extended Edition" Lord of the Rings Mega-Set that New Line is sure to put out at the end of the whole trilogy being out on DVD, and thought a bit about using eBay as a futures market.
 

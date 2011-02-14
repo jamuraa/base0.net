@@ -1,10 +1,15 @@
 --- 
-
 layout: post
 title: I work hard, every day of my life
-excerpt: "<!-- s9ymdb:6 --><img class=\"alignright\" style=\"float: right; border: 0px; padding-left: 5px; padding-right: 5px;\" src=\"/wp-content/uploads/graphs/092003.serendipityThumb.png\" alt=\"\" />Most of my fitness transition plan has been focused on exercise.  Get more exercise and eat the same as you did before, and you will lose weight.  This has to be true, based simply on physics.  Back when I was using the <a href=\"http://base0.net/archives/183-The-monthly-diet-report.html\">Hacker's Diet</a>, it worked like a charm."
+tags: 
+- play
+- live-journal
+- planet-debian
+- diet
+- exercise
+- anime
+- ipod
 date: 2006-11-16 22:51:47 -06:00
-tags: [play, live-journal, planet-debian, diet, exercise, anime, ipod]
 ---
 <!-- s9ymdb:6 --><img class="alignright" style="float: right; border: 0px; padding-left: 5px; padding-right: 5px;" src="/wp-content/uploads/graphs/092003.serendipityThumb.png" alt="" />Most of my fitness transition plan has been focused on exercise.  Get more exercise and eat the same as you did before, and you will lose weight.  This has to be true, based simply on physics.  Back when I was using the <a href="http://base0.net/archives/183-The-monthly-diet-report.html">Hacker's Diet</a>, it worked like a charm.  Then it was all about eating less calories, because I wasn't really keen on doing exercise in my olden days.  It worked for a while.  Unfortunately I got stressed and stopped countign calories, and weighing every day.  I've started the weighing again, and maybe I can actually fire up gnuplot again and produce some pretty graphs like the one on the left.
 

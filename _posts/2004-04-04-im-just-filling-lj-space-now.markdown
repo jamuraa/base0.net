@@ -1,14 +1,10 @@
 --- 
-
 layout: post
 title: I'm just filling LJ space now
-excerpt: |-
-  From <a href="http://silvrayn.livejournal.com">silvrayn</a>, <a href="http://kitchenwitch.livejournal.com">kitchenwitch</a>, and others:
-  <b>I Am A:</b> Neutral Good Elf Mage Bard
-  <br><br><u>Alignment:</u><br><b>Neutral Good</b> characters believe in the power of good above all else. They will work to make the world a better place, and will do whatever is necessary to bring that about, whether it goes for or against whatever is considered 'normal'.
-  <br><br><u>Race:</u>
+tags: 
+- play
+- meme
 date: 2004-04-04 23:13:00 -05:00
-tags: [play, meme]
 ---
 From <a href="http://silvrayn.livejournal.com">silvrayn</a>, <a href="http://kitchenwitch.livejournal.com">kitchenwitch</a>, and others:
 <strong>I Am A:</strong> Neutral Good Elf Mage Bard

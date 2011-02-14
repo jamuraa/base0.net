@@ -1,8 +1,10 @@
----
+--- 
 layout: post
 title: Curious Dreams and Other Stuff
+tags: 
+- play
+- think
 date: 2004-01-06 16:26:00 -06:00
-tags: [play, think]
 ---
 Okay this turned out very long. Learning LJ-Cut time...
 

@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: "Movie: King Arthur"
+tags: 
+- play
+- movies-reviews
 date: 2004-07-17 23:04:31 -05:00
-tags: [play, movies-reviews]
 ---
 <em>Watched: 07/17/04 9:55pm St. Anthony Main</em>
 <strong>Score: -∞</strong>

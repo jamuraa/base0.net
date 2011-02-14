@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: Switching.
+tags: 
+- hack
 date: 2006-01-26 06:23:45 -06:00
-tags: [hack]
 ---
 Last weekend I moved all of my websites from my expensive <a href="http://servermatrix.com">dedicated server solution</a> to a <a href="http://dreamhost.com">shared server solution</a>.  So far everything has been working out great - the transfer of files went fine, and some of the automatic services that are setup for you, such as automatic secure webmail which is always nice to fall back on when you're at say, a public kiosk or something.  The switch saves me approx. US$720 a year, which is going to be great for my finances.  However, I'm always wary when I move to a new place that something is going to be horribly wrong, so it's watch-like-a-hawk time.
 

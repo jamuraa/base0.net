@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: "Book: Being Digital"
+tags: 
+- think
+- books
 date: 2004-11-21 18:19:17 -06:00
-tags: [think, books]
 ---
 <table>
 <tbody>

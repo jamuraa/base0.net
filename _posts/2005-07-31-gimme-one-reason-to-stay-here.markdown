@@ -1,9 +1,11 @@
 --- 
-
 layout: post
 title: Gimme one reason to stay here
+tags: 
+- play
+- work-life
+- hack
 date: 2005-07-31 22:32:44 -05:00
-tags: [play, work-life, hack]
 ---
 Well, for understatement of the year, I haven't been updating much recently.  I'll try not to be too long-winded.
 <h3>Trip to England</h3>

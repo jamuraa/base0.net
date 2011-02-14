@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Time enough to post..
+tags: 
+- play
+- think
 date: 2004-03-22 17:19:00 -06:00
-tags: [play, think]
 ---
 Well, I'm waiting here for <a href="http://amagdalyn.livejournal.com">amagdalyn</a> to pick me up and no one seems to be around to chat, so I may as well update.
 

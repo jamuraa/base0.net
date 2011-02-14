@@ -1,12 +1,11 @@
 --- 
-
 layout: post
 title: !binary |
   zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM61z4bPhM6s
 
-excerpt: Waking up in Kos was altogether pleasant, especially because I put the very effective air conditioner on in order to alleviate the high humidity.  The room was nice and dehumidified, although I feel bad about using the air conditionar as a glorified dehumidifier.  I suppose it is better than using it as a cooler to a temperature that is too low.   I walked out of the hotel and down the street, stopping to gaze upon the grassland and goats that were on my way to Kos town.  The walk was very long, and I was sweating quite a bit by the end of it.
+tags: 
+- "play, learn, live-journal, planet-debian, pet-peeves, language, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, \xCE\xBA\xCF\x8E\xCF\x83, ecc07, restaurants"
 date: 2007-07-03 07:03:15 -05:00
-tags: ["play, learn, live-journal, planet-debian, pet-peeves, language, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, \xCE\xBA\xCF\x8E\xCF\x83, ecc07, restaurants"]
 ---
 Waking up in Kos was altogether pleasant, especially because I put the very effective air conditioner on in order to alleviate the high humidity.  The room was nice and dehumidified, although I feel bad about using the air conditionar as a glorified dehumidifier.  I suppose it is better than using it as a cooler to a temperature that is too low.   I walked out of the hotel and down the street, stopping to gaze upon the grassland and goats that were on my way to Kos town.  The walk was very long, and I was sweating quite a bit by the end of it.   I believe that I will be taking the bus to Psalidi and the conference hotel tomorrow.
 

@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: "Movie: Napoleon Dynamite"
+tags: 
+- play
+- movies-reviews
 date: 2004-08-14 17:53:09 -05:00
-tags: [play, movies-reviews]
 ---
 <em>07/07/04 Lagoon Cinema</em> 4:00pm
 <strong>Score: 10</strong>

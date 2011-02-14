@@ -1,15 +1,11 @@
 --- 
-
 layout: post
 title: !binary |
   zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM+Ez4HOr86x
 
-excerpt: |-
-  (I recently learned that I may be naming these posts incorrectly.  If anyone who knows Greek can tell me, please do)
-  
-  After the ordeal on Wednesday, I had a mission Thursday: get a phone that would work in Greece.  I wasn't all that interested in the talks that were being given that day, so I figured that it would work out.  I meant to stop at one of the stores that I had previously walked by on my way to Viktoria station, but they were all closed at 9am - stores open kind of late here, apparently.
+tags: 
+- "teach, work-life, learn, live-journal, planet-debian, sleep, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, athens, walking"
 date: 2007-06-29 02:08:13 -05:00
-tags: ["teach, work-life, learn, live-journal, planet-debian, sleep, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, athens, walking"]
 ---
 (I recently learned that I may be naming these posts incorrectly.  If anyone who knows Greek can tell me, please do)
 

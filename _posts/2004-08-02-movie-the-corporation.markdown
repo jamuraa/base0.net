@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: "Movie: The Corporation"
+tags: 
+- play
+- movies-reviews
 date: 2004-08-02 19:38:38 -05:00
-tags: [play, movies-reviews]
 ---
 <em>Lagoon Cinema 4</em> 07/25/04 2:00pm
 <strong>Score: 7</strong>

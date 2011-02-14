@@ -1,13 +1,17 @@
 --- 
-
 layout: post
 title: Do it better, Make it faster
-excerpt: |-
-  Apple released Safari 3 for Windows and Mac a couple weeks ago, and of course as the early-adopter that I am, I was trying to download it before it was even actually available.   I've been using it for the last weeks, and I'd like to boast and bitch about some of the features and misses that Apple seems to have missed.
-  
-  The first thing that I noticed about Safari 3 is that they still haven't fixed some of the bogus behavior that is present in Safari 2: the behavior of tabs.
+tags: 
+- play
+- hack
+- live-journal
+- planet-debian
+- windows
+- beta
+- review
+- safari
+- testing
 date: 2007-06-27 01:06:26 -05:00
-tags: [play, hack, live-journal, planet-debian, windows, beta, review, safari, testing]
 ---
 Apple released Safari 3 for Windows and Mac a couple weeks ago, and of course as the early-adopter that I am, I was trying to download it before it was even actually available.   I've been using it for the last weeks, and I'd like to boast and bitch about some of the features and misses that Apple seems to have missed.
 

@@ -1,13 +1,16 @@
 --- 
-
 layout: post
 title: Learned Bad Ideas
-excerpt: |-
-  There are some things that I have learned over the years as bad practice.  There are some that I have learned through reading and contemplation, and a little experimentation.  One of the categories of bad things that I have learned is visual aids for statistics.  There is basically one cardinal rule for data presented in a graphical form:
-  <blockquote>Let the user see the actual data.</blockquote>
-  It seems kindof obvious, doesn't it?  I'm presenting data, you should be able to see it.
+tags: 
+- play
+- think
+- live-journal
+- planet-debian
+- charts
+- data
+- graphs
+- visualization
 date: 2007-01-08 19:44:57 -06:00
-tags: [play, think, live-journal, planet-debian, charts, data, graphs, visualization]
 ---
 There are some things that I have learned over the years as bad practice.  There are some that I have learned through reading and contemplation, and a little experimentation.  One of the categories of bad things that I have learned is visual aids for statistics.  There is basically one cardinal rule for data presented in a graphical form:
 <blockquote>Let the user see the actual data.</blockquote>

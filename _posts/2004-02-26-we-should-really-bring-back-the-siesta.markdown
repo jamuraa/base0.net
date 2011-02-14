@@ -1,8 +1,11 @@
----
+--- 
 layout: post
 title: We should really bring back the siesta.
+tags: 
+- play
+- teach
+- learn
 date: 2004-02-26 19:29:00 -06:00
-tags: [play, teach, learn]
 ---
 Well, yesterday was Wedndsday again.  Class in the morning - in which I learned I missed something semi-important on Monday, so I had to read the stuff from the book instead.  This isn't such a bad thing, but it just makes my day longer on thursday.
 

@@ -1,12 +1,11 @@
 --- 
-
 layout: post
 title: !binary |
   zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM+Ezq3Pg8+DzrXPgc6x
 
-excerpt: The good news is that the talk went really well.. The bad news is that I was dead tired afterwards, so this post will be very short and somewhat uninteresting.  The talk was attended by a few, including a Slovenian that I had met at the banquet the night before.  I don't know if he enjoyed it much, because I wasn't able to talk to him afterwards.  After the talk, which Nikos and Hyeun said was very good, I went to a second session which was on robotic swarms.  Unfortunately, there were only 3 speakers out of 6 that were there!
+tags: 
+- "play, teach, work-life, live-journal, planet-debian, food, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, athens, languages, presentations"
 date: 2007-06-30 00:57:18 -05:00
-tags: ["play, teach, work-life, live-journal, planet-debian, food, conferences, greece, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, cell-phones, athens, languages, presentations"]
 ---
 The good news is that the talk went really well.. The bad news is that I was dead tired afterwards, so this post will be very short and somewhat uninteresting.  The talk was attended by a few, including a Slovenian that I had met at the banquet the night before.  I don't know if he enjoyed it much, because I wasn't able to talk to him afterwards.  After the talk, which Nikos and Hyeun said was very good, I went to a second session which was on robotic swarms.  Unfortunately, there were only 3 speakers out of 6 that were there!  This was very disappointing because it was the session that I looked forward to the most.
 

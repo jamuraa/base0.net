@@ -1,16 +1,12 @@
 --- 
-
 layout: post
 title: "Movie: Hairspray"
-excerpt: |+
-  <strong>AMC Southdale 16</strong> 8/11/2007
-  <strong>Score: 7</strong>
-  
-  We were actually hoping to see Stardust when we went to the movie theater.  It was about 2 hours after we showed up, so we decided to see Hairspray instead.  I think we still would have rather seen Stardust.  Hairspray is a classic musical movie, similar to Grease or West Side Story in some ways.
-  People are singing with somewhat no reason, and others don't notice.  That is the way of musicals however, and this one is pretty good.
-  
+tags: 
+- play
+- live-journal
+- movies-reviews
+- review
 date: 2007-08-25 21:27:48 -05:00
-tags: [play, live-journal, movies-reviews, review]
 ---
 <strong>AMC Southdale 16</strong> 8/11/2007
 <strong>Score: 7</strong>

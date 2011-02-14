@@ -1,8 +1,10 @@
----
+--- 
 layout: post
 title: Here comes the sun
+tags: 
+- play
+- think
 date: 2004-01-27 06:41:00 -06:00
-tags: [play, think]
 ---
 I can't tell you how pleased I was this morning to find out that the sun is now <a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=55404&extendedsun=sunon">waking up</a> before I do.  I always enjoy my morning walk alot better when there's some rays piercing through the normal winter wonderland.  Winter would be great if we got more sun during these months.
 

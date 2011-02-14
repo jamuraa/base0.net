@@ -1,10 +1,10 @@
 --- 
-
 layout: post
 title: One friday I won't forget
-excerpt: Yesterday was <a href="http://www.bucadibeppo.com/">Buca</a>'s with the LJ gang including <a href="http://zosiablue.livejournal.com">zosiablue</a>, <a href="http://adrianne.livejournal.com">adrianne</a>, <a href="http://bronzegoddess.livejournal.com">bronzegoddess</a> and company.   I had a great time meeting everyone.  The food was mediocre by Buca's standards though.  I swear our waiter had the perfect voice for a stand-up comic.
+tags: 
+- play
+- teach
 date: 2004-04-17 15:21:00 -05:00
-tags: [play, teach]
 ---
 Yesterday was <a href="http://www.bucadibeppo.com/">Buca</a>'s with the LJ gang including <a href="http://zosiablue.livejournal.com">zosiablue</a>, <a href="http://adrianne.livejournal.com">adrianne</a>, <a href="http://bronzegoddess.livejournal.com">bronzegoddess</a> and company.   I had a great time meeting everyone.  The food was mediocre by Buca's standards though.  I swear our waiter had the perfect voice for a stand-up comic.  Having the food be not so great (except for the cheesecake, which was supreme) wasn't really a factor though because the company was great.
 

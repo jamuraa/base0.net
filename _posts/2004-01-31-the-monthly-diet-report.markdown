@@ -1,8 +1,11 @@
----
+--- 
 layout: post
 title: The monthly diet report
+tags: 
+- think
+- diet
+- broken-links
 date: 2004-01-31 13:47:00 -06:00
-tags: [think, diet, broken-links]
 ---
 Well, I put in my month's weight, and I don't seem to be making any progress.. <a href="http://www.base0.net/diet/012004.png">See for yourself</a>.  The <a href="http://www.base0.net/diet/dietgraph.png">overall progress</a> looks a lot better than the monthly one.  My goal for February: 10 pounds loss.
 

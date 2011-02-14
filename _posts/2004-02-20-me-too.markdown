@@ -1,8 +1,11 @@
----
+--- 
 layout: post
 title: Me too!
+tags: 
+- play
+- meme
+- livejournal
 date: 2004-02-20 07:24:00 -06:00
-tags: [play, meme, livejournal]
 ---
 <pre>
 <table style="width: auto" border="0" cellspacing="0" cellpadding="0">

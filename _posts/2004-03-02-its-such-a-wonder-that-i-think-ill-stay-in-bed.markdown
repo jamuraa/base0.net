@@ -1,13 +1,9 @@
 --- 
-
 layout: post
 title: It's such a wonder that I think I'll stay in bed.
-excerpt: |-
-  Sorry for no updates over the weekend, not even a rant or two.  I really need to have one bubble up sometime soon, otherwise I'll be stuck with just updating with the status of my life, and we all know how boring that is.
-  
-  Last Thursday (yes, it's been that long since I updated), was a nice day.  I drove in as usual and got a decent spot in the ramp, and was early enough that I could stop and check my e-mail.  The lab sections were going over review for the test on the next day, so for the first hour of the day I got to do actual work for the class, which means grading.
+tags: 
+- play
 date: 2004-03-02 11:04:00 -06:00
-tags: [play]
 ---
 Sorry for no updates over the weekend, not even a rant or two.  I really need to have one bubble up sometime soon, otherwise I'll be stuck with just updating with the status of my life, and we all know how boring that is.
 

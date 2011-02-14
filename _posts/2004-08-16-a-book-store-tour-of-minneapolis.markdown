@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: A Book Store Tour of Minneapolis
+tags: 
+- play
+- think
 date: 2004-08-16 16:39:13 -05:00
-tags: [play, think]
 ---
 Di and I went on a bookstore tour of the Twin Cities today - after discovering that she has a particular aversion to everything remotely relating to an animal, we decided to search for a particular book which she had seen before in vegan cooking.  We started at a new book place, the alternative bookstore that is below where Midwest Mountaineering used to have part of it's store.  We didn't find any cookbooks there, but I did find a couple books that I wanted to buy.  Knowing that I am short on the cash end of things this summer, I decided to get them from <a href="http://www.mplib.org/">library</a> instead.
 

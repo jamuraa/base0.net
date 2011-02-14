@@ -1,8 +1,10 @@
----
+--- 
 layout: post
 title: It's gonna be a long day..
+tags: 
+- play
+- work-life
 date: 2004-02-12 08:29:00 -06:00
-tags: [play, work-life]
 ---
 Well, here I am in the middle of another long tuesday. I'll probably be updating again later today - during my extremely long break.  Right now, I'm taking a short break from statistics, because the lab isn't really all that interesting to me.  I skipped last week because of my extreme tiredness.  Today, I'm not tired, but if I wasn't keeping myself entertained, I would probably be falling asleep anyway.
 

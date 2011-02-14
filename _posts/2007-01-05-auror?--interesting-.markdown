@@ -1,20 +1,11 @@
 --- 
-
 layout: post
 title: Auror?  Interesting.
-excerpt: |-
-  <div style="display:none"></div>
-  <div><form action="http://www.memegen.net/viewmeme.pl" method="post">
-  <table style="border: 1px solid; border-color: 000000; border-collapse: collapse; font-size: 10pt; width: 500px;" border="0">
-  <tbody>
-  <tr>
-  <td style="background-color: 1F87B2; color: FFFFFF; text-align: center; font-weight: bold; font-size: 12pt;" colspan="2">Harry Potter Meme of All Memes by Osaku</td>
-  </tr>
-  <tr>
-  <td style="background-color:4FA7D2; border: 1px solid black; color: 000000; padding: 2px;">Name/Username</td>
-  <td style="background-color:FFFFFF; border: 1px solid black; padding: 2
+tags: 
+- play
+- live-journal
+- meme
 date: 2007-01-05 12:36:12 -06:00
-tags: [play, live-journal, meme]
 ---
 <div style="display:none"></div>
 <div><form action="http://www.memegen.net/viewmeme.pl" method="post">

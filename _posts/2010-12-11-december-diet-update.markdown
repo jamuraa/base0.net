@@ -1,9 +1,12 @@
 --- 
-
 layout: post
 title: December Diet Update
+tags: 
+- life
+- play
+- diet
+- exercise
 date: 2010-12-11 15:17:24 -06:00
-tags: [life, play, diet, exercise]
 wordpress_url: http://base0.net/?p=696
 ---
 This month I have gotten back on track in terms of actual metrics.  Keeping on track is making a difference.  Last month I was trying to find a community to keep me motivated and to share my experiences with, and I think that I might have found something similar, I've started following the people in the <a href="http://reddit.com/r/loseit/">loseit reddit group</a>.  There are a lot of people there who are also trying to lose weight for good, and while there are a lot of before and after pics, there are also a lot of people who are seeking advice about dieting and exercise, without focusing too much on the exercise and with just some sensible advice for dieting.  Along with that there are some other nifty things like a spreadsheet tracking the weight loss of everyone.  I think it has been a good thing so far.

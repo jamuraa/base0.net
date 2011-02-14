@@ -1,9 +1,11 @@
 --- 
-
 layout: post
 title: make things so complicated
+tags: 
+- play
+- work-life
+- hack
 date: 2005-03-29 15:33:23 -06:00
-tags: [play, work-life, hack]
 ---
 <h3>Apartment Annoyance</h3>
 This sunday we got a note under our door about clearing out around the windows in the bedrooms in order for them to install new windows.   Now, normally I would be happy about this, because the windows in the building are getting fairly old, and it may help the heating in the place.   Unfortunately though, the replacement of the windows requires 2 feet of clearance on the inside of the window, which requires me to completely tear down my office, so I couldn't work at all last night or this morning.  They better be finished when I get back today though, otherwise I consider requesting compensation for the $120 worth of work that I can't do.

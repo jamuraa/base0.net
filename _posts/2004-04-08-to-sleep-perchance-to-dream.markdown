@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: To sleep, perchance, to dream.
+tags: 
+- play
+- hack
 date: 2004-04-08 08:32:00 -05:00
-tags: [play, hack]
 ---
 I feel like I've just been just going through the motions of life lately.  Get homework done, watch anime, work on some Debian packages, chat a little, sleep.   Today is another Thursday I know will feel way longer than it really will be.
 

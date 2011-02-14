@@ -1,10 +1,17 @@
 --- 
-
 layout: post
 title: Late at night when the wires in the walls
-excerpt: After my iBook problems last week, I tried to install Debian on the thing.  I have narrowed down the problem to something with the hard drive inside, because the machine seems to run fine and go through most of the installation without any trouble, but once I start using the hard drive, it completely freezes.  I successfully ran the hardware test disc which came with it a couple times in extended mode, but I'm not sure that it uses the hard drive in it's tests long enough for it to exhibit the problem.
+tags: 
+- play
+- work-life
+- live-journal
+- planet-debian
+- work
+- honeywell
+- ibook
+- ogre
+- tv
 date: 2006-08-09 14:29:10 -05:00
-tags: [play, work-life, live-journal, planet-debian, work, honeywell, ibook, ogre, tv]
 ---
 After my iBook problems last week, I tried to install Debian on the thing.  I have narrowed down the problem to something with the hard drive inside, because the machine seems to run fine and go through most of the installation without any trouble, but once I start using the hard drive, it completely freezes.  I successfully ran the hardware test disc which came with it a couple times in extended mode, but I'm not sure that it uses the hard drive in it's tests long enough for it to exhibit the problem.  The failure seems to be somewhat random in nature, occuring at different times in the install process.  Now I have the unhappy decision of trying to save this laptop which is more than 3 years old, or to attempt to buy a new one.  Right now I am leaning toward buying a new one.
 

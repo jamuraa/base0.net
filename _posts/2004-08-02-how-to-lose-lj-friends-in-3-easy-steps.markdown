@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: How to lose LJ friends in 3 easy steps
+tags: 
+- play
 date: 2004-08-02 07:42:06 -05:00
-tags: [play]
 ---
 Apparently the best way to lose friends on LJ is to
 1. start a separate blog that can post to LJ

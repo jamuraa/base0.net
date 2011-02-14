@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Arnold
+tags: 
+- think
+- needs-fixing
 date: 2005-01-27 23:35:05 -06:00
-tags: [think, needs-fixing]
 ---
 My grandfather died today.   He passed peacefully.
 

@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Looking back, looking forward
+tags: 
+- play
+- think
 date: 2005-01-07 14:36:51 -06:00
-tags: [play, think]
 ---
 Ladies and gentlemen, my year, in numbers:
 <ul>

@@ -1,8 +1,8 @@
----
+--- 
 layout: post
 title: Anime
+tags: 
+- play
 date: 2004-01-05 18:48:00 -06:00
-tags:
- - play
 ---
 I have <a href="http://anidb.net/perl-bin/animedb.pl?show=mylist&amp;expandall=0&amp;onlycomplete=0&amp;uid=7346&amp;onlystate=-1&amp;showheader=1&amp;orderdir=0&amp;showfiles=0&amp;hidestalled=1&amp;expand=0&amp;onlyincomplete=0&amp;orderby=name&amp;onlyunviewed=0">lots of anime to watch</a>.

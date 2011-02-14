@@ -1,10 +1,15 @@
 --- 
-
 layout: post
 title: "Quickie Hack: Online X-mas list"
-excerpt: "It's getting around that time of year when kids start singing little annoying songs and thinking of the toys that they will be getting in slightly more than a month.  In my family, when everyone gathered for thanksgiving, the younguns were expected to have a list which could be disseminated throughout the family with everything they wanted.  This avoided some of the more clich\xC3\x83\xC2\xA9 gifts such as sweaters and socks."
+tags: 
+- play
+- hack
+- live-journal
+- planet-debian
+- del.icio.us
+- gifts
+- hacks
 date: 2006-11-16 07:09:16 -06:00
-tags: [play, hack, live-journal, planet-debian, del.icio.us, gifts, hacks]
 ---
 It's getting around that time of year when kids start singing little annoying songs and thinking of the toys that they will be getting in slightly more than a month.  In my family, when everyone gathered for thanksgiving, the younguns were expected to have a list which could be disseminated throughout the family with everything they wanted.  This avoided some of the more clichÃ© gifts such as sweaters and socks.  But who's to say that grownups can't have a little fun as well?
 

@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: Yes, but FASTER!
+tags: 
+- hack
 date: 2005-03-15 22:47:08 -06:00
-tags: [hack]
 ---
 <h3>Life</h3>
 Things have been fairly slow around this week.  It is mostly due to it being spring break, and despite trying to get myself motivated, I seem to sit around and do small things or nothing all day.  I expect this to be a problem in the near future, because I have a project that I need to work on soon for at least three different entities, if not four.  This state unsurprisingly doesn't help my mood.

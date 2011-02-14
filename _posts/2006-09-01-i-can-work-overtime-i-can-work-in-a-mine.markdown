@@ -1,13 +1,17 @@
 --- 
-
 layout: post
 title: I can work overtime I can work in a mine
-excerpt: |-
-  Labor day weekend approacheth, and myself and [lj user="ceilingsarecool"] have secured a little getaway for ourselves.  It is proving to be a nice way to relax a while before a big rush of work.  I have been in all true form not updating the blog lately, so I get to give everyone a big update all at once.
-  
-  The iBook problems which I mentioned in the <a href="http://base0.net/archives/217-Late-at-night-when-the-wires-in-the-walls.html">last blog entry</a> proved to be fatal to the machine, so I went out and bought a shiny new MacBook to replace it.
+tags: 
+- play
+- work-life
+- live-journal
+- planet-debian
+- honeywell
+- ibook
+- classes
+- holiday
+- research
 date: 2006-09-01 21:30:58 -05:00
-tags: [play, work-life, live-journal, planet-debian, honeywell, ibook, classes, holiday, research]
 ---
 Labor day weekend approacheth, and myself and [lj user="ceilingsarecool"] have secured a little getaway for ourselves.  It is proving to be a nice way to relax a while before a big rush of work.  I have been in all true form not updating the blog lately, so I get to give everyone a big update all at once.
 

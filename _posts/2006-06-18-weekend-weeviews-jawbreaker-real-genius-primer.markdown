@@ -1,10 +1,10 @@
 --- 
-
 layout: post
 title: "Weekend Weeviews: Jawbreaker, Real Genius, Primer"
-excerpt: There are three reviews this week, because I neglected to review one which I watched earlier.   I'm also trying to decide whether the links at the end are of any use, and whether it's useful to syndicate this to <a href="http://planet.debian.org">Planet Debian</a>.  Feedback is encouraged! ;)
+tags: 
+- play
+- movies-reviews
 date: 2006-06-18 23:54:17 -05:00
-tags: [play, movies-reviews]
 ---
 There are three reviews this week, because I neglected to review one which I watched earlier.   I'm also trying to decide whether the links at the end are of any use, and whether it's useful to syndicate this to <a href="http://planet.debian.org">Planet Debian</a>.  Feedback is encouraged! ;)
 <h3>Jawbreaker</h3>

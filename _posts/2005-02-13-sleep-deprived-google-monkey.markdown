@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Sleep Deprived Google Monkey
+tags: 
+- play
+- work-life
 date: 2005-02-13 22:16:26 -06:00
-tags: [play, work-life]
 ---
 Well, this weekend was the <a href="http://www.kvsctrivia.org">KVSC Trivia Contest</a>, an event I was aware of, but hadn't been a part of until this year.  I had meant to go starting on friday night, when it started, but some work came up which kept me busy friday night and saturday.  Anyway I got my work to a usable state saturday after grappling with javascript for a while, and I went off to <a href="http://want_a_be.livejournal.com">want_a_be</a>'s place for game night.  There I played a rousing game of illuminati, a particularly fun game, and a more simple game Bohnanza.  It was good to get a load off after the working weekend.  That wrapped up around midnight and I headed to <a href="http://superna.livejournal.com">superna</a>'s place for some trivia goodness.
 

@@ -1,9 +1,15 @@
 --- 
-
 layout: post
 title: "MSPizza Places: Clicquot Club Cafe"
+tags: 
+- play
+- reviews
+- live-journal
+- food
+- minneapolis
+- pizza
+- restaurants
 date: 2007-05-21 22:32:26 -05:00
-tags: [play, reviews, live-journal, food, minneapolis, pizza, restaurants]
 ---
 Today Diana and I went to the Cliquot Club Cafe for our weekly pizza place visit.  We discovered this place on a long walk we took from our apartment on one of the recent lovely spring days, and decided to visit it today.  It is situated slightly hidden, about halfway between Lake street and Franklin.  The place looks and feels like it was an excellent coffee place that graduated into a happy cafe.  Their menu is extensive, serving breakfast, paninis, pizzas, salads, deli sandwiches and even some more fancy fare.  In contrast to the well-designed look, the atmosphere is very laid-back and inviting.  I felt comfortable as soon as I walked in.  We were greeted quickly by both the cook / barista and the server, and directed to sit "wherever, inside or out"
 

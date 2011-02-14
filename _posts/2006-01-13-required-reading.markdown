@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Required reading.
+tags: 
+- teach
+- think
 date: 2006-01-13 12:39:56 -06:00
-tags: [teach, think]
 ---
 College is not the launching pad for a job.  It's the launching pad for the rest of your life.  High school is a mini-jail with strict standards that everyone must live up to.  College is when you get to make your own choices.  This is the sentiment behind <a href="http://www.iwillteachyoutoberich.com/archives/2005/11/your_college_is.html">this article</a>.  I agree with it on principle, but not completely on content.  Computer Science in the past 7 years has gone through an evil transition - almost all of the Colleges out there shifted to a Technical style curriculum because that was what was in demand.   While TAing the introductory classes here at the U of M, the most common complaint was that they weren't learning things which will be useful in the future.  The classes are taught in Scheme, for reasons that I completely agree with - the students would rather have them taught in Java, because that would be useful in the market when they leave college.  What were they missing?  The knowledge that programming concepts are what make good programmers, not language skills.  Students want cookie cutter code which solves the problems that they are given.  That is why people are <a href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html">lambasting the teaching of Java</a>: people aren't learning hard thinking concepts.
 

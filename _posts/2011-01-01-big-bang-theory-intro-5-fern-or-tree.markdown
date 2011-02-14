@@ -1,9 +1,12 @@
 --- 
-
 layout: post
 title: "Big Bang Theory Intro #5: Fern or Tree"
+tags: 
+- play
+- tv
+- big-bang-theory-pictures
+- big-bang-theory-opening
 date: 2011-01-01 23:30:30 -06:00
-tags: [play, tv, big-bang-theory-pictures, big-bang-theory-opening]
 wordpress_url: http://base0.net/?p=701
 ---
 ﻿Let's restart these, shall we?  Today it's kind of boring though.

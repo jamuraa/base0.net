@@ -1,12 +1,10 @@
 --- 
-
 layout: post
 title: "Movie: The Day After Tomorrow"
-excerpt: |-
-  <em>Viewing Date: May 30, 2004</em>
-  <a href="http://www.imdb.com/title/tt0319262/">The Day After Tomorrow</a> is the required summer disaster movie of the summer.
+tags: 
+- play
+- movies-reviews
 date: 2004-06-09 13:06:00 -05:00
-tags: [play, movies-reviews]
 ---
 <em>Viewing Date: May 30, 2004</em>
 <a href="http://www.imdb.com/title/tt0319262/">The Day After Tomorrow</a> is the required summer disaster movie of the summer.  Made in the fine tradition of <a href="http://www.imdb.com/title/tt0120647/">Deep Impact</a> and <a href="http://www.imdb.com/title/tt0120591/">Armageddon</a>, I went into this movie expecting nothing but special effects and another interesting look at how the world could end for all of us, and of course it will be avoided at the last minute.

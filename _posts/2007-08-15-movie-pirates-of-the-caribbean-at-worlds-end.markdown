@@ -1,15 +1,12 @@
 --- 
-
 layout: post
 title: "Movie: Pirates of the Caribbean: At World's End"
-excerpt: |+
-  <strong>Riverview Theater</strong> 8/9/2007
-  <strong>Score: 3</strong>
-  
-  When I finished watching <span style="text-decoration: underline;">Pirates of the Caribbean: Dead Man's Chest</span>, I was really mad.  I thought it was such a cheat to have so many story arcs open when the movie ended.  It was obviously leading into the third movie, but I still thought it was cheating the viewer out of a good movie.  There were not enough arcs closed in the second part.  Unfortunately, the third installment was a huge let down.
-  
+tags: 
+- play
+- live-journal
+- movies-reviews
+- review
 date: 2007-08-15 21:34:16 -05:00
-tags: [play, live-journal, movies-reviews, review]
 ---
 <strong>Riverview Theater</strong> 8/9/2007
 <strong>Score: 3</strong>

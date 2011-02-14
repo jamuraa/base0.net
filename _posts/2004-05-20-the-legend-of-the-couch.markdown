@@ -1,10 +1,11 @@
 --- 
-
 layout: post
 title: The Legend of the Couch
-excerpt: Went to pick up a couch today that I spotted on <a href="http://www.livejournal.com/community/twin_cities/610180.html">LJ</a>.  This couch is huge, and is a sectional but has very heavy sections because one of them has a hideabed in it.  The ordeal of getting it from Burnsville to <a href="http://ontheriver.blogspot.com/">Di</a>'s place started at 7am this morning, when I called the UHaul place and they didn't have our reservation.  Originally we were going to use a SUV from a friend, but that fell through.  Anyway we just stopped by at 9:30 or so and then picked up the truck.
+tags: 
+- play
+- couch
+- uhaul
 date: 2004-05-20 14:57:00 -05:00
-tags: [play, couch, uhaul]
 ---
 Went to pick up a couch today that I spotted on <a href="http://www.livejournal.com/community/twin_cities/610180.html">LJ</a>.  This couch is huge, and is a sectional but has very heavy sections because one of them has a hideabed in it.  The ordeal of getting it from Burnsville to <a href="http://ontheriver.blogspot.com/">Di</a>'s place started at 7am this morning, when I called the UHaul place and they didn't have our reservation.  Originally we were going to use a SUV from a friend, but that fell through.  Anyway we just stopped by at 9:30 or so and then picked up the truck. They gave us the truck with no issue -- even though my driver's license is out of state and expired.
 

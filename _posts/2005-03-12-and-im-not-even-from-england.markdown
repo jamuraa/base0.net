@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: and I'm not even FROM england!
+tags: 
+- play
+- meme
 date: 2005-03-12 18:09:37 -06:00
-tags: [play, meme]
 ---
 <table cellpadding="20" align="center">
 <tbody>

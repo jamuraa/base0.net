@@ -1,8 +1,9 @@
----
+--- 
 layout: post
 title: Gastof's
+tags: 
+- play
 date: 2004-01-18 11:23:00 -06:00
-tags: [play]
 ---
 Last night I went to gastof's with Kelly and Andi.  Chuck was going to come too, but he came down with something, and doesn't really want to be sick for next week's big demo.  I don't blame him, it was really smoky and if I was even a little sick, I would have had issues by the end of the night.  So he just dropped us off.
 

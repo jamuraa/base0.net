@@ -1,12 +1,10 @@
 --- 
-
 layout: post
 title: A 90s geek!
-excerpt: |-
-  <table align= "center" border=1 bordercolor="#a7beef" width=320 cellspacing=0><tr><td align=center><big>I&apos;m A 1990s Geek</big></td></tr><tr><td align=center>Cool, confident, and very powerful, you&apos;re the sexiest geek ever! Buckle in, your decade is one hell of a ride.</td></tr><tr><td align=center><small><a href=http://spacefem.com/geektime>find your geek decade at spacefem.com</a></small></td></tr></table>
-  picked up from planetDebian of all places..
+tags: 
+- play
+- meme
 date: 2004-06-29 14:22:00 -05:00
-tags: [play, meme]
 ---
 <table border="1" cellspacing="0" width="320" align="center" bordercolor="#a7beef">
 <tbody>

@@ -1,16 +1,13 @@
 --- 
-
 layout: post
 title: "Debt \"consolidation\": scam, scum or sweet?"
-excerpt: |+
-  Throughout the last couple of years, I've had some bad decisions.  I decided to start using my credit to work for me, and to buy things which I couldn't afford.  Partly this was because I had a horrible ex, who I thought I should do things for, and partly because of just living outside of my means for a certain period of time.
-  
-  The long and short of it is, I've gotten myself into a bit of credit card debt.  I'm not in any big trouble, just needing to pay it down so that I can get on with using that money for other things.  There is a couple of web applications that I have in the works which will help me remind myself, but that's neither here nor there at this point.  So, I have all of this credit at high interest rates, surely there is someone out there that will look at my credit and finance it at a lower rate, make some money off of me, right?  I'm thinking that what I need is a consolidation loan - something to lump together my credit card debt and give me one monthly payment.  What I call this, is debt consolidation.
-  
-  Thinking we are in the age of the internet, I type "debt consolidation" into google and give it a try.  This is my first mistake.  Apparently "debt consolidation" doesn't mean that you are consolidating your debt, it instead means that you are going into what I would call debt negotiation.  This means you decide of your own volition that you are going to stop paying your bills, and try to negotiate with the credit card companies to pay off your debt at a fraction of your actual debt.  But I don't know this, so I nievely fill out a couple of forms at "debt consolidation" sites.  This gets pretty long, so I put in a break.  Read on, MacDuff.
-  
+tags: 
+- think
+- learn
+- credit
+- debt
+- scams
 date: 2006-02-17 14:43:08 -06:00
-tags: [think, learn, credit, debt, scams]
 ---
 Throughout the last couple of years, I've had some bad decisions.  I decided to start using my credit to work for me, and to buy things which I couldn't afford.  Partly this was because I had a horrible ex, who I thought I should do things for, and partly because of just living outside of my means for a certain period of time.
 

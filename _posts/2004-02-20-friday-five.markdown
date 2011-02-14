@@ -1,8 +1,10 @@
----
+--- 
 layout: post
 title: Friday Five
+tags: 
+- play
+- meme
 date: 2004-02-20 06:12:00 -06:00
-tags: [play, meme]
 ---
 When was the last time you...
 

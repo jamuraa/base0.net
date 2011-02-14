@@ -1,13 +1,10 @@
 --- 
-
 layout: post
 title: It's a long thursday and there's reason to believe...
-excerpt: |-
-  This week so far is a pretty normal week, with the exception of being at someone else's house with a big dog for a large portion.  <a href="http://amagdalyn.livejournal.com">amagdalyn</a> was housesitting for the dog, so I spent a bunch of time reveling in nice cable and making sure that he didn't chew up all their magazines.
-  
-  The homework which was supposed to be due last week tuesday was very not done at the beginning of this week, which puts me in a state of stress.
+tags: 
+- hack
+- learn
 date: 2004-04-01 18:57:00 -06:00
-tags: [hack, learn]
 ---
 This week so far is a pretty normal week, with the exception of being at someone else's house with a big dog for a large portion.  <a href="http://amagdalyn.livejournal.com">amagdalyn</a> was housesitting for the dog, so I spent a bunch of time reveling in nice cable and making sure that he didn't chew up all their magazines.
 

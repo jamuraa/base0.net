@@ -1,9 +1,11 @@
 --- 
-
 layout: post
 title: My feet are killing me
+tags: 
+- play
+- learn
+- dmv
 date: 2004-05-26 15:00:00 -05:00
-tags: [play, learn, dmv]
 ---
 Well, today I was hoping to get a new license, my first Minnesotan one. Di and I walked to downtown, where she had some stuff to do.  We walked downtown and when we got to Block E we took the skyways.  We stopped and browsed around Barnes &amp; Noble for a while and then walked the skyways to the Hennepin county government building downtown.
 

@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: I was sitting, waiting, wishing..
+tags: 
+- work-life
 date: 2005-09-01 22:03:55 -05:00
-tags: [work-life]
 ---
 Well, after I got everything done on the list today the movers came and moved all fo the stuff.  Di showed up at just the right time and the timing was perfect with the movers and the keys and everything.  Got out of it far under the budget I was planning on.  Unfortunately the entire new place is filled with boxes and nothing is unpacked right now.
 

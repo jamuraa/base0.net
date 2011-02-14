@@ -1,8 +1,9 @@
----
+--- 
 layout: post
 title: I'm a good loser
+tags: 
+- play
 date: 2004-01-09 09:21:00 -06:00
-tags: [play]
 ---
 <table border="1" align="center">
 <tbody>

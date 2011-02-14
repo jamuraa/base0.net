@@ -1,13 +1,14 @@
 --- 
-
 layout: post
 title: Steve Jobs sets insane goals..
-excerpt: |-
-  ..or he's not telling us something.  If the multi-year exclusive agreement is true, then the goals are probably unachievable.  In the keynote yesterday, Jobs put out there that almost a billion phones are sold each year to consumers.  Granted, most of these are regular phones without the whiz-bang and special features of the iPhone -- and are usually free to the consumer, subsidized by the contract agreements.  Still, he set what most would consider a modest goal, of getting 1% of the cell phone sales - 10 million phones, by the end of 2008.
-  
-  However, lets do some napkin math.
+tags: 
+- think
+- live-journal
+- planet-debian
+- apple
+- iphone
+- napkinmath
 date: 2007-01-10 11:13:46 -06:00
-tags: [think, live-journal, planet-debian, apple, iphone, napkinmath]
 ---
 ..or he's not telling us something.  If the multi-year exclusive agreement is true, then the goals are probably unachievable.  In the keynote yesterday, Jobs put out there that almost a billion phones are sold each year to consumers.  Granted, most of these are regular phones without the whiz-bang and special features of the iPhone -- and are usually free to the consumer, subsidized by the contract agreements.  Still, he set what most would consider a modest goal, of getting 1% of the cell phone sales - 10 million phones, by the end of 2008.
 

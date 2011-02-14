@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: You win some, you lose some
+tags: 
+- hack
+- learn
 date: 2004-11-22 18:00:28 -06:00
-tags: [hack, learn]
 ---
 Well today was quite the interesting day today.  I had 2 meetings that I forgot about (thank god I decided to go in early to study and <a href="http://silvrayn.livejournal.com">silvrayn</a> was around to remind me of them) and then a test to prepare for.   Of course in the two meetings I paid marginal attention.  The first one was fairly inconsequential and I discovered a really cool online utility <a href="http://www.bloglines.com">bloglines</a> which is almost exactly what I was looking for in a RSS reader.  It's now replaced <a href="http://www.mozilla.org/products/thunderbird">Thunderbird</a> as my syndication reader of choice.  It basically does that <a href="http://www.base0.net/planet">my Planet</a> was doing before, but it remembers what I have read and what I haven't read, making my life filtering out things I already know about much simpler.   It has nifty firefox integration, which makes it uber-cool in my opinion.  I don't know about the staying power of it though, because it doesn't charge for anything and has no ads that I noticed.   In that meeting the group I was there to represent basically got everything it wanted without my help.
 

@@ -1,10 +1,14 @@
 --- 
-
 layout: post
 title: It's too late baby, now it's too late
-excerpt: Getting to the gym consistently is one of the biggest hurdles that I have stuck to jumping over while I'm trying to lose a bit more than a few.  I seem to have no consistent schedule, except that I do end up doing it every day that I can.  One downside of this is that I tend to work out late at night, almost always an hour or less before I go to bed.  I've heard that this is not the best for the sleep, but I suspect it is actually better than nothing, so I continue to get to the gym at 11pm or 12pm.
+tags: 
+- play
+- live-journal
+- planet-debian
+- diet
+- exercise
+- franklin-coop
 date: 2006-11-10 11:00:00 -06:00
-tags: [play, live-journal, planet-debian, diet, exercise, franklin-coop]
 ---
 Getting to the gym consistently is one of the biggest hurdles that I have stuck to jumping over while I'm trying to lose a bit more than a few.  I seem to have no consistent schedule, except that I do end up doing it every day that I can.  One downside of this is that I tend to work out late at night, almost always an hour or less before I go to bed.  I've heard that this is not the best for the sleep, but I suspect it is actually better than nothing, so I continue to get to the gym at 11pm or 12pm.  Unfortunately, I found myself with some extra roadblocks this week:  the exercise room was half broken.  The breakers on one half of the room tend to trip when the air conditioner and two machines that are on that circuit are all in use.  This means that no one can use those machines until someone from the coop management goes and resets the switch.  The treadmill machine, my weapon of choice for shedding a few pounds, is inconveniently on this circuit, and can't be plugged in anywhere else.  This happened 3 times this week, Wed-Fri.  I'm calling the office for the second time tomorrow.
 

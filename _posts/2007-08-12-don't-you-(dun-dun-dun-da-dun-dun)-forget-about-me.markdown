@@ -1,13 +1,19 @@
 --- 
-
 layout: post
 title: Don't you (dun dun dun da dun dun) forget about me
-excerpt: |-
-  Recently I've been using <a href="http://rmilk.com">Remember the Milk</a> to remind me to do stuff.  In the past I had used the service briefly on my search for an online GTD tool.  I discarded it because it was too hard then to add new lists, which I had planned to use for each project.  I also was turned off by it because I wasn't keen on requiring the Internet to work.
-  
-  A couple of events has recently made this decision change.  The first thing that happened was my addition of messaging to my cell phone plan.  I did it mainly to interact with Twitter while I was on the road.
+tags: 
+- work-life
+- hack
+- live-journal
+- planet-debian
+- gtd
+- internet
+- lists
+- phone
+- remember-the-milk
+- tasks
+- twitter
 date: 2007-08-12 22:32:59 -05:00
-tags: [work-life, hack, live-journal, planet-debian, gtd, internet, lists, phone, remember-the-milk, tasks, twitter]
 ---
 Recently I've been using <a href="http://rmilk.com">Remember the Milk</a> to remind me to do stuff.  In the past I had used the service briefly on my search for an online GTD tool.  I discarded it because it was too hard then to add new lists, which I had planned to use for each project.  I also was turned off by it because I wasn't keen on requiring the Internet to work.
 

@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: I'm very well acquainted, too, with matters mathematical.
+tags: 
+- play
+- learn
 date: 2004-03-05 08:06:00 -06:00
-tags: [play, learn]
 ---
 Well, it's not quite "tomorrow" from my last update.  I really mean to update this more often, but it's turning into a "what did jamuraa do today" type of thing, and I don't think that's all that interesting, myself.
 

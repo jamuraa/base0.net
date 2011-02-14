@@ -1,9 +1,11 @@
 --- 
-
 layout: post
 title: "Book: Getting Things Done"
+tags: 
+- think
+- books
+- learn
 date: 2005-08-04 16:03:41 -05:00
-tags: [think, books, learn]
 ---
 <table>
 <tbody>

@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Things
+tags: 
+- think
+- learn
 date: 2004-07-23 16:20:15 -05:00
-tags: [think, learn]
 ---
 Things I can control:
 <ul>

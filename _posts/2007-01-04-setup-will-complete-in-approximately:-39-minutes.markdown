@@ -1,12 +1,17 @@
 --- 
-
 layout: post
 title: "Setup will complete in approximately: 39 minutes"
-excerpt: |-
-  <h3>Hardware evils</h3>
-  I've had quite the unfortunate week, hardware-wise, here.  Nothing on my end is broken, but [lj user=ceilingsarecool]'s computer is screwed but good.  It all started near the beginning of this week when I started to look into her machine.  It had been loud for a while, and was being unreliable in regards to applications.  Running memtest86+ on it via a handy <a href="http://www.sysresccd.org/">System Rescue CD</a> I always keep around discovered a couple of stuck bits on the memory that otherwise had been perfectly fine.
+tags: 
+- hack
+- live-journal
+- planet-debian
+- diana
+- computers
+- estimation
+- hardware
+- troubleshooting
+- windows
 date: 2007-01-04 21:20:56 -06:00
-tags: [hack, live-journal, planet-debian, diana, computers, estimation, hardware, troubleshooting, windows]
 ---
 <h3>Hardware evils</h3>
 I've had quite the unfortunate week, hardware-wise, here.  Nothing on my end is broken, but [lj user=ceilingsarecool]'s computer is screwed but good.  It all started near the beginning of this week when I started to look into her machine.  It had been loud for a while, and was being unreliable in regards to applications.  Running memtest86+ on it via a handy <a href="http://www.sysresccd.org/">System Rescue CD</a> I always keep around discovered a couple of stuck bits on the memory that otherwise had been perfectly fine.  However, I have had sticks die before, so I called <a href="http://www.crucial.com/">Crucial</a> and am having the memory replaced. (thank you Lifetime warranty).  While I was taking the Memory out I noticed the couse of the loudness.  Apparently there was ailing fan on the south bridge, which explained her issues with USB-connected devices.  No problem - I'll just order a replacement motherboard.  The old <a href="http://www.targetpc.com/hardware/motherboards/fic_ad11/">FIC AD11</a> was getting pretty bad anyway.

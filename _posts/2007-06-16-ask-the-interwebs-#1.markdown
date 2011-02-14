@@ -1,13 +1,14 @@
 --- 
-
 layout: post
 title: "Ask the Interwebs #1"
-excerpt: |-
-  Lately I have been thinking about switching source code management systems.  In years gone by, I have used CVS, Subversion, arch, and most recently bazaar-ng for managing all the source code that I have to change.  Lately I have been unhappy with the speed that bazaar takes to get some things done, and after watching a Google talk by Linus about Git, I thought I would give it a look.
-  
-  I was surprised to find out that it actually models the way that I work normally slightly better than the bazaar model does.
+tags: 
+- planet-debian
+- bazaar
+- coding
+- git
+- location-independence
+- scm
 date: 2007-06-16 12:19:18 -05:00
-tags: [planet-debian, bazaar, coding, git, location-independence, scm]
 ---
 Lately I have been thinking about switching source code management systems.  In years gone by, I have used CVS, Subversion, arch, and most recently bazaar-ng for managing all the source code that I have to change.  Lately I have been unhappy with the speed that bazaar takes to get some things done, and after watching a Google talk by Linus about Git, I thought I would give it a look.
 

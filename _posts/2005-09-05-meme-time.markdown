@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Meme time
+tags: 
+- play
+- meme
 date: 2005-09-05 08:56:15 -05:00
-tags: [play, meme]
 ---
 <img src="http://images.quizfarm.com/1110084125questionmark.jpg" alt="question mark" />
 You scored as <strong>agnosticism</strong>. You are an agnostic. Though it is generally taken that agnostics neither believe nor disbelieve in God, it is possible to be a theist or atheist in addition to an agnostic. Agnostics don't believe it is possible to prove the existence of God (nor lack thereof).

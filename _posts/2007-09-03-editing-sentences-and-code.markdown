@@ -1,13 +1,15 @@
 --- 
-
 layout: post
 title: Editing sentences and code
-excerpt: |-
-  I've spent the last week on editing the past week for a major paper, and I realized that I am horrible at editing.  I can't edit myself worth a damn - I miss every mistake that I've written, and I am horrible at cutting pieces of text.  Wishing that I could have a good method for editing like I do for debugging.   I suppose it's probably because I do debugging more than I do editing.  It may also be because editing doesn't really have a defined end - when you're debugging, when it passes all the tests, it's done.
-  
-  This one had a defined end date set by a deadline, and beings me to a point.
+tags: 
+- think
+- work-life
+- hack
+- live-journal
+- coding
+- writing
+- editing
 date: 2007-09-03 16:13:39 -05:00
-tags: [think, work-life, hack, live-journal, coding, writing, editing]
 ---
 I've spent the last week on editing the past week for a major paper, and I realized that I am horrible at editing.  I can't edit myself worth a damn - I miss every mistake that I've written, and I am horrible at cutting pieces of text.  Wishing that I could have a good method for editing like I do for debugging.   I suppose it's probably because I do debugging more than I do editing.  It may also be because editing doesn't really have a defined end - when you're debugging, when it passes all the tests, it's done.
 

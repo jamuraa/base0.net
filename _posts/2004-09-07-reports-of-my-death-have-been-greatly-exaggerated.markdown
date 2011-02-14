@@ -1,9 +1,11 @@
 --- 
-
 layout: post
 title: Reports of My Death Have Been Greatly Exaggerated
+tags: 
+- think
+- work-life
+- moving
 date: 2004-09-07 10:40:55 -05:00
-tags: [think, work-life, moving]
 ---
 So I haven't been posting much lately, this is something which I intend to fix starting now.  The reason that I have dropped off the radar lately is because of a great change in my life:  I moved from a studio apartment to a two-bedroom apartment.
 

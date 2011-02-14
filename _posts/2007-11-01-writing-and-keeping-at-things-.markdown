@@ -1,10 +1,16 @@
 --- 
-
 layout: post
 title: Writing and keeping at things.
-excerpt: Life for me lately is a constant struggle between things that I want to do and things that I have to do - then again, this has been the truth for much of my life.  The current thing that I have to do is edit my thesis proposal.  Some of you may remember that I <a href="http://base0.net/archives/324-In-my-own-head-consume,-I-sit-down-in-my-room.html">had a plan</a> to write my thesis proposal over the last two months, and then I would use these last two months of the year to finish some actual pre-thesis work and edit the proposal down to size.
+tags: 
+- think
+- work-life
+- live-journal
+- planet-debian
+- work
+- thesis
+- writing
+- blogging
 date: 2007-11-01 19:07:00 -05:00
-tags: [think, work-life, live-journal, planet-debian, work, thesis, writing, blogging]
 ---
 Life for me lately is a constant struggle between things that I want to do and things that I have to do - then again, this has been the truth for much of my life.  The current thing that I have to do is edit my thesis proposal.  Some of you may remember that I <a href="http://base0.net/archives/324-In-my-own-head-consume,-I-sit-down-in-my-room.html">had a plan</a> to write my thesis proposal over the last two months, and then I would use these last two months of the year to finish some actual pre-thesis work and edit the proposal down to size.  I didn't have a problem writing the thing - the work went quickly and spreading it out over two months was definitely the way to go.  However, now I have a 18,000 word thesis proposal breathing down my neck, waiting for me to do more research on it and edit it down to a more reasonable 12,000 to 15,000 words.   I also need to come up with a good schedule which is reasonable and doable.   I get the feeling that I am going to have to tone down my actual thesis work as it would probably take me more than a year to complete what is actually proposed in the thesis.   I also feel like I will be at school doing lots of work over the next couple of months getting it edited to just the right amount - I feel like editing is a job which is never done, and I could actually work on getting it just right for a long time.
 

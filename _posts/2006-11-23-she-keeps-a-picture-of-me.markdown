@@ -1,10 +1,14 @@
 --- 
-
 layout: post
 title: She keeps a picture of me
-excerpt: "<!-- s9ymdb:7 --><img class=\"alignleft\" style=\"float: left; border: 0px; padding-left: 5px; padding-right: 5px;\" src=\"/wp-content/uploads/pictures/beforepicture.serendipityThumb.jpg\" alt=\"\" /> This is a picture of me before I started this whole diet watching and exercising regimen.  Hopefully I will be able to take regular pictures that can document my progress.  This is one thing which I don't plan on doing very regularly, maybe every two or three months."
+tags: 
+- play
+- live-journal
+- planet-debian
+- diet
+- exercise
+- web
 date: 2006-11-23 23:06:00 -06:00
-tags: [play, live-journal, planet-debian, diet, exercise, web]
 ---
 <!-- s9ymdb:7 --><img class="alignleft" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="/wp-content/uploads/pictures/beforepicture.serendipityThumb.jpg" alt="" /> This is a picture of me before I started this whole diet watching and exercising regimen.  Hopefully I will be able to take regular pictures that can document my progress.  This is one thing which I don't plan on doing very regularly, maybe every two or three months.  Pictures have been known to be a great motivator to people on diets - they remind people how they used to look, and more importantly point out how far they have gone so far.  Usually the most dramatic change is seen in the picture, even if you don't see much movement on the scale.  The picture is so powerful that it is usually used alongside actual insane weight loss claims in TV commercials.  Anyway, this is how I looked when I started this whole thing.
 

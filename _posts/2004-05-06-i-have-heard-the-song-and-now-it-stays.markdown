@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: I have heard the song, and now it stays.
+tags: 
+- hack
+- learn
 date: 2004-05-06 17:30:00 -05:00
-tags: [hack, learn]
 ---
 I have heard the song which will resound through my head for days. <a href="http://www.lemonizer.com/banana/">It has me</a>.   I am much like the man <a href="&quot;http://uploads.ungrounded.net/content.php?id=166521&amp;name=166521_bananaphone.swf&amp;title=Banana%20Phone&amp;date=1083729600&amp;quality=b&amp;uj=0&amp;w=550&amp;h=400">here</a>.
 

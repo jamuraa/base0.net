@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Get up, come on get down with the sickness
+tags: 
+- play
+- work-life
 date: 2004-05-25 14:30:00 -05:00
-tags: [play, work-life]
 ---
 After I posted yesterday I started feeling not so well.  I don't know why, but it's probably something hanging over from the cold I had a while back. I'm sure it's great that I am going into work and walking around in a t-shirt and shorts too.  Anyway my ncse was all stuffed up and I ended up not feeling too well at all.
 

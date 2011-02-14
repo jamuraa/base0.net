@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: Travels, Meetings, Repairs
+tags: 
+- play
 date: 2005-08-07 19:13:56 -05:00
-tags: [play]
 ---
 Yesterday I took a day and went to meet the old gang at the old stomping grounds.  Mostly we just hung out and chatted about old things and new things, and crackpot theories.  I had a good time, but I was getting really tired of it at the end.  I also put a bunch of miles on the car.
 

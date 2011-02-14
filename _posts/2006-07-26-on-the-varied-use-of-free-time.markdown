@@ -1,10 +1,10 @@
 --- 
-
 layout: post
 title: On the Varied Use of Free Time
-excerpt: "Three things which I do with my free time which will have some impact or change this week: Gaming, Sleeping, Watching TV. "
+tags: 
+- play
+- sleep
 date: 2006-07-26 22:24:59 -05:00
-tags: [play, sleep]
 ---
 Three things which I do with my free time which will have some impact or change this week: Gaming, Sleeping, Watching TV.
 

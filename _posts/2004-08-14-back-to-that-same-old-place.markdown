@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: Back to that same old place...
+tags: 
+- play
+- work-life
 date: 2004-08-14 21:23:58 -05:00
-tags: [play, work-life]
 ---
 Home sweet home - except that it wasn't home that I visited this weekend.  I went to a family reunion / wedding in Spencer and Clear Lake, Iowa.  Di didn't come along, for good reason, and I missed her a lot.  I would have liked her to come along, but it was smarter of me to not introduce her to my family by bringing her to a wedding with every living relative on my father's side of the family present.
 

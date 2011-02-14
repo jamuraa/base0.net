@@ -1,8 +1,11 @@
----
+--- 
 layout: post
 title: Events of the last few days.
+tags: 
+- play
+- work-life
+- learn
 date: 2004-02-19 08:24:00 -06:00
-tags: [play, work-life, learn]
 ---
 Monday is a fairly quiet day for me at school, so I decided to waste a ton of time making <a href="http://jamuraa.livejournal.com">my journal</a> look like <a href="http://www.base0.net/">my homepage</a>, in the hopes of merging them into one this weekend.  If only I could get the <a href="http://jamuraa.livejournal.com/3910.html">comments pages</a> to look right.   I'm willing to let basically anyone use this new style that I made (I actually modified "A sturdy gesture" heavily).  All in all, I'm pretty happy with the new page.  I have a couple things that I still want to fix, like putting a navigation link at the bottom of the page, and some more links to facilitate things like editing entries.
 

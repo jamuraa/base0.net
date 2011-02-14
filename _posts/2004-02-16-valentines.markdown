@@ -1,8 +1,9 @@
----
+--- 
 layout: post
 title: Valentine's
+tags: 
+- play
 date: 2004-02-16 12:12:00 -06:00
-tags: [play]
 ---
 This weekend was the first time in a few years that I have done anything on Valentine's day.  It was my busiest and best ever, I think.
 

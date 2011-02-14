@@ -1,50 +1,12 @@
 --- 
-
 layout: post
 title: Engage!
-excerpt: |-
-  Your results:
-  <strong>You are <span style="font-size: x-large;">Jean-Luc Picard</span></strong>
-  <table border="0">
-  <tbody>
-  <tr>
-  <td>
-  <table border="0">
-  <tbody>
-  <tr>
-  <td>Jean-Luc Picard</td>
-  <td><hr size="4" /></td>
-  <td>70%</td>
-  </tr>
-  <tr>
-  <td>Spock</td>
-  <td><hr size="4" /></td>
-  <td>67%</td>
-  </tr>
-  <tr>
-  <td>Will Riker</td>
-  <td><hr size="4" /></td>
-  <td>60%</td>
-  </tr>
-  <tr>
-  <td>Worf</td>
-  <td><hr size="4" /></td>
-  <td>55%</td>
-  </tr>
-  <tr>
-  <td>Data</td>
-  <td><hr size="4" /></td>
-  <td>54%</td>
-  </tr>
-  <tr>
-  <td>Uhura</td>
-  <td><hr size="4" /></td>
-  <td>45%</td>
-  </tr>
-  <tr>
-  <td>James T.
+tags: 
+- play
+- live-journal
+- meme
+- geek
 date: 2007-05-01 19:04:33 -05:00
-tags: [play, live-journal, meme, geek]
 ---
 Your results:
 <strong>You are <span style="font-size: x-large;">Jean-Luc Picard</span></strong>

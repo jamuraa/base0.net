@@ -1,15 +1,13 @@
 --- 
-
 layout: post
 title: Apparently, I'm flexible.
-excerpt: |-
-  <table border="0" cellspacing="0" cellpadding="5" width="600">
-  <tbody>
-  <tr>
-  <td><img src="http://quizfarm.com/images/1142421770ladies_and_mens_toilet_sig.gif" alt="" /></td>
-  <td>You scored as <strong>Either</strong>. You brain is neither specifically male, nor female in the way you perceive your surroundings. As bad as this may sound to some, it can easily mean that you are capable of combining both  gender aspects to your advantage. Rather than being genderless you are possibly able think freely.
+tags: 
+- play
+- live-journal
+- planet-debian
+- meme
+- gender
 date: 2007-01-06 08:41:03 -06:00
-tags: [play, live-journal, planet-debian, meme, gender]
 ---
 <table border="0" cellspacing="0" cellpadding="5" width="600">
 <tbody>

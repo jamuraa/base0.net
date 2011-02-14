@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: It's a very very.. Mad World
+tags: 
+- play
 date: 2004-08-01 01:16:48 -05:00
-tags: [play]
 ---
 An executive summary of the events of today:
 

@@ -1,9 +1,9 @@
 --- 
-
 layout: post
 title: The Continuing Saga of the ML-2010
+tags: 
+- hack
 date: 2006-06-27 10:08:59 -05:00
-tags: [hack]
 ---
 I upgraded my CUPS to 1.2 today, and had a bit of trouble with getting the ML-2010 to work with it.  Given my <a title="ML-2010 Setup on AMD64" href="http://base0.net/archives/32-Getting-a-Samsung-ML-2010-to-work-in-Debian-Linux-amd64x86_64.html">other issues</a> with this printer, I thought I would expound on how I fixed yet another problem with this semi-supported printer.
 

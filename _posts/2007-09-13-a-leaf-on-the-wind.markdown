@@ -1,16 +1,13 @@
 --- 
-
 layout: post
 title: A leaf on the wind.
-excerpt: |-
-  It's meme Friday, which I'm bringing back from.. never doing it.  And it isn't Friday.
-  <table border="0" cellspacing="0" cellpadding="5" width="600">
-  <tbody>
-  <tr>
-  <td><img src="http://quizfarm.com//images/1127582829sqwash.jpg" alt="" /></td>
-  <td>You scored as <strong>Hoban 'Wash' Washburne</strong>, The Pilot.  You are a leaf on the wind, see how you soar.  You have a good job, and a stunning wife who loves you (and can kill people).  Life is good, which is why you can't help smiling.
+tags: 
+- play
+- live-journal
+- movies-reviews
+- meme
+- serenity
 date: 2007-09-13 09:34:51 -05:00
-tags: [play, live-journal, movies-reviews, meme, serenity]
 ---
 It's meme Friday, which I'm bringing back from.. never doing it.  And it isn't Friday.
 <table border="0" cellspacing="0" cellpadding="5" width="600">

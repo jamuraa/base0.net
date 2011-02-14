@@ -1,9 +1,10 @@
 --- 
-
 layout: post
 title: My brain hurts.
+tags: 
+- play
+- teach
 date: 2004-04-18 14:59:00 -05:00
-tags: [play, teach]
 ---
 I just finished grading 240 problems in a little less than 4 hours for my <a href="http://www.itlabs.umn.edu/classes/Spring-2004/csci1901">class</a>, since they took a test on friday.  We're speedy, I tell you.  My brain feels a little like mush right now.  I'd love to go out and do something completely mindless, but I'll probably stay in and watch more DVDs.  If anyone wants to do something mindless like watching a movie (ooh, cold theater would feel good about now), IM me.
 
