@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 180
+
 layout: post
 title: I can work overtime I can work in a mine
 excerpt: |-

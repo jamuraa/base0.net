@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 78
+
 layout: post
 title: "Movie: The Day After Tomorrow"
 excerpt: |-

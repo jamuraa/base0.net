@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 118
+
 layout: post
 title: and I'm not even FROM england!
 date: 2005-03-12 18:09:37 -06:00

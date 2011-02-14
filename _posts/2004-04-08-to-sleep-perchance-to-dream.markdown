@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 43
+
 layout: post
 title: To sleep, perchance, to dream.
 date: 2004-04-08 08:32:00 -05:00

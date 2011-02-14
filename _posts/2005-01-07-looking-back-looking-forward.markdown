@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 112
+
 layout: post
 title: Looking back, looking forward
 date: 2005-01-07 14:36:51 -06:00

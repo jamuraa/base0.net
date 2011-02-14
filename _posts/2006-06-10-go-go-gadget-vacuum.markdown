@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 168
+
 layout: post
 title: Go Go Gadget Vacuum
 excerpt: The gift which I bought Di last week came this Thursday - a <a href="http://irobot.com/sp.cfm?pageid=122"  title="iRobot Roomba Sage">iRobot Roomba Sage</a>.  So far we have ran it about 4 times - the first three times it's bin filled up completely, today when it was finished it wasn't even half full.  The robot is really maddening to watch, because the pseudo-random walk that it uses doesn't seem like it is covering the floor that well.

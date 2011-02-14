@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 105
+
 layout: post
 title: Random Technological Ranting
 date: 2004-09-21 08:39:47 -05:00

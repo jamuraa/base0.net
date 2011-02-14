@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 97
+
 layout: post
 title: "Movie: Napoleon Dynamite"
 date: 2004-08-14 17:53:09 -05:00

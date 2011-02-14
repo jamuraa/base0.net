@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 70
+
 layout: post
 title: My 80's Toy
 excerpt: |-

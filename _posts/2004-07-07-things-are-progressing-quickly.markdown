@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 85
+
 layout: post
 title: Things are progressing quickly..
 excerpt: |-

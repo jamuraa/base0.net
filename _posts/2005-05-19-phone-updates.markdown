@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 127
+
 layout: post
 title: Phone Updates
 date: 2005-05-19 14:46:59 -05:00

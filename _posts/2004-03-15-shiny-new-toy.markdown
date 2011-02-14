@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 32
+
 layout: post
 title: SHINY. NEW. TOY.
 date: 2004-03-15 22:16:00 -06:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 187
+
 layout: post
 title: "Google Experiment: Prelude"
 excerpt: I've been using DreamHost to host this blog and most of my persistent online activity for the past 10 months.  All in all I have been really happy with them.   Others seem to have issues, but I don't have any gripes.  I'm only paying a paltry fee, so I don't complain too much if my server isn't five-nines reliable.  However, I am starting to have a problem with one of the services available.  The email support is somewhat lax.  My current situation is that I am using mutt as a reader on the server itself.  This requires me to SSH into the server and read the mail on there.

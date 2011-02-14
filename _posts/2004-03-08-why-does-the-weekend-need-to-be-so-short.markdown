@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 28
+
 layout: post
 title: Why does the weekend need to be so short?
 date: 2004-03-08 10:52:00 -06:00

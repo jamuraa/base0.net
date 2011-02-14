@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 92
+
 layout: post
 title: It's a very very.. Mad World
 date: 2004-08-01 01:16:48 -05:00

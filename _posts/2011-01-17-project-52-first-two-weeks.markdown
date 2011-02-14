@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 738
+
 layout: post
 title: "Project 52: First two weeks"
 date: 2011-01-17 23:06:22 -06:00

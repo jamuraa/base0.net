@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 310
+
 layout: post
 title: "Big Bang Theory Intro #2: Magnified Roundworms"
 excerpt: |

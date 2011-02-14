@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 51
+
 layout: post
 title: My brain hurts.
 date: 2004-04-18 14:59:00 -05:00

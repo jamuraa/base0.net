@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 656
+
 layout: post
 title: Random thoughts on the iPad
 date: 2010-02-01 01:11:53 -06:00

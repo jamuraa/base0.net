@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 52
+
 layout: post
 title: West Wing FanJournals
 date: 2004-04-19 11:34:00 -05:00

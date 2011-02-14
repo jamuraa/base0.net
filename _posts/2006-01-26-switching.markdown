@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 156
+
 layout: post
 title: Switching.
 date: 2006-01-26 06:23:45 -06:00

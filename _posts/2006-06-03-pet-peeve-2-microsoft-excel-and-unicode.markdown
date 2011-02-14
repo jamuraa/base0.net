@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 166
+
 layout: post
 title: "Pet Peeve #2: Microsoft Excel and Unicode"
 date: 2006-06-03 22:21:31 -05:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 48
+
 layout: post
 title: Some sort of get-together, late notice.
 excerpt: |

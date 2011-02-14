@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 35
+
 layout: post
 title: And now for something completely different
 excerpt: |-

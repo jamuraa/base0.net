@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 36
+
 layout: post
 title: Time enough to post..
 date: 2004-03-22 17:19:00 -06:00

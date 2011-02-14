@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 42
+
 layout: post
 title: I'm just filling LJ space now
 excerpt: |-

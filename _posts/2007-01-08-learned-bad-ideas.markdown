@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 200
+
 layout: post
 title: Learned Bad Ideas
 excerpt: |-

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 54
+
 layout: post
 title: I really meant to post something earlier this week
 date: 2004-04-23 07:59:00 -05:00

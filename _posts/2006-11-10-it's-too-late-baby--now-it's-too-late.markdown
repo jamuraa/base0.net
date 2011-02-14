@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 189
+
 layout: post
 title: It's too late baby, now it's too late
 excerpt: Getting to the gym consistently is one of the biggest hurdles that I have stuck to jumping over while I'm trying to lose a bit more than a few.  I seem to have no consistent schedule, except that I do end up doing it every day that I can.  One downside of this is that I tend to work out late at night, almost always an hour or less before I go to bed.  I've heard that this is not the best for the sleep, but I suspect it is actually better than nothing, so I continue to get to the gym at 11pm or 12pm.

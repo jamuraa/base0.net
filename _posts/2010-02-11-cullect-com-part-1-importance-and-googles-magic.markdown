@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 659
+
 layout: post
 title: "Cullect.com: Part 1 - Importance (and Google's Magic)"
 date: 2010-02-11 00:40:47 -06:00

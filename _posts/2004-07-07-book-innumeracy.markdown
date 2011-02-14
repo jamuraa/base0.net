@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 86
+
 layout: post
 title: "Book: Innumeracy"
 date: 2004-07-07 11:51:12 -05:00

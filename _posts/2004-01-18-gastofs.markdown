@@ -1,17 +1,14 @@
---- 
-wordpress_id: 6
+---
 layout: post
 title: Gastof's
-excerpt: |-
-  Last night I went to gastof's with Kelly and Andi.  Chuck was going to come too, but he came down with something, and doesn't really want to be sick for next week's big demo.  I don't blame him, it was really smoky and if I was even a little sick, I would have had issues by the end of the night.  So he just dropped us off.
-  
-  The band was playing polka music, which is surprisingly good, and a bunch of people were dancing.  The ages of these people ran the gamut.  There were 21-year olds all the way up to a guy who I'm sure was at least 70.
 date: 2004-01-18 11:23:00 -06:00
-tags: play
+tags: [play]
 ---
 Last night I went to gastof's with Kelly and Andi.  Chuck was going to come too, but he came down with something, and doesn't really want to be sick for next week's big demo.  I don't blame him, it was really smoky and if I was even a little sick, I would have had issues by the end of the night.  So he just dropped us off.
 
-The band was playing polka music, which is surprisingly good, and a bunch of people were dancing.  The ages of these people ran the gamut.  There were 21-year olds all the way up to a guy who I'm sure was at least 70.  The place turned out to be packed when we got there, but don't tell that to the owners, they wanted to pack more people in.  I'd say the amount of people in the place while we were there pretty much tripled.  After a while the band started to play more polka-covers of hits we all know ("That's Amore", "New York, New York" to name a few, although I'm sure there were non-crooner era songs in there) and more people started dancing.  After the band was done a DJ started (around midnight).  A fun time was had by all.
+The band was playing polka music, which is surprisingly good, and a bunch of people were dancing.  The ages of these people ran the gamut.  There were 21-year olds all the way up to a guy who I'm sure was at least 70.  
+<!--more-->
+The place turned out to be packed when we got there, but don't tell that to the owners, they wanted to pack more people in.  I'd say the amount of people in the place while we were there pretty much tripled.  After a while the band started to play more polka-covers of hits we all know ("That's Amore", "New York, New York" to name a few, although I'm sure there were non-crooner era songs in there) and more people started dancing.  After the band was done a DJ started (around midnight).  A fun time was had by all.
 
 I got pretty drunk.  I only had 3 beers - but the size of these beers is massive.  Know that scene in Fellowship of the Ring where Merry comes up with a glass as big as his head? "That, my friend, is a Pint"?  That's how big these beers are.  Darned good german beer though.
 

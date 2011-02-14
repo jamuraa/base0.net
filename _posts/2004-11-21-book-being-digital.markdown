@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 106
+
 layout: post
 title: "Book: Being Digital"
 date: 2004-11-21 18:19:17 -06:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 701
+
 layout: post
 title: "Big Bang Theory Intro #5: Fern or Tree"
 date: 2011-01-01 23:30:30 -06:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 93
+
 layout: post
 title: How to lose LJ friends in 3 easy steps
 date: 2004-08-02 07:42:06 -05:00

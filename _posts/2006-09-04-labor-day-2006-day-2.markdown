@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 182
+
 layout: post
 title: Labor Day 2006 Day 2
 excerpt: |-

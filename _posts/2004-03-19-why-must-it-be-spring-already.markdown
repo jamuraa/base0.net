@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 34
+
 layout: post
 title: Why must it be spring already?
 date: 2004-03-19 12:35:00 -06:00

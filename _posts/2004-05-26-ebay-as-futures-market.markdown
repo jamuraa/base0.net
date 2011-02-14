@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 75
+
 layout: post
 title: eBay as futures market
 date: 2004-05-26 14:39:00 -05:00

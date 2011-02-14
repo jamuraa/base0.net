@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 743
+
 layout: post
 title: "Project 52: Week 3"
 date: 2011-01-24 13:35:14 -06:00

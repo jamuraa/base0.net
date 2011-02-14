@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 142
+
 layout: post
 title: Starting, sortof
 date: 2005-09-08 20:38:21 -05:00

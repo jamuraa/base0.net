@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 157
+
 layout: post
 title: How to become more interesting to people
 date: 2006-01-28 22:04:19 -06:00

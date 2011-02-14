@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 186
+
 layout: post
 title: Damn, Had to be the guy who dies.
 excerpt: |-

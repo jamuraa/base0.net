@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 311
+
 layout: post
 title: "Big Bang Theory Intro #3: Radiolaria"
 excerpt: "Travelling through time in the Big Bang Theory opening barrage of pictures, we are only on the third of the total 110 pictures in the visual collage.   It's going to get a little more interesting after this, but this one seems more interesting than the <a href=\"http://base0.net/node/309\">last</a> <a href=\"http://base0.net/node/310\">two</a>.  Feast your eyes: \r\n\

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 139
+
 layout: post
 title: I was sitting, waiting, wishing..
 date: 2005-09-01 22:03:55 -05:00

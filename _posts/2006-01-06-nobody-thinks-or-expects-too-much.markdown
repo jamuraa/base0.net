@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 150
+
 layout: post
 title: "nobody thinks or expects too much "
 date: 2006-01-06 06:39:32 -06:00

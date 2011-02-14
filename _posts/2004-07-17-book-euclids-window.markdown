@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 88
+
 layout: post
 title: "Book: Euclid's Window"
 date: 2004-07-17 17:36:27 -05:00

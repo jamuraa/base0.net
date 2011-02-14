@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 94
+
 layout: post
 title: "Movie: The Corporation"
 date: 2004-08-02 19:38:38 -05:00

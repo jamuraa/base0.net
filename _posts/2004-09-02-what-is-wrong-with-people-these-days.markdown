@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 102
+
 layout: post
 title: What is wrong with people these days?
 date: 2004-09-02 16:38:59 -05:00

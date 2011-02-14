@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 138
+
 layout: post
 title: You gotta be clean...
 date: 2005-08-31 23:23:59 -05:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 671
+
 layout: post
 title: Magical, Revolutionary, Evolutionary, Upgrade
 date: 2010-07-20 00:30:26 -05:00

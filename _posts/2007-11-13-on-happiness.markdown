@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 234
+
 layout: post
 title: On happiness
 excerpt: I was viewing one of my most favorite speakers today, Lawrence Lessig, talk about copyright, giving a speech that is very similar to one that I have heard a few times online, but Lessig presents it so well that I end up watching it over and over again.  This particular speech was <a href="http://www.ted.com/talks/view/id/187">given at TED</a>.    The nice thing about coming across a TED talk is that it is almost always enlightening in some way.

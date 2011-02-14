@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 233
+
 layout: post
 title: How long until we have laptops with no moving parts?
 excerpt: Today I was reminded about a thought I was having earlier this year by a twitter from <a href="http://garrickvanburen.com/archive/disc-drives-to-go-the-way-of-disc-drives">Garrick Van Buren</a> about the <a href="http://www.appleinsider.com/articles/07/11/12/ultra_portable_apple_notebook_to_splash_down_at_macworld_expo.html">new ultra-thin MacBooks</a>.  It seems altogether likely that the next laptop computer that I buy will have no moving parts.  Currently the only moving parts in the MacBook that I have now are in the optical drive, the fan, and the hard drive.

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 696
+
 layout: post
 title: December Diet Update
 date: 2010-12-11 15:17:24 -06:00

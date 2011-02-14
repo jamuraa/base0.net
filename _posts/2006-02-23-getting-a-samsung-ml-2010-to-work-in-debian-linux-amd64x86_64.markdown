@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 162
+
 layout: post
 title: Getting a Samsung ML-2010 to work in Debian Linux amd64/x86_64
 date: 2006-02-23 11:43:17 -06:00

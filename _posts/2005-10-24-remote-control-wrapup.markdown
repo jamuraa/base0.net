@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 144
+
 layout: post
 title: Remote Control Wrapup
 date: 2005-10-24 23:23:59 -05:00

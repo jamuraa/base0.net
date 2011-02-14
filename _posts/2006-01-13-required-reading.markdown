@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 153
+
 layout: post
 title: Required reading.
 date: 2006-01-13 12:39:56 -06:00

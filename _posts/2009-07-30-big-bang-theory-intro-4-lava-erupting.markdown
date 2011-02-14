@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 312
+
 layout: post
 title: "Big Bang Theory Intro #4: Lava Erupting"
 date: 2009-07-30 02:26:49 -05:00

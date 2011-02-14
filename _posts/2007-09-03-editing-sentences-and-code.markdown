@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 228
+
 layout: post
 title: Editing sentences and code
 excerpt: |-

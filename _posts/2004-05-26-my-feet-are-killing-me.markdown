@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 76
+
 layout: post
 title: My feet are killing me
 date: 2004-05-26 15:00:00 -05:00

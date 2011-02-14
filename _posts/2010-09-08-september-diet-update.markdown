@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 675
+
 layout: post
 title: September Diet Update
 date: 2010-09-08 11:15:50 -05:00

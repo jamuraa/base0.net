@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 26
+
 layout: post
 title: It's such a wonder that I think I'll stay in bed.
 excerpt: |-

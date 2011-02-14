@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 170
+
 layout: post
 title: Random Technological Stuff
 excerpt: |-

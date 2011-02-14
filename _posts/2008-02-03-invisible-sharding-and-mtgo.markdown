@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 236
+
 layout: post
 title: Invisible Sharding and MTGO
 excerpt: "Lately I have been playing a lot of Magic: The Gathering.  While most people who play the game are content to go to a shop and play with paper cards, I'm much more geeky than that, and don't really have the time to go to a game store.  I play on the Magic Online.   I've detailed before how the server architecture of the Magic Online servers is not good - there is a single, monolithic server which is handling most of the game functions which users take part in."

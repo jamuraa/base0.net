@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 107
+
 layout: post
 title: "Book: Priceless"
 date: 2004-11-21 19:39:51 -06:00

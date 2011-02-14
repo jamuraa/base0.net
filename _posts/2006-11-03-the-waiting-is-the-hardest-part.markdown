@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 188
+
 layout: post
 title: The waiting is the hardest part
 excerpt: Exercise is hard work.  It is hard to keep going to the exercise room every day, and getting on that machine and doing the exercise.  It is only loosely assuaded by the fact that I can listen to music or read a magazine while I am doing it.  The saddle on the stationary bike is uncomfortable, and the treadmill is annoying when it asks for my heartrate.  Don't get me wrong, I am comitted to my exercise regimen and will be keeping it up for the forseeable future.  I really do believe that I am improving my overall health and wellbeing doing it.

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 104
+
 layout: post
 title: Reports of My Death Have Been Greatly Exaggerated
 date: 2004-09-07 10:40:55 -05:00

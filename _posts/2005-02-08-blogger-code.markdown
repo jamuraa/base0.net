@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 115
+
 layout: post
 title: Blogger Code
 date: 2005-02-08 12:31:55 -06:00

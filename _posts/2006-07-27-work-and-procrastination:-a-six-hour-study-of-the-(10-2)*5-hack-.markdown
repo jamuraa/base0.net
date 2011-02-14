@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 177
+
 layout: post
 title: "Work and Procrastination: A six-hour study of the (10+2)*5 hack."
 excerpt: "Recently I discovered the <a href=\"http://www.43folders.com/2005/10/11/procrastination-hack-1025/\">(10+2)*5 dash</a> courtesy of Merlin over at <a href=\"http://www.43folders.com\">43 Folders</a>, and I thought that I would give it a try.  The concept is fairly simple: work for 10 minutes, screw around for 2 minutes, repeat 5 times, and voila! you have filled an hour with 5/6 productivity."

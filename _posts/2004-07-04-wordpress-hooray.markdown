@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 82
+
 layout: post
 title: WordPress, hooray!
 date: 2004-07-04 12:32:55 -05:00

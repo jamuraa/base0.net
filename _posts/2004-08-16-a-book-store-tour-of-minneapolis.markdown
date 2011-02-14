@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 101
+
 layout: post
 title: A Book Store Tour of Minneapolis
 date: 2004-08-16 16:39:13 -05:00

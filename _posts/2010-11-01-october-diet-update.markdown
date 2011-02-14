@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 679
+
 layout: post
 title: October Diet Update
 date: 2010-11-01 23:48:45 -05:00

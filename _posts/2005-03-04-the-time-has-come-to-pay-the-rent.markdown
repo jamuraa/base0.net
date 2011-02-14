@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 117
+
 layout: post
 title: The time has come, to pay the rent
 date: 2005-03-04 22:10:15 -06:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 98
+
 layout: post
 title: "Movie: Harold and Kumar go to White Castle"
 date: 2004-08-14 18:42:32 -05:00

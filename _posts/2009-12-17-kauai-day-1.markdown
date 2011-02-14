@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 313
+
 layout: post
 title: Kauai - Day 1
 date: 2009-12-17 15:03:26 -06:00

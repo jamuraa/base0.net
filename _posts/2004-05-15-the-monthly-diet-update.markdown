@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 63
+
 layout: post
 title: The Monthly Diet Update
 excerpt: |-

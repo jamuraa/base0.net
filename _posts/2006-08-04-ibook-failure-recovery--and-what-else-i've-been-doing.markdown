@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 178
+
 layout: post
 title: iBook failure recovery, and what else I've been doing
 excerpt: Well, I discovered last night while I was writing a blog entry that my iBook G4 is somewhat broken.  After ignoring it for most of the day today, I am currently working on getting my home directory off of it so that I can try installing Debian later tonight.  I think that some piece of hardware has failed, because I haven't seen OS X sieze up like this before.  However, I haven't yet had a freeze occur when I am in Linux of some kind.

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 196
+
 layout: post
 title: These are just a couple of my cravings
 excerpt: "<!-- s9ymdb:8 --><img class=\"alignright\" style=\"float: right; border: 0px; padding-left: 5px; padding-right: 5px;\" src=\"/wp-content/uploads/pictures/192051320_ca3773e1bb_o.serendipityThumb.jpg\" alt=\"\" /> Food has always been a source of contention for me when I am trying to lose weight.  I never want to restrict the types of food - I've spent a long time working out what I like and dislike.  One of the benefits of the Hacker's Diet isn't all that concerned with what food you eat, but simply that you get a certain amount of calories, it gives you a lot of choices for dining."

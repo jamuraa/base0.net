@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 50
+
 layout: post
 title: One friday I won't forget
 excerpt: Yesterday was <a href="http://www.bucadibeppo.com/">Buca</a>'s with the LJ gang including <a href="http://zosiablue.livejournal.com">zosiablue</a>, <a href="http://adrianne.livejournal.com">adrianne</a>, <a href="http://bronzegoddess.livejournal.com">bronzegoddess</a> and company.   I had a great time meeting everyone.  The food was mediocre by Buca's standards though.  I swear our waiter had the perfect voice for a stand-up comic.

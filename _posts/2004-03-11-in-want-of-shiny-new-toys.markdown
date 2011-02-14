@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 30
+
 layout: post
 title: In Want of Shiny New Toys
 date: 2004-03-11 10:43:00 -06:00

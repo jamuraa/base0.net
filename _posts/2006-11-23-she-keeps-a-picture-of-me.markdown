@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 195
+
 layout: post
 title: She keeps a picture of me
 excerpt: "<!-- s9ymdb:7 --><img class=\"alignleft\" style=\"float: left; border: 0px; padding-left: 5px; padding-right: 5px;\" src=\"/wp-content/uploads/pictures/beforepicture.serendipityThumb.jpg\" alt=\"\" /> This is a picture of me before I started this whole diet watching and exercising regimen.  Hopefully I will be able to take regular pictures that can document my progress.  This is one thing which I don't plan on doing very regularly, maybe every two or three months."

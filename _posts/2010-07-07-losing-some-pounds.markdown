@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 666
+
 layout: post
 title: Losing some pounds
 date: 2010-07-07 19:10:36 -05:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 73
+
 layout: post
 title: My Nick Show
 excerpt: |-

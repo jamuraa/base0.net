@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 226
+
 layout: post
 title: "Movie: Hairspray"
 excerpt: |+

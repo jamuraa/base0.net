@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 57
+
 layout: post
 title: Sometimes, I find it's easy to be myself
 date: 2004-04-29 17:44:00 -05:00

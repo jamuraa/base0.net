@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 47
+
 layout: post
 title: Would you like some cinnamon before you go?
 excerpt: |

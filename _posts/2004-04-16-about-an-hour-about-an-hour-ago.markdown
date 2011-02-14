@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 49
+
 layout: post
 title: About an hour, about an hour ago..
 excerpt: Well, This day has started perfectly.  Apparently I hit the wrong button on my alarm clock this morning and turned off my alarm instead of the snooze.  Because of this, I had to drive into work today, which was accompanied by far too many stoplights and a wait at the bus stop on campus that far too long.  Because I was on a rush to head out, I forgot my homework which I had nicely printed out last night and need to reprint again before going to my class in 10 minutes, and I forgot my phone in my apartment.  Now I'm going to have to drive back and get my phone and then (probably) walk back in.

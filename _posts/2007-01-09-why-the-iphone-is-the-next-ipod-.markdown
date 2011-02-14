@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 201
+
 layout: post
 title: Why the iPhone is the next iPod.
 excerpt: |-

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 148
+
 layout: post
 title: Asking = good
 date: 2006-01-04 06:54:34 -06:00

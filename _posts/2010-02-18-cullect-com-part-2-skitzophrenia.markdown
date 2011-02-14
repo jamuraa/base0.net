@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 662
+
 layout: post
 title: "Cullect.com: Part 2 - Skitzophrenia"
 date: 2010-02-18 01:40:29 -06:00

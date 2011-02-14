@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 27
+
 layout: post
 title: I'm very well acquainted, too, with matters mathematical.
 date: 2004-03-05 08:06:00 -06:00

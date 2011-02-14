@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 20
+
 layout: post
 title: Events of the last few days.
 date: 2004-02-19 08:24:00 -06:00

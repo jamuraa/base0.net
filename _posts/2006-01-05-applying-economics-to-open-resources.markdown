@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 149
+
 layout: post
 title: Applying economics to open resources
 date: 2006-01-05 06:50:05 -06:00

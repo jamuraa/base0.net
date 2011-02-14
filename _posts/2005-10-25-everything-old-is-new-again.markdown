@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 145
+
 layout: post
 title: Everything Old is New Again
 date: 2005-10-25 22:01:29 -05:00

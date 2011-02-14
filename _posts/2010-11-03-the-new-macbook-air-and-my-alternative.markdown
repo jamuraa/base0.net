@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 685
+
 layout: post
 title: The new Macbook Air and my alternative
 date: 2010-11-03 22:12:48 -05:00

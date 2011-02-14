@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 232
+
 layout: post
 title: Writing and keeping at things.
 excerpt: Life for me lately is a constant struggle between things that I want to do and things that I have to do - then again, this has been the truth for much of my life.  The current thing that I have to do is edit my thesis proposal.  Some of you may remember that I <a href="http://base0.net/archives/324-In-my-own-head-consume,-I-sit-down-in-my-room.html">had a plan</a> to write my thesis proposal over the last two months, and then I would use these last two months of the year to finish some actual pre-thesis work and edit the proposal down to size.

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 160
+
 layout: post
 title: "Debt \"consolidation\": scam, scum or sweet?"
 excerpt: |+

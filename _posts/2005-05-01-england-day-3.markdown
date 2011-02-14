@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 125
+
 layout: post
 title: England - Day 3
 date: 2005-05-01 14:43:12 -05:00

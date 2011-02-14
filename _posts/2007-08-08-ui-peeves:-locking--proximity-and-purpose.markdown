@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 220
+
 layout: post
 title: "UI Peeves: Locking, Proximity and Purpose"
 excerpt: |-

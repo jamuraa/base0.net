@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 179
+
 layout: post
 title: Late at night when the wires in the walls
 excerpt: After my iBook problems last week, I tried to install Debian on the thing.  I have narrowed down the problem to something with the hard drive inside, because the machine seems to run fine and go through most of the installation without any trouble, but once I start using the hard drive, it completely freezes.  I successfully ran the hardware test disc which came with it a couple times in extended mode, but I'm not sure that it uses the hard drive in it's tests long enough for it to exhibit the problem.

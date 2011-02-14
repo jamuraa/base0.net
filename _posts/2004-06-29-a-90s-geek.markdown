@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 81
+
 layout: post
 title: A 90s geek!
 excerpt: |-

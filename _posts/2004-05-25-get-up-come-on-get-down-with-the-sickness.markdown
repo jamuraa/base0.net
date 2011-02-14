@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 71
+
 layout: post
 title: Get up, come on get down with the sickness
 date: 2004-05-25 14:30:00 -05:00

@@ -3,9 +3,15 @@ layout: default
 ---
 .post
   %h2 {{ page.title }}
-  .date {{ page.date }}
+  .date {{ page.date | date_to_string }}
   .entry {{ content }}
-  .comments {% include disqus_embed.html %}
+  .tags
+    Tagged
+    {% for tag in page.tags %}
+    %a{:href => "/tags/{{tag | first }}/"} {{tag | first}}
+    {% endfor %}
+
+.comments {% include disqus_embed.html %}
 
 .related
   %h2 Related Posts

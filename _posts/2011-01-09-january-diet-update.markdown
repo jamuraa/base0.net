@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 730
+
 layout: post
 title: January Diet Update
 date: 2011-01-09 03:11:00 -06:00

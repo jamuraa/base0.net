@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 59
+
 layout: post
 title: Why is it so hard to find a good blogging tool?
 excerpt: I've been looking for a good blogging tool all afternoon today, and the best open-source one I have found is pyblosxom, which I'm incindentally using now in order to write this entry.  It is a huge hassle to setup though - much easier to just use <a href="http://www.livejournal.com">LiveJournal</a>, and LJ has much nicer community properties.

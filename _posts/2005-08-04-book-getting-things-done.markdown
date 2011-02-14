@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 133
+
 layout: post
 title: "Book: Getting Things Done"
 date: 2005-08-04 16:03:41 -05:00

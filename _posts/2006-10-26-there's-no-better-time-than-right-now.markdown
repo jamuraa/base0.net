@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 185
+
 layout: post
 title: There's no better time than right now
 excerpt: Welsome to the first of I hope many diet and exercise weekly posts.  As I noted <a href="http://base0.net/archives/222-Till-I-opened-my-eyes-and-walked-out-the-door.html">previously</a>, in the past week or so I have started trying to lose weight.  Currently I am using two websites to track my progress.  The first is <a href="http://jamuraa.traineo.com">Traineo</a>, which has nifty graphs which show the progress in many different logs.  Traineo has a very high caloric recommendation for me, almost 3500 calories.  I almost never go above the calorie recommendation here.

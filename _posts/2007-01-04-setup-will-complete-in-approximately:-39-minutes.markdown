@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 197
+
 layout: post
 title: "Setup will complete in approximately: 39 minutes"
 excerpt: |-

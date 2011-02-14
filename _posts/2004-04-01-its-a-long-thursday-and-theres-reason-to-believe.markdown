@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 39
+
 layout: post
 title: It's a long thursday and there's reason to believe...
 excerpt: |-

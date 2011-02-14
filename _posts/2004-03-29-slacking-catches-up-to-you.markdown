@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 37
+
 layout: post
 title: Slacking catches up to you
 date: 2004-03-29 07:07:00 -06:00

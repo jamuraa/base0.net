@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 109
+
 layout: post
 title: You win some, you lose some
 date: 2004-11-22 18:00:28 -06:00

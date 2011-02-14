@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 722
+
 layout: post
 title: 48 hours with the Cr-48
 date: 2011-01-03 00:07:46 -06:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 87
+
 layout: post
 title: Interesting things about 1980?
 date: 2004-07-07 22:36:04 -05:00

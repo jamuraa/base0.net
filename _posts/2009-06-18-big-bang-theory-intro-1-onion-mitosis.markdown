@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 309
+
 layout: post
 title: "Big Bang Theory Intro #1: Onion Mitosis"
 excerpt: |

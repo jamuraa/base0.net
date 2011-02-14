@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 89
+
 layout: post
 title: "Movie: King Arthur"
 date: 2004-07-17 23:04:31 -05:00

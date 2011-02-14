@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 18
+
 layout: post
 title: Bad attempt at a do-no-work day
 excerpt: It being friday, I attempted to make today a do-no-work day, as I try to make all fridays.  It gets hard when I have office hours scheduled.   A lot of students yesterday didn't finish the lab (in fact, no one did, that I know of) and that means busy office hours on Monday at least, and it meant a bunch of questions today.  This is the gut-check lab for most of them I think.

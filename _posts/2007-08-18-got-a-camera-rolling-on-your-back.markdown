@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 224
+
 layout: post
 title: Got a camera rolling on your back
 excerpt: For the last few weeks, I've been trying to participate in <a href="http://photojojo.com/content/tutorials/project-365-take-a-photo-a-day/">Project 365</a>.  For those that don't know about it, it is the idea of taking one picture a day in order to accomplish.. something.  I'm mainly just doing it for fun, and in order to improve my picture-taking skills with my camera phone.   I have it walking around everywhere basically, so when I see something interesting, I try to have my phone at the ready.

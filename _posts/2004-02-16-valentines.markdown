@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 19
+
 layout: post
 title: Valentine's
 excerpt: |-

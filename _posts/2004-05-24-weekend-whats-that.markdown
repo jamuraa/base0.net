@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 69
+
 layout: post
 title: Weekend?  What's that?
 excerpt: This weekend was fairly full, considering how much money wasn't spent. Couch ordeal on thursday, we went to see <a href="http://www.base0.net/blog/play/movies/shrek2.html">Shrek 2</a>.  Friday was mostly taken up with going to a cafe across the street called Seward Cafe and going to a meeting with Nikos about the possibility of a move again. Did some work during that meeting because I wasn't hearing anything that I hadn't heard before, and at this point I really don't care.  I want him to decide so that I can get on with my life, but other than that I'm trying to not think about it too much.

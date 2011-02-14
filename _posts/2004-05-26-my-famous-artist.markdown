@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 72
+
 layout: post
 title: My Famous Artist
 excerpt: |-

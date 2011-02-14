@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 114
+
 layout: post
 title: Arnold
 date: 2005-01-27 23:35:05 -06:00

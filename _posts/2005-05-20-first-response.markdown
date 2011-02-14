@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 128
+
 layout: post
 title: First Response
 date: 2005-05-20 07:34:25 -05:00

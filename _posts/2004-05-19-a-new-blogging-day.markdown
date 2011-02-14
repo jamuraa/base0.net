@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 66
+
 layout: post
 title: A new blogging day
 excerpt: |-

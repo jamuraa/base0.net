@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 24
+
 layout: post
 title: Always remember
 excerpt: Today is the day after yesterday, and before tomorrow.

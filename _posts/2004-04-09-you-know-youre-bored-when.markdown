@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 45
+
 layout: post
 title: You know you're bored when...
 date: 2004-04-09 10:44:00 -05:00

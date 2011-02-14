@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 205
+
 layout: post
 title: "MSPizza Places: Clicquot Club Cafe"
 date: 2007-05-21 22:32:26 -05:00

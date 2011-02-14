@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 192
+
 layout: post
 title: "Quickie Hack: Online X-mas list"
 excerpt: "It's getting around that time of year when kids start singing little annoying songs and thinking of the toys that they will be getting in slightly more than a month.  In my family, when everyone gathered for thanksgiving, the younguns were expected to have a list which could be disseminated throughout the family with everything they wanted.  This avoided some of the more clich\xC3\x83\xC2\xA9 gifts such as sweaters and socks."

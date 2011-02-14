@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 61
+
 layout: post
 title: The Temple of Laziness
 excerpt: |-

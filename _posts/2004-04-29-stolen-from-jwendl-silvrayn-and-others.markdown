@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 56
+
 layout: post
 title: Stolen from jwendl, silvrayn, and others
 excerpt: |-

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 95
+
 layout: post
 title: Tuesdays have a new name
 date: 2004-08-04 14:32:37 -05:00

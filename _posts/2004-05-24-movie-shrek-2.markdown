@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 68
+
 layout: post
 title: "Movie: Shrek 2"
 excerpt: |-

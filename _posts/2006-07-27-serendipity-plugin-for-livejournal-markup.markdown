@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 176
+
 layout: post
 title: Serendipity plugin for LiveJournal markup
 excerpt: <a href="http://s9y.org/">Serendipity</a> is my blogging software of choice lately, but in the past I was a happy user of <a href="http://livejournal.org">LiveJournal</a>.  Fortunately, now my friends at LJ can keep up to date with my current blog, because of a great event plugin which mirrors posts here on LiveJournal (configurable of course).   On LJ people use markup like [<strong>lj user="jamuraa"</strong>] in order to make a handy link to the page of the livejournal user in question.

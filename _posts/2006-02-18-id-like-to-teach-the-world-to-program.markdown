@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 161
+
 layout: post
 title: I'd Like to Teach the World to Program
 excerpt: <p>A couple weeks ago I was going to lunch and met up with one of my friends who I hadn't seen in a while.  I had to wait for her to finish her TAing job, in the same lab that I once taught in.  I was surprised at my reaction - I wanted to jump right into the room and start helping out.  I restrained myself, but it gave me a good reminder of what my actual goal is in grad school.   I want to be a professor - I wasn't sure when I started here at the U of M, but after two or three teaching sessions I was certain I was going to teach.

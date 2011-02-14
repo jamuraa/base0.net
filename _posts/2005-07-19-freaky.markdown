@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 130
+
 layout: post
 title: Freaky
 excerpt: |-

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 46
+
 layout: post
 title: Reflection on a trip around the sun
 date: 2004-04-12 11:59:00 -05:00

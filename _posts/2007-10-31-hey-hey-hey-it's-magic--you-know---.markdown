@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 231
+
 layout: post
 title: "Hey hey hey it's magic, you know.. "
 excerpt: "Life is pretty hectic around here with multiple jobs and consulting gigs, as well as personal research to do.  I find it's pretty much a requirement to have something to go home to and relax and take some time off.  In the past I've used lots of different games in order to accomplish that, but recently one of my labmates reminded me about Magic: The Gathering, the most popular CCG on the planet basically which I used to play a lot.  I went to a local shop and played a draft, which was a lot of fun, but a huge hassle."

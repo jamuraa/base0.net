@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 83
+
 layout: post
 title: "Movie: Spider-man 2"
 date: 2004-07-04 14:36:01 -05:00

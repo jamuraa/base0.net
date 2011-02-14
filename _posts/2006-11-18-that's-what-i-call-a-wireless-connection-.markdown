@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 194
+
 layout: post
 title: That's what I call a wireless connection.
 excerpt: <a href="http://www.speedtest.net"><img src="http://www.speedtest.net/result/59389278.png" alt="" /></a>

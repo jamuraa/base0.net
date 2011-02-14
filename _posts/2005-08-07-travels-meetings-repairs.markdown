@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 135
+
 layout: post
 title: Travels, Meetings, Repairs
 date: 2005-08-07 19:13:56 -05:00

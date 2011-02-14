@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 17
+
 layout: post
 title: It's gonna be a long day..
 excerpt: |-

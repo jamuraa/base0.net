@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 235
+
 layout: post
 title: Five TV shows this season that I don't miss
 excerpt: TV shows are something that I haven't really been concerned about much lately, but there is still a great number of shows out there that are very good, ad some surprising shows from the new season which are very good.  I'm sad that much of this good work may be negated in the coming months by the writer's strike, but I understand the side of the argument for the writers and agree mostly with them.

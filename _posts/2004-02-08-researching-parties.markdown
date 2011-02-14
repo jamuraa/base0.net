@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 16
+
 layout: post
 title: Researching Parties..
 excerpt: Well, last night I went out to chuck's place to party with the whole lab gang.  We watched <a href="http://us.imdb.com/title/tt0117802/">Swingers</a> and partook of a lot of alcohol.  Actually, I think there was more partaking of alcohol and lively conversation than there was of watching the movie.  It was loads of fun - I'm sure pics will be posted by <a href="http://silvrayn.livejournal.com">silvrayn</a>, who was also there (or maybe even <a href="http://want_a_be.livejournal.com">want_a_be</a>, who hasn't even used his LJ account yet).

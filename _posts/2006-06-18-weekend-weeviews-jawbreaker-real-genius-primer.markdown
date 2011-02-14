@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 171
+
 layout: post
 title: "Weekend Weeviews: Jawbreaker, Real Genius, Primer"
 excerpt: There are three reviews this week, because I neglected to review one which I watched earlier.   I'm also trying to decide whether the links at the end are of any use, and whether it's useful to syndicate this to <a href="http://planet.debian.org">Planet Debian</a>.  Feedback is encouraged! ;)

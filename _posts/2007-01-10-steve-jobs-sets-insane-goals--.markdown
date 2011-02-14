@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 202
+
 layout: post
 title: Steve Jobs sets insane goals..
 excerpt: |-

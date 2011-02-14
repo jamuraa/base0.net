@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 31
+
 layout: post
 title: Triple Rock has damn good sausage gravy.
 date: 2004-03-14 10:04:00 -06:00

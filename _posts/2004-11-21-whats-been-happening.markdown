@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 108
+
 layout: post
 title: What's been happening
 date: 2004-11-21 22:41:01 -06:00

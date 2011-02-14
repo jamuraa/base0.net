@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 120
+
 layout: post
 title: make things so complicated
 date: 2005-03-29 15:33:23 -06:00

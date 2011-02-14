@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 154
+
 layout: post
 title: Shiny roofs are good for the environment!
 date: 2006-01-15 21:11:32 -06:00

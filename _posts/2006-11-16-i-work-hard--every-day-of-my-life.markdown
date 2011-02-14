@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 193
+
 layout: post
 title: I work hard, every day of my life
 excerpt: "<!-- s9ymdb:6 --><img class=\"alignright\" style=\"float: right; border: 0px; padding-left: 5px; padding-right: 5px;\" src=\"/wp-content/uploads/graphs/092003.serendipityThumb.png\" alt=\"\" />Most of my fitness transition plan has been focused on exercise.  Get more exercise and eat the same as you did before, and you will lose weight.  This has to be true, based simply on physics.  Back when I was using the <a href=\"http://base0.net/archives/183-The-monthly-diet-report.html\">Hacker's Diet</a>, it worked like a charm."

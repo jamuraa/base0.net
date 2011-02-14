@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 111
+
 layout: post
 title: Late Nights, Early Mornings
 date: 2004-12-04 11:06:04 -06:00

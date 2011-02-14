@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 691
+
 layout: post
 title: November Diet Update
 excerpt: !binary |

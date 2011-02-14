@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 62
+
 layout: post
 title: I have heard the song, and now it stays.
 date: 2004-05-06 17:30:00 -05:00

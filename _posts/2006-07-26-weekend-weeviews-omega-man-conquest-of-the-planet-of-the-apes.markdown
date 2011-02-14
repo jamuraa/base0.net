@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 174
+
 layout: post
 title: "Weekend Weeviews: Omega Man, Conquest of the Planet of the Apes"
 date: 2006-07-26 15:23:00 -05:00

@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 21
+
 layout: post
 title: Friday Five
 excerpt: |-

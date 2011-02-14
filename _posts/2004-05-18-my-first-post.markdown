@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 64
+
 layout: post
 title: My First Post
 date: 2004-05-18 15:06:00 -05:00

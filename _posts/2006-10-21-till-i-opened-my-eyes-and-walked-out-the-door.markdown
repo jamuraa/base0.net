@@ -1,5 +1,5 @@
 --- 
-wordpress_id: 184
+
 layout: post
 title: Till I opened my eyes and walked out the door
 excerpt: Life has been hectic to say the least, but I am taking control of it finally.  School started, and I finally got settled into a schedule.  I am taking two classes with highly overlapping material, both focused on user interface design.  They are focused on separate aspects however and only overlap slightly.  They are required.  Also I am working at Honeywell still, programming away.  Things are going better there, we just got past a critical juncture so I have about 2 weeks (15 hour weeks, but still weeks) of work laid out for me.

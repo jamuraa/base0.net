@@ -1,0 +1,103 @@
+// This import applies a global reset to any page that imports this stylesheet.
+@import blueprint/reset
+
+// To configure blueprint, edit the partials/base.sass file.
+@import partials/base
+
+// Import all the default blueprint modules so that we can access their mixins.
+@import blueprint
+
+// Combine the partials into a single screen stylesheet.
+@import partials/page
+@import partials/form
+@import partials/two_col
+
+$normal-text-color: #999
+$hilighted-text-color: lighten($normal-text-color, 20%)
+$box-background: #3c3c3c
+
+p
+  margin: 1em 0
+
+body
+  background-color: #2f2f2f
+  font-size: 15px
+  line-height: 140%
+  font-family: 'Vegur-R', Helvetica, Arial, sans-serif
+  text-rendering: optimizeLegibility
+
+#wrapper
+  color: $normal-text-color
+  margin: 0 auto
+  width: 700px
+
+#header
+  a
+    text-decoration: none
+    border: none
+    img
+      padding-right: 95px
+  font-size: 32px
+  position: relative
+  padding-top: 32px
+  margin-bottom: -20px
+  .subtitle
+    position: absolute
+    right: 64px
+    bottom: 74px
+
+
+a:link
+  color: $hilighted-text-color
+a:visited
+  color: $normal-text-color
+
+$post-padding: 40px
+
+.post
+  background: $box-background
+  padding: $post-padding
+  margin: $post-padding 0
+  position: relative
+  border-top-right-radius: $post-padding
+  h2
+    font-size: 32px
+    line-height: 28px
+    color: $hilighted-text-color
+    margin-bottom: 1em
+    a
+      text-decoration: none
+  h3
+    font-size: 18px
+  .date
+    position: absolute
+    right: $post-padding
+    top: $post-padding
+  img
+    border: 5px solid white
+  .comment-link
+    position: absolute
+    right: $post-padding
+    bottom: $post-padding
+  .entry
+    margin-bottom: $post-padding
+
+.comments
+  background: #3c3c3c
+  padding: $post-padding
+  margin: 4.6em 0
+
+.archive
+  background: $box-background
+  margin-top: $post-padding
+  padding: $post-padding
+  border-top-right-radius: $post-padding
+  h2
+    font-size: 32px
+    line-height: 28px
+    color: $hilighted-text-color
+    margin-bottom: 10px
+  table
+    width: 100%
+    td
+      padding: 0 2px
