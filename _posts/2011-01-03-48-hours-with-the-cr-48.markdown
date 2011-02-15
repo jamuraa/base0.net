@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: 48 hours with the Cr-48
+date: 2011-01-03 00:07:46 -06:00
 tags: 
 - life
 - play
@@ -10,8 +11,6 @@ tags:
 - laptop
 - cr-48
 - tech
-date: 2011-01-03 00:07:46 -06:00
-wordpress_url: http://base0.net/?p=722
 ---
 About a month ago, I was happy to hear from Google that they were finally going to release their Netbook OS, Chrome OS.  They held a press conference to announce it, and invited people to sign up to be lucky and receive a laptop which would be loaded with Chrome OS to try out.  I thought that was a pretty awesome deal, so I jumped at the first chance I heard of it, filled out the form with my information, and basically thought that I was still too late, until I got a package that I wasn't expecting from FedEx, and I opened it up to find this:
 

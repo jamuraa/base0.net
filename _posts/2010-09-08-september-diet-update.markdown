@@ -1,14 +1,13 @@
 --- 
 layout: post
 title: September Diet Update
+date: 2010-09-08 11:15:50 -05:00
 tags: 
 - life
 - play
 - diet
 - progressreport
 - audiobooks
-date: 2010-09-08 11:15:50 -05:00
-wordpress_url: http://base0.net/?p=675
 ---
 My slow decline into a smaller me is continuing nicely.  I've been exercising five times a week, skipping usually thursdays and sundays.   Sundays are nice because I can spend more time with Diana on the weekend, and Thursday is good because of the free tourney I run online every week.  I don't know how I would exercise otherwise.   Because it's the summer, I'm taking more time outside lately, which is improving my morale, even if I do end up taking the same route every day there is enough variation just because it's a living, breathing environment than otherwise.  I still end up doing at least a couple days a week inside though - some days it's just too late to walk outside, and I'm just not that comfortable with the neighborhood even though it is a very low crime area.   Usually when I am inside I am walking on the treadmill so it is basically the same exercise though.  I have been thinking of splitting inside workouts between a couple of the machines lately - 30 minutes walking on the treadmill and 30 minutes on the crosstrainer, etc.   I used to do the crosstrainer regularly and was fairly proud of it because it seems like it kills a lot of people but I seem to have the endurance to just tough it out.
 

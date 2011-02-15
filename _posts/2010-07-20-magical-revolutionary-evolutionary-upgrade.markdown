@@ -1,11 +1,10 @@
 --- 
 layout: post
 title: Magical, Revolutionary, Evolutionary, Upgrade
+date: 2010-07-20 00:30:26 -05:00
 tags: 
 - reviews
 - think
-date: 2010-07-20 00:30:26 -05:00
-wordpress_url: http://base0.net/?p=671
 ---
 Lately I've been thinking about getting a new smartphone, so I went to survey the landscape.  I'm keeping track of the Android phones and of course it's impossible to ignore the iPhone 4 as a contender in the Arena.   Apparently the difference between holding these phones in your hand and seeing them on a video is considerable, so I decided to take a look when I had some time to kill at a local mall which has both Apple and T-Mobile stores.   I had already decided to look at the iPhone 4 because it has the retina display which is far and above better than everything else.   The other phone I went out of my way to get 3-5 real-world minutes with was the Samsung Galaxy S series, specifically in this case the T-Mobile Samsung Vibrant.
 

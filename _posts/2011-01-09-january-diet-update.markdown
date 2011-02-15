@@ -1,14 +1,13 @@
 --- 
 layout: post
 title: January Diet Update
+date: 2011-01-09 03:11:00 -06:00
 tags: 
 - life
 - play
 - diet
 - exercise
 - 2010
-date: 2011-01-09 03:11:00 -06:00
-wordpress_url: http://base0.net/?p=730
 ---
 It hasn't been a whole month since the last update, but I am going to try to make these updates when I finish a column just to make it easier for me to remember, and so that there is less clutter in my weight log book.
 

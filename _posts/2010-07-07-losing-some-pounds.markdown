@@ -1,12 +1,11 @@
 --- 
 layout: post
 title: Losing some pounds
+date: 2010-07-07 19:10:36 -05:00
 tags: 
 - play
 - diet
 - exercise
-date: 2010-07-07 19:10:36 -05:00
-wordpress_url: http://base0.net/?p=666
 ---
 I've been classified as "overweight" for most of my adult life, and people who follow my blogs very closely may remember that I was on a diet for a while called the Hacker's Diet, using a running average.  The diet focused on caloric intake, trying to figure out your basal metabolism based on counting calories and weighing yourself daily, using a running average to determine the calorie surplus or deficit, so you could make decisions to change your intake accordingly.
 

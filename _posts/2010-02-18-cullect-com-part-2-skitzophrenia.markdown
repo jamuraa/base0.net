@@ -1,11 +1,10 @@
 --- 
 layout: post
 title: "Cullect.com: Part 2 - Skitzophrenia"
+date: 2010-02-18 01:40:29 -06:00
 tags: 
 - life
 - think
-date: 2010-02-18 01:40:29 -06:00
-wordpress_url: http://base0.net/?p=662
 ---
 I recently <a href="http://base0.net/posts/cullect-com-part-1-importance-and-googles-magic/">praised</a> Cullect.com for being a pioneer in the feed reader arena.  The Importance metric made sure that you were reading things that were interesting to read.  It all but eliminated the 'tl;dr' syndrome for me.  Unfortunately, it was not always rainbows and lollipops with Cullect.
 

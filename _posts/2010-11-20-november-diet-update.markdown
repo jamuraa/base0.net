@@ -1,12 +1,11 @@
 --- 
 layout: post
 title: November Diet Update
+date: 2010-11-20 18:37:37 -06:00
 tags: 
 - life
 - play
 - diet
-date: 2010-11-20 18:37:37 -06:00
-wordpress_url: http://base0.net/?p=691
 ---
 It's time for yet another update on my progress in losing a bunch of pounds off my hulking frame.   This month I have been frustrated at the progress just like last month.  I have been seeking some motivation in the form of a community for a while now.  I've looked at SparkPeople and Traineo as well as places like dailyburn and dailymile.  They were all places which were useful for recording what types of exercise I did and following along a bit more.  Some of the later ones like dailyburn and dailymile are more like "twitter for exercise", which were better but not very good because I don't know anyone local who is exercising, and also I am usually exercising alone.
 

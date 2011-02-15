@@ -1,13 +1,12 @@
 --- 
 layout: post
 title: October Diet Update
+date: 2010-11-01 23:48:45 -05:00
 tags: 
 - life
 - play
 - diet
 - progressreport
-date: 2010-11-01 23:48:45 -05:00
-wordpress_url: http://base0.net/?p=679
 ---
 Okay, so this is a little late.  Almost a month late actually.  I figured that I should get it out before I have to make the next month's post and explain the mysterious missing section of my logging.  Last month I was struggling to have the weight come off, stagnating on the scale even though I was working just as hard.  I'm happy to say that that trend has continued to some extent.  I'm still doing exercise, but I am moving it around some more, doing it in the mornings and sometimes in the evenings depending on when I get time.  Morning is what I did mostly in September, which was a lot easier because the evenings are free more often.
 

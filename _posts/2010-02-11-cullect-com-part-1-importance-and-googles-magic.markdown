@@ -1,11 +1,10 @@
 --- 
 layout: post
 title: "Cullect.com: Part 1 - Importance (and Google's Magic)"
+date: 2010-02-11 00:40:47 -06:00
 tags: 
 - life
 - think
-date: 2010-02-11 00:40:47 -06:00
-wordpress_url: http://base0.net/?p=659
 ---
 This is a series of posts that I've been meaning to write about the site Cullect.com, which is currently on "extended hiatus".  For those of you that don't know about cullect, it was an interesting beast of a website developed by <a href="http://garrickvanburen.com/">Garrick Van Buren</a>, a local developer.  It was plagued by downtime near the end of it's life, and I think it was right to take it down for a while and work on it.  Garrick may have abandoned it for now, but I'd like to explain some of it's features, because they are innovations which I wish I would see more of the aggregators take a look at.   It was one of the few feed readers out there which had some real innovation under it's hood, and I was thrilled to be using it.
 
