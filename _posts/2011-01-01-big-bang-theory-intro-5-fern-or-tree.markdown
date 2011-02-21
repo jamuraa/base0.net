@@ -8,9 +8,11 @@ tags:
 - big-bang-theory-pictures
 - big-bang-theory-opening
 ---
-﻿Let's restart these, shall we?  Today it's kind of boring though.
+Let's restart these, shall we?  Today it's kind of boring though.
 
-<a href="http://base0.net/wp-content/uploads/2011/01/00000211.png"><img class="alignnone size-full wp-image-702" title="Foiliage" src="http://base0.net/wp-content/uploads/2011/01/00000211.png" alt="" width="610" /></a>
+<a href="/images/tbbt/00000211.png">
+<img src="/images/tbbt/00000211-postsize.png" />
+</a>
 
 This image is the second in a row that is just tangentially related to history. The <a href="http://www.jupiterimages.com/Image/royaltyFree/78048164" target="_blank">source</a> image is in color of course, and it has been put into black and white to make it look like it's from.. about 30,000 BC here.  It's of some random tree in a jungle somewhere, honestly the original is a lot easier to see what it is.
 

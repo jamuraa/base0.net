@@ -14,7 +14,10 @@ tags:
 ---
 About a month ago, I was happy to hear from Google that they were finally going to release their Netbook OS, Chrome OS.  They held a press conference to announce it, and invited people to sign up to be lucky and receive a laptop which would be loaded with Chrome OS to try out.  I thought that was a pretty awesome deal, so I jumped at the first chance I heard of it, filled out the form with my information, and basically thought that I was still too late, until I got a package that I wasn't expecting from FedEx, and I opened it up to find this:
 
-<a rel="attachment wp-att-723" href="http://base0.net/posts/48-hours-with-the-cr-48/samsung/"><img class="alignnone size-large wp-image-723" title="Chrome Cr-48 Box" src="http://base0.net/wp-content/uploads/2011/01/2010-12-18-12.10.45-610x457.jpg" alt="" width="610" height="457" /></a>
+
+<a href="/images/misc/cr48-1.jpg">
+<img src="/images/misc/cr48-1-postsize.jpg" title="Google Cr-48 Box" />
+</a>
 
 That's right, whatever magic process that they used to pick the people who were getting these laptops picked me.  I was pretty stoked about it, and went about setting it up and playing with it for a few hours right after I got the box.   After a couple of days of playing with it, I went back to using my normal laptop for almost all of the things I used my laptop for before, and the Cr-48 is used for guests and is sitting waiting for some movement on a project.
 
@@ -22,7 +25,9 @@ There are <a href="http://www.slashgear.com/google-cr-48-chrome-os-notebook-revi
 
 Let's start with the things that I viewed as positive.  The OS is basically only a browser, which means that you can do anything you want to on the web about 10 seconds out of the starting gate.  I didn't have any trouble connecting to my wireless AP.  The keyboard is one of the modern keyboards that you would get on a MacBook or one of the Apple Keyboards that I really enjoy.  Lots of people are talking about the keyboard missing a CAPS LOCK key, which I was happy about, because I've replaced that key with a Control on every OS and keyboard that I get my hands on.   Really, it's overdue for being replaced with something useful anyway.  I don't know that the default replacement of "new tab" is a great replacement because it might be even more jarring to be typing along and hit the key and suddenly be typing in a search bar instead of the field that you were composing your email or comment reply or something in.    Another nice touch is that the keycaps have lowercase letters on them instead of the upppercase ones.
 
-<a rel="attachment wp-att-725" href="http://base0.net/posts/48-hours-with-the-cr-48/samsung-2/"><img class="alignnone size-medium wp-image-725" title="Cr-48 Unboxed" src="http://base0.net/wp-content/uploads/2011/01/2010-12-18-12.15.35-225x300.jpg" alt="" width="225" height="300" /></a>
+<a href="/images/misc/cr48-2.jpg">
+<img src="/images/misc/cr48-2-postsize.jpg" title="Google Cr-48 Unboxed" />
+</a>
 
 The rest of the hardware is a bit sparse.  I don't really know what CPU is in it, but there's a SD card slot, one USB slot, and the charger plug.  Next to the plug is a little light that is green or amber based on the charging status of the battery.   The included battery lasts a long time, even when surfing on wifi I got about six hours out of a full battery, and the battery came half-charged just like a Li-Ion battery should, so I didn't even have to plug it in until late into the first night.
 

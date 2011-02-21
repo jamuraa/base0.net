@@ -16,11 +16,15 @@ Outside was really nice in September.  There were a lot of beautiful trees with
 
 Let's take a look at the graphs, shall we?
 
-<a href="http://base0.net/wp-content/uploads/2010/11/30d-oct9.png"><img class="alignnone size-full wp-image-680" title="October Diet Progress" src="http://base0.net/wp-content/uploads/2010/11/30d-oct9.png" alt="" width="610" /></a>
+<a href="/images/diet/2010-10-09_30d.png">
+<img src="/images/diet/2010-10-09_30d-postsize.png" />
+</a>
 
 PhysicsDiet.com is working again, which is great news, because I don't need to figure out another way to get these graphs.  This graph really is what amplifies my frustration.  The loss of less than a quarter pound a week is about a fourth of the weight loss that I'm hoping for.  There is a lot of red meaning I was over my trend weight, essentially gaining points on those days. Strings of three above the line are not what I am aiming for.  At least the linear trend line is still going in a downward direction.
 
-<a href="http://base0.net/wp-content/uploads/2010/11/yr-oct9.png"><img class="alignnone size-full wp-image-681" title="Diet Progress Yearly Oct 9" src="http://base0.net/wp-content/uploads/2010/11/yr-oct9.png" alt="" width="610" /></a>
+<a href="/images/diet/2010-10-09_year.png">
+<img src="/images/diet/2010-10-09_year-postsize.png" />
+</a>
 
 This graph is my savior.  It shows that even after a significant plateau, I can continue on the exercise and make progress again.  You might notice that April looks disturbingly similar to September.  In fact now that I am looking for it, you can see somewhat similar trends right before April and right before September as well.  It's promising.
 

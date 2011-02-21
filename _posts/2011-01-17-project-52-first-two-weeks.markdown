@@ -11,10 +11,14 @@ I've been reading <a href="http://planet.debian.org/">Planet Debian</a> and noti
 
 Week 1
 
-<a rel="attachment wp-att-740" href="http://base0.net/posts/project-52-first-two-weeks/samsung-4/"><img class="alignnone size-large wp-image-740" title="Week 1: Wires and Sensors" src="http://base0.net/wp-content/uploads/2011/01/2011-01-04-12.32.19-610x457.jpg" alt="" width="610" height="457" /></a>
+<a rel="photo" href="/images/project52/01-wires_and_sensors.jpg">
+<img title="Week 1: Wires and Sensors" src="/images/project52/01-wires_and_sensors-postsize.jpg" />
+</a>
 
 Week 2
 
-<a rel="attachment wp-att-739" href="http://base0.net/posts/project-52-first-two-weeks/samsung-3/"><img class="alignnone size-large wp-image-739" title="Week 2: Veggies" src="http://base0.net/wp-content/uploads/2011/01/2011-01-14-13.19.06-e1295323333609-610x457.jpg" alt="" width="610" height="457" /></a>
+<a rel="photo" href="/images/project52/02-veggies.jpg">
+<img title="Week 2: Veggies" src="/images/project52/02-veggies-postsize.jpg" />
+</a>
 
 I'll be posting every week.  Should be fun.

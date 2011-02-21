@@ -15,15 +15,23 @@ Since the last time that I updated on this, the year has ticked over.  Usually,
 
 I've still been frequenting the <a href="http://reddit.com/r/loseit/">Loseit</a> reddit group, and profiding some advice and encouragement when I feel like I can contribute.   Sometimes there are progress pics on there, and I was thinking of adding my own after a year of diet and exercise.   Usually I am not too thrilled about the posts that have those in them though.    Sometimes there are people who are only trying to lose a few pounds - a guy at 160 or girl at 140 or something, and it is a little annoying to think that they are literally half my weight and they are still not happy with themselves.  I'm slightly worried that I will get to my goal weight and just be unhappy with myself still, and continue down.   There's no real problem with being lighter than I am and still unhappy, losing half of myself is a multi-year goal.  However, there are also the people there that are my weight or more and it increases my feeling of camaraderie there.
 
-<a rel="attachment wp-att-732" href="http://base0.net/posts/january-diet-update/30days-20110109/"><img class="alignnone size-large wp-image-732" title="Diet 30days-20110109" src="http://base0.net/wp-content/uploads/2011/01/30days-20110109-610x457.png" alt="" width="610" height="457" /></a>
+
+<a href="/images/diet/2011-01-09_30d.png">
+<img src="/images/diet/2011-01-09_30d-postsize.png" />
+</a>
 
 This update's 30 day graph looks better than the last few updates by far.  I'm getting closer to the one pound per week goal that I want to be at for a minimum.   I am guessing that counting my calories with myfitnesspal is making the biggest difference, because I can't kid myself about the calories that are in the food that I end up eating.  I'm happy with the amount of green on the chart, but still dismayed at the red lines.  I have the excuse of the holidays this month, but it would be nice to have a whole month of green.
 
-<a rel="attachment wp-att-733" href="http://base0.net/posts/january-diet-update/2010all/"><img class="alignnone size-large wp-image-733" title="2010 Diet Graph" src="http://base0.net/wp-content/uploads/2011/01/2010all-610x457.png" alt="" width="610" height="457" /></a>
+<a href="/images/diet/2010.png">
+<img src="/images/diet/2010-postsize.png" />
+</a>
 
 Here's my whole year of weight loss.  The final weight on December 31 was 296lbs, making me 44 pounds lighter at the end of the year than at the beginning.  I'm pretty happy with that progress, and want to have another year with that speed or better.    This graph looks great to me though, I would be just as happy if next year's graph looked the same.
 
-<a rel="attachment wp-att-734" href="http://base0.net/posts/january-diet-update/20100101to20100108/"><img class="alignnone size-large wp-image-734" title="20100101to20100108 Diet Graph" src="http://base0.net/wp-content/uploads/2011/01/20100101to20100108-610x457.png" alt="" width="610" height="457" /></a>
+
+<a href="/images/diet/2011-01-09_year.png">
+<img src="/images/diet/2011-01-09_year-postsize.png" />
+</a>
 
 Here's this year's budding graph.  Progress looks pretty good so far.  As new years resolutions go, I'm not really making one for the weight.  It should be a lifestyle change and not just for the new year anyway.  I am switching up the exercise for 2011 - I've been thinking about weights for a while, and I've decided that I want to work on getting a little more strong while I lose the weight this year.  I think it will also be better for two reasons.  The first is obviously that I will get stronger.  The second is that I will be exercising off less calories on the days that I am doing weight lifting.   I've noticed lately that I work off about 700 calories at a time, and that basically amounts to a whole meal's worth of calories.  This means that I am really eating more than I should, and if I am going to do less cardio in the future, I will need to get used to eating less.    Hopefully I will just be less hungry too.
 

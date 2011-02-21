@@ -11,7 +11,9 @@ date: 2009-07-30 02:26:49 -05:00
 ---
 Today we come upon our first picture in the montage which doesn't have a lifeform in it.  It's lava!  Dynamic!  BOOM!  Eruption!
 
-<img src="/wp-content/uploads/images/tbbt/00000208.png" alt="00000208.png" width="610" />
+<a href="/images/tbbt/00000208.png">
+<img src="/images/tbbt/00000208-postsize.png" />
+</a>
 
 This particular image is kindof hard to make out in the black and white which it was modified into to make it look old.  The <a href="http://www.jupiterimages.com/popup2.aspx?popup2=i&amp;navigationSubType=itemdetails&amp;related=n&amp;itemID=23083579">original</a> is a little easier to see the actual lava which is flowing from an eruption happening in the center to another pool of lava rock.
 

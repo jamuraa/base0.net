@@ -17,12 +17,16 @@ What I do to keep me entertained has shifted a little bit.  Originally in my wo
 
 On to the charts:
 
-<a href="http://base0.net/wp-content/uploads/2010/09/30d-sep9.png"><img class="alignnone size-full wp-image-676" title="October's 30 day diet chart" src="http://base0.net/wp-content/uploads/2010/09/30d-sep9.png" alt="" width="610" /></a>
+<a href="/images/diet/2010-09-09_30d.png">
+<img src="/images/diet/2010-09-09_30d-postsize.png" />
+</a>
 
 The monthly chart shows my progress getting a little better this month, although the weekly loss is still at a single pound per week.  I'd like to work on that so that I can get it up to two pounds a week which is a little faster and will get me to my goal quicker.  I've been trying harder to stick to a pretty low calorie diet lately, which has been working as you can see quite well at the end of the month. I'm getting pretty close to my original goal of being under three bills, so I will have to set myself a new goal soon in order to keep me on this path.
 
 I also have been having a problem ignoring the daily weigh-ins, being sad when I am for example suddenly three or four pounds heavier when I weigh in.  It has an interesting effect on my mood, keeping me vigilant of my diet - that could be a good or a bad thing though.  I've been trying to keep my progress on a website called Dailymile as well, but lately I have not been adding my workouts there, because I don't seem to have anyone that I know in real life, and also the people who are on there seem to be more of a fitness crowd instead of a weight loss crowd.
 
-<a href="http://base0.net/wp-content/uploads/2010/09/yr-sep9.png"><img class="alignnone size-full wp-image-677" title="October's Year Progress Diet Graph" src="http://base0.net/wp-content/uploads/2010/09/yr-sep9.png" alt="" width="610" /></a>
+<a href="/images/diet/2010-09-09_year.png">
+<img src="/images/diet/2010-09-09_year-postsize.png" />
+</a>
 
 This is the graph that makes me want to keep going.  Seeing the weight just go down, down, down is really strengthening. I just need to keep going and soon enough I will be a much healthier and smaller person.

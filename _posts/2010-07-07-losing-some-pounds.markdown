@@ -19,12 +19,16 @@ I started the exercise at the beginning of the year, exercising on the treadmill
 
 From the last month:
 
-<a href="http://base0.net/wp-content/uploads/2010/07/30days.jul_.png"><img class="alignnone size-full wp-image-667" title="Diet progress for June" src="http://base0.net/wp-content/uploads/2010/07/30days.jul_.png" alt="" width="610" /></a>
+<a href="/images/diet/2010-07_30d.png">
+<img src="/images/diet/2010-07_30d-postsize.png" />
+</a>
 
 So just like the last time, I am using the tracking tools on physicsdiet.com to generate pretty graphs and give me the trend lines. Actually, I'm keeping track of my weight daily in a <a href="http://fieldnotesbrand.com/">Field Notes memo book</a> that I got on special and which is about the perfect size to keep right next to the scale, and then I transcribe them to the website about once a month. You can see here the time where I was stagnating at the beginning of June, and when I started watching my intake where the trend line starts going down more smoothly.
 
 Entirety of the diet:
 
-<a href="http://base0.net/wp-content/uploads/2010/07/year.jul_.png"><img class="alignnone size-full wp-image-668" title="Diet progress - Jan to July" src="http://base0.net/wp-content/uploads/2010/07/year.jul_.png" alt="" width="610" /></a>
+<a href="/images/diet/2010-07_year.png">
+<img src="/images/diet/2010-07_year-postsize.png" />
+</a>
 
 Here the stagnation is a lot more apparent. I was still making progress, but it was much slower from mid-April to the start of June.  Overall though I like this rate of weight loss.  One pound a week is what most people would call sustainable weight loss.  My short-term goal is to be below 300 pounds, which looks like it will occur this year. I don't know what the long term goal is yet.  I'm hoping to make a post about once a month, if only to keep myself reevaluating myself.

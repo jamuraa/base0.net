@@ -7,4 +7,6 @@ tags:
 - project-52
 date: 2011-02-09 00:10:51 -06:00
 ---
-<a rel="attachment wp-att-756" href="http://base0.net/posts/project-52-week-5/samsung-7/"><img class="alignnone size-large wp-image-756" title="Project 52 Week 5" src="http://base0.net/wp-content/uploads/2011/02/2011-02-04-19.34.54-610x457.jpg" alt="Jellyfish" width="610" height="457" /></a>
+<a rel="photo" href="/images/project52/05-jellyfish.jpg">
+<img title="Week 5: Jellyfish" src="/images/project52/05-jellyfish-postsize.jpg" />
+</a>

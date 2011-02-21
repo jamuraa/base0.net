@@ -7,8 +7,9 @@ tags:
 - play
 - photos
 - project-52
-- project52
 ---
-<a rel="attachment wp-att-744" href="http://base0.net/posts/project-52-week-3/samsung-5/"><img class="alignnone size-large wp-image-744" title="Project 52 Week 3" src="http://base0.net/wp-content/uploads/2011/01/2011-01-22-23.21.47-610x457.jpg" alt="" width="610" height="457" /></a>
+<a rel="photo" href="/images/project52/03-coppers.jpg">
+<img title="Week 3: Coppers" src="/images/project52/03-coppers-postsize.jpg" />
+</a>
 
 Not sure what I want to do with these posts yet.  For now I'll leave you with just the picture.

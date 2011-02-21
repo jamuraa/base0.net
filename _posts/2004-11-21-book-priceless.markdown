@@ -24,7 +24,7 @@ This book takes a critical look at the policy of cost-benefit analysis, specific
 
 <!--more-->
 
-Demystifying numbers isn’t the easiest in these times - especially when you’re talking about the government. The authors either have a lot of time on their hands, or they’re experts on the public health initiatives. Their first target: the $6.1 price on all of our heads. The first few chapters focus on where this amount for one human life was decided on. Other numbers are demystified as well, but this one is tbe biggie.
+Demystifying numbers isn’t the easiest in these times - especially when you’re talking about the government. The authors either have a lot of time on their hands, or they’re experts on the public health initiatives. Their first target: the $6.1 mil price on all of our heads. The first few chapters focus on where this amount for one human life was decided on. Other numbers are demystified as well, but this one is tbe biggie.
 
 They take a meandering path through public policy, citing study after study and making a point of noticing where the source of information comes from. Probably the best point to take from this book is that you should be looking at where information is coming from, and that numbers sometimes lie. They make a point of noticing the numbers that the opponents of their views make, and discounting them based on earlier work by the own authors or adguing against the work itself. At times getting close to an ad hominem attack on some of the think tanks in the washignton area, they stop short of being the bad guys in this debate.
 
