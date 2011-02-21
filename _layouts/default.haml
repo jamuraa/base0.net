@@ -6,6 +6,7 @@
     %meta{"http-equiv" => "Content-Type", :content => "text/html; charset=UTF-8"}/
     %link{:rel => "stylesheet", :href => "/css/screen.css", :type => "text/css", :media => "screen, projection"}/
     %link{:rel => "stylesheet", :href => "http://kernest.com/base0-net.css", :type => "text/css", :media => "screen, projection"}/
+    %link{:rel => "alternate", :type => "application/atom+xml", :href => "http://base0.net/atom.xml", :title => "base0.net Atom"}
 
   %body
     #wrapper
@@ -16,11 +17,26 @@
       #content {{ content }}
       #footer
         .myinfo
-          base0.net is all copyright 2004-2011 Michael Janssen
+          base0.net is all
+          %br/
+          &copy; 2004-2011 Michael Janssen
+          %br/
+          Design inspired by
+          %a{:href => "http://www.vostoktheme.com/"} Vostok
         .sites
-          github
-          twitter
-          flickr
+          %ul
+            %li
+              %a{:href => "http://github.com/jamuraa"} github
+            %li
+              %a{:href => "http://twitter.com/jamuraa"} twitter
+            %li
+              %a{:href => "http://www.flickr.com/photos/jamuraa"} flickr
         .rss
-          rss
+          %ul
+            %li.rss-icon
+              %a{:href => "/atom.xml"} atom
+            %li.rss-icon
+              %a{:href => "/rss.xml"} rss
+            %li.email-icon
+              %a{:href => "mailto:jamuraa@base0.net"} jamuraa@base0.net
 
