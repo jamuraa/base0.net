@@ -11,7 +11,7 @@ title: base0.net - In Transition
       .date {{ post.date | date_to_string }}
       .entry {{ post.content | before_fold }}
       %span.comment-link
-        %a{:href => "{{ post.url }}#disqus_thread"} Comments
+        %a{:href => "{{ post.url }}/#disqus_thread"} Comments
     {% endfor %}
   %a{:href => "/archive.html"} &laquo; Article Archive
 
