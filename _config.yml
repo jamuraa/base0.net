@@ -2,4 +2,4 @@ markdown: rdiscount
 pygments: true
 #server_port: 8080
 permalink: /posts/:title
-exclude: ['Rakefile', 'README.markdown']
+exclude: ['Rakefile', 'README.markdown', 'config.rb', 'mangle_posts.rb']
