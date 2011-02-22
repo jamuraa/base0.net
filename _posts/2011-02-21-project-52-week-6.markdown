@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Project 52: Week 6"
+tags:
+- life
+- play
+- project-52
+date: 2011-02-21 22:40:30 -06:00
+---
+<a rel="photo" href="/images/project52/06-sunset.jpg">
+<img title="Week 5: Jellyfish" src="/images/project52/06-sunset-postsize.jpg" />
+</a>
