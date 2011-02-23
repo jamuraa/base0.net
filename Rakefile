@@ -1,5 +1,6 @@
 def jekyll(opts="", path="")
   sh "rm -rf _site"
+  sh "compass compile"
   sh path + "jekyll " + opts
 end
 
@@ -8,19 +9,16 @@ task :default => [:deploy]
 
 desc "Build site using Jekyll"
 task :build do
-  compass compile
   jekyll
 end
 
 desc "Serve on Localhost with port 4000"
 task :server do
-  compass compile
   jekyll "--server --auto"
 end
 
 desc "Serve on Localhost with using development version"
 task :unstable do
-  compass compile
   jekyll "--server --auto", "../jekyll/bin/"
 end
 
