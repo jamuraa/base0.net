@@ -30,8 +30,8 @@ title: base0.net - Post Archive
         {% endif %}
       %td
         %a{:href => "{{post.url}}"} {{ post.title }}
-      %td
-        %a.comment-link{:href => "{{post.url}}#disqus_thread"} Comments
+      %td.comments
+        %a.comment-link{:href => "{{post.url}}/#disqus_thread"} Comments
     {% endfor %}
 
 {% include disqus_comment_links.html %}
