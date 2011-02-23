@@ -1,0 +1,11 @@
+--- 
+title: "Project 52: Week 7"
+layout: post
+date: Tue Feb 22 23:29:07 -0600 2011
+tags:
+ - life::play
+ - project52
+---
+<a rel="photo" href="/images/project52/07-pizza.jpg">
+<img src="/images/project52/07-pizza-postsize.jpg" title="Week 7: Pizza" />
+</a>
