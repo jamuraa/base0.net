@@ -2,7 +2,7 @@
 layout: default
 ---
 .post
-  %a{:target => "post-top"}/
+  %a{:name => "post-top"}
   %h2 {{ page.title }}
   .date {{ page.date | date_to_string }}
   .entry {{ content }}
