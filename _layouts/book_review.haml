@@ -1,0 +1,9 @@
+---
+layout: post
+---
+.review-info
+  .cover-image {{ page.asin | amazon_medium_image }}
+  .title Title: {{ page.asin | amazon_link }}
+  .author Author: {{ page.asin | amazon_authors }}
+  .rating Rating: {{ page.rating }}
+.review-text {{ content }}

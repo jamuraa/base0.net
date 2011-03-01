@@ -13,12 +13,12 @@ end
 
 desc "Serve on Localhost with port 4000"
 task :server do
-  jekyll "--server --auto"
+  jekyll "--server"
 end
 
 desc "Serve on Localhost with using development version"
 task :unstable do
-  jekyll "--server --auto", "../jekyll/bin/"
+  jekyll "--server", "../jekyll/bin/"
 end
 
 desc "Deploy to live"
