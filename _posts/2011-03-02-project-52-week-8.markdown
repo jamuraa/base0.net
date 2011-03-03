@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 8"
+layout: post
+date: Wed Mar 02 07:45:53 -0600 2011
+tags:
+ - life::play
+ - project52
+ - photos
+---
+<a rel="photo" href="/images/project52/08-whiteboard.jpg">
+<img src="/images/project52/08-whiteboard-postsize.jpg" title="Week 8: Whiteboard" />
+</a>
+
