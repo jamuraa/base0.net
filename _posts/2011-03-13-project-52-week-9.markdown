@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 9"
+layout: post
+date: Sun Mar 13 00:17:33 -0600 2011
+tags:
+ - life::play
+ - project52
+ - photos
+---
+<a rel="photo" href="/images/project52/09-music.jpg">
+<img src="/images/project52/09-music-postsize.jpg" title="Week 9: Music" />
+</a>
+

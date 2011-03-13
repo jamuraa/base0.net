@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 10"
+layout: post
+date: Sun Mar 13 00:19:30 -0600 2011
+tags:
+ - life::play
+ - project52
+ - photos
+---
+<a rel="photo" href="/images/project52/10-bottlecaps.jpg">
+<img src="/images/project52/10-bottlecaps-postsize.jpg" title="Week 10: Bottlecaps" />
+</a>
+

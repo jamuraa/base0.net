@@ -1,0 +1,48 @@
+--- 
+title: Eight
+layout: post
+date: Sun Mar 13 00:47:57 -0600 2011
+tags:
+ - life::play
+ - writing
+ - 30days
+---
+"Damnit!" He screamed as the screen blinked out.
+
+There wasn't anything left to do, though.  The server was dead and his
+hopes went with it.  He was hoping that he would have gotten at least
+a couple more hours out of it, as a shield to the onslaught that was
+going to come down on his head in short order.
+
+Management wouldn't be happy about the failure, especially when it
+only lasted a couple of months.  Then again, they were the ones that
+wouldn't splurge for a proofed firewall.  They can't have expected it
+to last that long.  He tapped on his bonecomm and called up his
+direct superior.
+
+"Thomas here," the man replied after a couple of rings.  It sounded
+like he was in a tornado.
+
+"It's down," he said.  "Only lasted about three hours once the hive
+found out about the open jack.  What do you want me to do?"
+
+"Crap.  Miles isn't going to be happy with that.  Hold for now, I'll
+comm back in a bit."
+
+He started pulling the cables out of the rack, knowing that there was
+going to at least a replacement put in place, and if not that, a scrap
+order.  There wasn't anything to do with a server that had been hived
+out.  Any time you connected it back on the 'net it would be seeking
+out the hive and joining in whatever plan they had going on at the
+moment.  His head buzzed.
+
+"Okay, plug it back in, they say," Thomas's voice rang loud and clear.
+
+"Huh? Are they crazy?"
+
+"Well, apparently this was the plan from the start.  They weren't that
+happy that you actually tried to defend it in the first place.  Put it
+back online."
+
+That sealed it: they were nuts.
+
