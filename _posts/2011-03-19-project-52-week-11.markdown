@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 11"
+layout: post
+date: Sat Mar 19 20:54:46 -0500 2011
+tags:
+ - life::play
+ - project52
+ - photos
+---
+<a rel="photo" href="/images/project52/11-toy-penguin.jpg">
+<img title="Week 11: Toy Penguin" src="/images/project52/11-toy-penguin-postsize.jpg" />
+</a>
+
