@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 12"
+layout: post
+date: Sun Mar 27 22:39:50 -0500 2011
+tags:
+ - life::play
+ - project52
+ - photos
+---
+<a rel="photo" href="/images/project52/12-gold-medal-flour.jpg">
+<img title="Week 12: Gold Medal Flour" src="/images/project52/12-gold-medal-flour-postsize.jpg" />
+</a>
+
