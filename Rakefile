@@ -14,7 +14,7 @@ end
 
 desc "Serve on Localhost with port 4000"
 task :server do
-  jekyll "--server"
+  jekyll "--server --auto"
 end
 
 desc "Serve on Localhost with using development version"
