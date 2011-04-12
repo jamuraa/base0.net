@@ -20,7 +20,16 @@ layout: nil
    <link href="http://base0.net{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://base0.net{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <content type="html">
+     {% if post.layout == 'amzmoviereview' %}
+     &lt;p&gt;
+       Title: {{ post.asin | amazon_link | xml_escape }} &amp;mdash;
+       {{ post.asin | amazon_running_time | xml_escape }} &amp;mdash;
+       Rating: {{ post.rating }}
+     &lt;/p&gt;
+     {% endif %}
+     {{ post.content | xml_escape }}
+   </content>
  </entry>
  {% endfor %}
 

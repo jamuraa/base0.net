@@ -31,14 +31,13 @@ module Jekyll
       resp = AmazonResultCache.instance.item_lookup(text)
       item = resp.item_lookup_response[0].items[0].item[0]
       url = CGI::unescape(item.detail_page_url.to_s)
-      title = item.item_attributes.title.to_s
+      title = item.item_attributes.title.to_s.gsub(/ \[Blu-ray\]/, '').gsub(/ \(Ultimate Edition\)/, '')
       '<a href="%s">%s</a>' % [url, title]
     end
 
     def amazon_authors(text)
       resp = AmazonResultCache.instance.item_lookup(text)
       item = resp.item_lookup_response[0].items[0].item[0]
-      url = CGI::unescape(item.detail_page_url.to_s)
       authors = item.item_attributes.author.collect(&:to_s)
       array_to_sentence_string(authors)
     end
@@ -66,6 +65,33 @@ module Jekyll
       image_url = item.image_sets.image_set.small_image.url
       '<a href="%s"><img src="%s" /></a>' % [url, image_url]
     end
+
+    def amazon_release_date(text)
+      resp = AmazonResultCache.instance.item_lookup(text)
+      item = resp.item_lookup_response[0].items[0].item[0]
+      item.item_attributes.theatrical_release_date.to_s
+    end
+
+    # Movie specific
+    def amazon_actors(text)
+      resp = AmazonResultCache.instance.item_lookup(text)
+      item = resp.item_lookup_response[0].items[0].item[0]
+      actors = item.item_attributes.actor.collect(&:to_s)
+      array_to_sentence_string(actors)
+    end
+
+    def amazon_director(text)
+      resp = AmazonResultCache.instance.item_lookup(text)
+      item = resp.item_lookup_response[0].items[0].item[0]
+      item.item_attributes.director.to_s
+    end
+
+    def amazon_running_time(text)
+      resp = AmazonResultCache.instance.item_lookup(text)
+      item = resp.item_lookup_response[0].items[0].item[0]
+      item.item_attributes.running_time.to_s + " minutes"
+    end
+
   end
 end
 

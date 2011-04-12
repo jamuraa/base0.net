@@ -10,8 +10,8 @@ title: base0.net - In Transition
         %a{:href => "{{ post.url }}"} {{ post.title }}
       .date {{ post.date | date_to_string }}
       .entry
-        {% if post.layout == 'book_review' %}
-        {% include book_header.haml %}
+        {% if post.layout == 'amzmoviereview' %}
+        {% include movie_fp_header.haml %}
         {% endif %}
         {{ post.content | before_fold }}
       %span.comment-link

@@ -1,0 +1,13 @@
+---
+layout: post
+---
+.review-info
+  .cover-image {{ page.asin | amazon_medium_image }}
+  .title Title: {{ page.asin | amazon_link }}
+  .stars Top Billed: {{ page.asin | amazon_actors }}
+  .running-time Runs {{ page.asin | amazon_running_time }}
+  .rating
+    Mike's Rating: 
+    %strong {{ page.rating }}
+  %br.cl
+.review-text {{ content }}

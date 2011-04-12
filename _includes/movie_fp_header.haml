@@ -1,0 +1,8 @@
+<div class="review-info">
+  <div class="cover-image"> {{ post.asin | amazon_medium_image }} </div>
+  <div class="title"> Title: {{ post.asin | amazon_link }} </div>
+  <div class="stars"> Actors: {{ post.asin | amazon_actors }} </div>
+  <div class="running-time"> Runs {{ post.asin | amazon_running_time }} </div>
+  <div class="rating"> Mike's Rating: <strong>{{ post.rating }}</strong> </div>
+  <br class="cl" />
+</div>
