@@ -1,0 +1,29 @@
+--- 
+title: 11111
+layout: post
+date: Wed Apr 12 17:36:35 -0500 2011
+tags:
+ - life::think
+ - birthday
+---
+So today I seem to have survived another cycle around Sol, so now I'm
+one year older than last year.  It hasn't been a bad year overall.
+In the last year I've done a bunch of things:
+
+  * Quit my job at Honeywell, and went to work full-time at a startup that I helped co-found.  I'm a programmer there doing basically all of the programming they need to do.   It's much more rewarding to me than the other job was.
+  * Put some of my hobby work on [my github](http://www.github.com/jamuraa), Gatherling, a php project that I inherited and then put a bunch of work into which helps track free tournaments on Magic Online, and unsilent-assistant, a bot written for hosting those tournaments.
+  * Hosted 37 free tournaments on Magic Online, providing prizes and having a bunch of fun playing virtual cards with real people.
+  * Made over 500 commits to various git repositories, touching a ton of lines of code, that I can't be bothered to count right now.
+  * Started an LLC (Base Zero, LLC) to contain my consulting, which has made me some side money that is nothing to scoff at.
+  * Wrote 51 blog posts, including this one.  Most of these were made in 2011 as part of my challenge to write more blog posts.  There are more than 20,000 words in these posts.
+  * Lost more than 50 pounds, which is supposedly a good thing, but I can't really quantify changes in my life other than a diet change and clothes fitting looser.
+  * Bought a new (used) car for us, and gave away the old (broken) one for charity.
+  * Took a trip to Portland with my beautiful and wonderful wife and had a great time.
+
+There is a bunch of stuff that I'm sure that I've forgotten and will remember later, or I just don't have the time to find the stats on right now, or I'm leaving out because I just don't want to be **that** public with my life story right now.
+
+Of course, there are still things that I wish I would have done better, including getting my thesis completed and a Ph.D under my belt.  I am still planning on finishing that, and hopefully this year.  There is a lot of work still to be done for it, including the writing of it all, and the experiments that I need to complete.  I need to get working on it more seriously.
+
+Overall I think that the last year has gone decently.  There were some ups and downs, but I am still for the most part happy and healthy, and making the money that is required to keep both of those on the right side of things. I'm hoping that part of my blogging this year will give me a better idea of what is going on when I start looking back and thinking about years past.  I've got what could be termed a horrible memory for things.
+
+For now however - _What day is today?  It's Michael's birthday!  What a day for a birthday!  Let's all have some cake!_
