@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 14"
+layout: post
+date: Wed Apr 17 18:57:30 -0500 2011
+tags:
+ - life::play
+ - photos
+ - project52
+---
+<a rel="photo" href="/images/project52/14-winecork.jpg">
+<img title="Week 14: Wine Cork" src="/images/project52/14-winecork-postsize.jpg" />
+</a>
+According to <a href="http://www.epochconverter.com/epoch/weeknumbers.php">ISO-8601 week numbers</a>, I'm one week behind right now.  I'll try to take two pictures this week.

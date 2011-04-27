@@ -1,0 +1,16 @@
+--- 
+title: "Project 52: Weeks 15-16"
+layout: post
+date: Tue Apr 26 05:10:16 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/15-meats.jpg">
+<img title="Week 15: Meats" src="/images/project52/15-meats-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/16-frozenegg.jpg">
+<img title="Week 16: Frozen Egg" src="/images/project52/16-frozenegg-postsize.jpg" />
+</a>
+

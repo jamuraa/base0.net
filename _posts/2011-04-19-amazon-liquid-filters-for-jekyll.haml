@@ -1,0 +1,146 @@
+--- 
+title: Amazon liquid filters for jekyll
+layout: post
+date: Tue Apr 19 23:52:23 -0500 2011
+tags:
+ - life::think
+ - coding
+ - jekyll
+ - amazon
+---
+:markdown
+  One thing that I really enjoyed when I had a short stint blogging with s9y was
+  the great Amazon plugin that it had.  It would work with the affiliate program
+  and put links to the items and put them in a nice table.  I wanted to try to
+  get that back when I switched to jekyll for my blogging engine just a month or
+  two ago.
+
+  I spent some time thinking about how to accomplish that, and I came across
+  [Ruby/AWS](http://www.caliban.org/ruby/ruby-aws/) which looked like exactly
+  what I was looking for.  It's ruby which means it's a good fit for a jekyll
+  plugin and it puts in my affiliate link without too much work.  It takes a
+  little to set it up.
+
+  Originally I was going to do something dumb and modify the liquid syntax or
+  something, but I realized pretty quick that it's much better as a liquid filter.
+  So you put something like { { "B002I0JIQW" | amazon_link} } into your post, and
+  a link like {{ "B002I0JIQW" | amazon_link }} comes out.  It's quite handy.  The
+  magic number sequence there is the ASIN of the article, which can be found on
+  every page in the URL.  It's pretty easy to spot.  There's also image links of
+  various sizes:
+
+  {{ "B002I0JIQW" | amazon_small_image }}
+
+  {{ "B002I0JIQW" | amazon_medium_image }}
+
+  {{ "B002I0JIQW" | amazon_large_image }}
+
+  Also I've included some other random metadata that you can grab.  Right now I'm
+  using it for the reviews layouts, which puts the title and the actors and
+  director, like you can see on the [review of Paul
+  ](http://base0.net/posts/review-paul) I recently did on the blog.
+
+  The rest should be pretty easy to figure out.  Here's the code, just drop it
+  into your _plugins directory on any recent enough version of jekyll and you
+  should be good to go.
+
+:plain
+  {% highlight ruby %}
+  require 'amazon/aws'
+  require 'amazon/aws/search'
+  require 'cgi'
+
+  module Jekyll
+    class AmazonResultCache
+      def initialize
+        @result_cache = {}
+      end
+
+      @@instance = AmazonResultCache.new
+
+      def self.instance
+        @@instance
+      end
+
+      def item_lookup(asin)
+        asin.strip!
+        return @result_cache[asin] if @result_cache.has_key?(asin)
+        il = Amazon::AWS::ItemLookup.new('ASIN', {'ItemId' => asin})
+        resp = Amazon::AWS::Search::Request.new.search(il)
+        @result_cache[asin] = resp
+        return resp
+      end
+
+      private_class_method :new
+    end
+
+    module Filters
+      def amazon_link(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        url = CGI::unescape(item.detail_page_url.to_s)
+        title = item.item_attributes.title.to_s.gsub(/ \[Blu-ray\]/, '').gsub(/ \(Ultimate Edition\)/, '')
+        '<a href="%s">%s</a>' % [url, title]
+      end
+
+      def amazon_authors(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        authors = item.item_attributes.author.collect(&:to_s)
+        array_to_sentence_string(authors)
+      end
+
+      def amazon_medium_image(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        url = CGI::unescape(item.detail_page_url.to_s)
+        image_url = item.image_sets.image_set[0].medium_image.url
+        '<a href="%s"><img src="%s" /></a>' % [url, image_url]
+      end
+
+      def amazon_large_image(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        url = CGI::unescape(item.detail_page_url.to_s)
+        image_url = item.image_sets.image_set[0].large_image.url
+        '<a href="%s"><img src="%s" /></a>' % [url, image_url]
+      end
+
+      def amazon_small_image(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        url = CGI::unescape(item.detail_page_url.to_s)
+        image_url = item.image_sets.image_set[0].small_image.url
+        '<a href="%s"><img src="%s" /></a>' % [url, image_url]
+      end
+
+      def amazon_release_date(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        item.item_attributes.theatrical_release_date.to_s
+      end
+
+      # Movie specific
+      def amazon_actors(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        actors = item.item_attributes.actor.collect(&:to_s)
+        array_to_sentence_string(actors)
+      end
+
+      def amazon_director(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        item.item_attributes.director.to_s
+      end
+
+      def amazon_running_time(text)
+        resp = AmazonResultCache.instance.item_lookup(text)
+        item = resp.item_lookup_response[0].items[0].item[0]
+        item.item_attributes.running_time.to_s + " minutes"
+      end
+
+    end
+  end
+  {% endhighlight %}
+

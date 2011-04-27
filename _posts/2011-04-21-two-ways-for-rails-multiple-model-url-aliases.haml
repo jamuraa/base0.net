@@ -1,0 +1,68 @@
+--- 
+title: One wrong way for rails multiple-model url aliases
+layout: post
+date: Thu Apr 21 05:38:25 -0500 2011
+tags:
+ - life::think
+ - hack
+ - rails
+---
+:markdown
+  In a couple of the projects that I've been working on in the last few months, I've wanted
+  to have a set of aliases that I can't really set up with the Rails routing DSL.  The main problem
+  is that I can't route a path to two models based on a property of the model.
+
+  In order to have a cogent example, let's say that I have a User model, and a Group model, each 
+  of which have names, that I guarantee is unique based on validations.  I want both of them
+  to be able to access their pages via the url `http://host/(name)`.
+
+  The pseudocode that I really want in routing is:
+
+:plain
+  {% highlight ruby %}
+  if User.where(:name => :id) then
+    {:controller => UsersController, :action => :show, :id => :id}
+  elsif Group.where(:name => :id) then
+    {:controller => GroupsController, :action => :show, :id => :id}
+  else
+    404
+  end
+  {% endhighlight %}
+
+:markdown
+  This is, as far as I know, not possible with the Rails routes that are available in either Rails 2.3 or 3.
+  To complicate matters, I don't want to redirect the URL becuase I want the browser to show the 
+  `http://host/(name)` as the canonical URL.  Getting `user_path(@user)` and `group_path(@group)` to return this shortened url path would also be very nice.
+
+  I've so far solved this problem in two ways, both of which I'm unhappy with.
+  The first is through routing everything through a controller where I can then check each of the models for
+  existence of the correct property:
+
+:plain
+  {% highlight ruby %}
+  # config/routes.rb (at the end)
+  match ':id' => 'home#disambiguate'
+
+  # HomeController
+
+  def disambiguate
+    @user = User.where(:name => params[:id]).first
+    render(:template => 'users/show') and return if @user
+    @group = Group.where(:name => params[:id]).first
+    render(:template => 'groups/show') and return if @group
+    render(:template => 'common/404', :status => 404)
+  end
+  {% endhighlight %}
+
+:markdown
+  I'm pretty unhappy with this.  For one, if I put anything into the actions
+  for `User#show` or `Group#show` (counting hits or something) then they need
+  to be also included in `Home#disambiguate`.  I haven't had to do that so far.
+  Also the 404 is being rendered here, where I would really rather just have it
+  at the bottom of my rails route just like my other rails apps.
+
+  I've used another solution that I don't like for this problem that solves these
+  problems, but I'm still unhappy with.  I'm thinking of a third solution, which
+  I might code up and present later this week.  Have you solved this problem
+  in a different, better way?  I would be interested to hear.
+

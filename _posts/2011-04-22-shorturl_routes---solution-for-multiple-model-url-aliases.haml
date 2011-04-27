@@ -1,0 +1,92 @@
+--- 
+title: "shorturl_routes: rails multiple-model url aliases"
+layout: post
+date: Fri Apr 22 22:40:56 -0500 2011
+tags:
+ - life::think
+ - hack
+ - rails
+ - shorturl_routes
+---
+:markdown
+  [Earlier this week](/posts/two-ways-for-rails-multiple-model-url-aliases/)
+  I wrote about my frustration with setting up short urls
+  for rails routing to two models based on attributes, something that I have seen
+  on a bunch of websites, but haven't found a good solution to in rails.  Let me
+  describe it in pseudo-cucumber:
+
+:plain
+  {% highlight cucumber %}
+  As a site user
+  In order to have easily-rememberable, and easier twitterable URLs
+  I want to have my user and group models accessible by /name
+
+  Scenario: Users can access by /name
+    Given there is a User with name "foo"
+    When I visit the page '/foo'
+    Then I should be on the page for the User with name "foo"
+
+  Scenario: Groups can access by /name
+    Given there is a Group with name "bar"
+    When I visit the page '/bar'
+    Then I should be on the page for the Group with name "bar"
+
+  {% endhighlight %}
+
+:markdown
+  In addition to the two scenarios above, I would like all of my other routes to 
+  continue to work as expected, with the priority as normal falling from the top 
+  of the routes to the bottom.
+
+  My previous solution externalized the disambiguation of these routes which
+  are dependent on the models in the database to a controller.  I really wanted
+  this to be in the routes, because that is where I feel like it naturally should be.
+
+  So I'm introducing today a solution.  [shorturl_routes](https://github.com/jamuraa/shorturl_routes)
+  is a gem which will give me what I want.  Here's the routes that will accomplish the 
+  functionality that I explained before.
+
+:plain
+  {% highlight ruby %}
+  SampleApp::Application.routes.draw do
+    resources :groups
+    resources :users
+
+    shorturl ':name', :to => 'users#show', :model => "User", :attribute => :name
+    shorturl ':name', :to => 'groups#show', :model => "Group", :attribute => :name
+
+  end
+  {% endhighlight %}
+
+:markdown 
+  It's that simple.  With the routes above, if you visit the location
+  /foo, then it is checked against both resources first, but since it's not
+  /groups or /users or any of their generated routes, it falls to the `shorturl`
+  rule, which checks `User.where(:name => params[:name]).first` for existence,
+  and if it doesn't exist, then falls to the next rule which checks for
+  `Group.where(:name => params[:name]).first`.  If either matches, it sets
+  `params[:id]` to the id of the model found, and then routes to the given
+  parameter.
+
+  It's more what I was looking for.  I've packaged it up as a gem for your 
+  convenience, so you can just add this to your Gemfile:
+  
+:plain
+  {% highlight ruby %}
+  gem 'shorturl_routes', :git => git://github.com/jamuraa/shorturl_routes.git
+  {% endhighlight %}
+
+:markdown
+  You might notice the distinct lack of working tests in the gem if you have
+  a chance to try to run them.  The method that I'm using for making it work
+  in the Routing model works for the real thing, but I can't figure out how
+  to make it work in the tests.  For now, the functionality is simple enough
+  to test by myself.
+
+  It also doesn't solve the inverse problem - `user_path(@user)` will still
+  resolve to `/users/:id`.  I'll be looking at improving the DSL syntax a
+  bit and tackling the no tests and this problem as well in the near future.
+
+  Let me know if you find it useful, or want to ream me for bastardizing the
+  routing infrastructure.
+
