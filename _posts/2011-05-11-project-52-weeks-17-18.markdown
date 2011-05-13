@@ -1,0 +1,15 @@
+--- 
+title: "Project 52: Weeks 17-18"
+layout: post
+date: Wed May 11 18:57:44 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/17-keyboard.jpg">
+<img title="Week 17: Keyboard" src="/images/project52/17-keyboard-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/18-gaming.jpg">
+<img title="Week 18: Gaming" src="/images/project52/18-gaming-postsize.jpg" />
+</a>
