@@ -1,0 +1,115 @@
+--- 
+title: MinneBar 6 summary
+layout: post
+date: Sun May 08 00:20:27 -0500 2011
+tags:
+ - life::think
+ - conferences
+ - minnebar
+ - networking
+---
+Today I went to [MinneBar 6](http://minnestar.org/minnebar/), which
+seems like it was the most populated one I've ever been to.  It wasn't
+as **crowded** as the first one that I attended, which was in a much
+smaller space with less people.  This year went off pretty much
+without a hitch as an attendee.  I attended some good talks with some
+great discussion.
+
+At the start of the day [Garrick van
+Buren](http://garrickvanburen.com) gathered a bunch of people in a
+room and we talked about the Do Not Track thought space.  I haven't
+really been paying that much attention to the area, but it's getting
+more and more nefarious from the tracking side it seems like.  [Mykl
+Roventine](http://www.myklroventine.com/) brought up at the end a
+whole new tangled ball that I hadn't thought about in the form of
+affiliate programs - where sites are giving your purchase information
+to all of it's affiliate partners in order to have them flag the items
+that they are responsible for.  They'll probably both be interested in
+the fact that I am running [awstats](http://awstats.sourceforge.net/)
+for my own server, and I was previously going to re-add Google
+Analytics but have decided against it.  The server logs are all I
+really need, at least for this site.  There is an interesting trade-off
+here though, because many users will bring traffic to your site by
+putting on Facebook's Like button or the Tweet This button, and the
+advantage of the extra traffic should be considered.
+
+Next there was a good session about getting started with Android, that
+was in the largest room, which to me seems the least "MinneBar"-ish -
+the smaller rooms make discussion and question asking a lot easier.
+[Donn Felker](http://twitter.com/#!/donnfelker) of
+[QONQR](http://www.qonqr.com/) did a great job of
+making the room work though, asking for topics before he started and
+handling most of them.  It was not a lot of coding but a lot of focus
+on tooling as well as the details about monetizing your idea.  One
+thing that I took away from this session was that people should start
+with the minimum viable product.  If it's going to be paid, start it
+out cheap and people will buy it anyway if they think it's useful.  I
+should have asked about what the change from a 24 hour to a 15 minute
+refund policy has had on sales of paid apps, especially on the small
+functionality MVPs.
+
+I didn't see anything all that interesting for the third session, so I
+fixed a couple of bugs and handled some emails, and talked to Garrick
+for a couple minutes while the directly before lunch.  Grabbing some
+pizza, I talked to some students from St. Cloud who are just finishing
+up, and then walk around looking for some other people to talk to.
+[John Chilton](http://www.jmchilton.net/) found me and we chatted a
+bit.  I'm rubbish at networking at MinneBar.  I don't feel like I can
+sit down at a table that already has a group of guys at it and make
+connections - it could be that I'm just not great at it, or something
+about the tables or that there is always wifi available.  I see a lot
+of guys from my twitter followers but I don't tend to actually chat
+with them.
+
+In the afternoon, [Charles Nutter](http://blog.headius.com/) won the
+award for the most technical presentation of the day, going over
+almost all of the JVM bytecode operands while going over a short
+explanation of the stack machine that it runs on while encouraging
+everyone to learn a little bit about the bytecode that so many of our
+programs compile down to.   A completely full room really indicated to
+me that there was untapped audience at MinneBar this year who would
+have accepted some more technical sessions.
+
+Directly after that, the most entertaining session went to Charles
+again, this time assisted by his son, with an ad-hoc session about
+Minecraft.  I'm a big fan of the game, but I haven't played it in a
+while so I saw some of the new features, and had a good time chatting
+with some other gamers in the crowd.  That's also another audience
+that I think could be approached at the next MinneBar - something for
+the leisure time.
+
+In the remaining sessions, I attended one on gathering your data about
+your users and plotting it in a useful way, mining the data that you
+already have in order to get good analytics.  This was somewhat
+technical but quite cool because they sliced and diced the creative
+commons [StackExchange Data Dump](http://data.stackexchange.com) to
+show some interesting things.  I seriously consider implementing some
+of these for my consulting work, they seem like the kinds of data that
+would be very appreciated to show growth to investors and the like.
+The last one I went to was more of a discussion about how designers and
+coders should cross-pollinate a bit when they are learning.  Designers
+should learn a bit of code, coders should at least know a little bit
+of Photoshop / Fireworks...  at least enough to get the job done.
+
+I was pretty tired at the end of the day, so I didn't stick around for
+much of the beer, also I was driving home and actually had to get some
+stuff done in the evening.  I also just wasn't feeling up to the
+networking aspect just then, partially discouraged because of my
+earlier failure to get into it around lunch time.
+
+Overall, I would say that MinneBar 6 turned out to be a great BarCamp,
+with some wonderful sessions.  The ones that I attended were all
+worthwhile.  I didn't "vote with my feet" and switch sessions in the
+middle of any this year - if I remember correctly I think I actually
+did that last time.  I came across with a couple of thoughts - I'd
+really like to do a presentation next year about something.  I feel
+like I should be able to contribute something to a conference like
+this, especially because there is such a wide range of topics
+presented on.   Also, I feel a lot more comfortable getting my
+networking on in a smaller, more focused group - something like [Ruby
+Users of Minnesota](http://ruby.mn/) meetings, where I know that any
+person there is going to have more in common with me than one of
+a thousand.  I'll look forward to going to this next year if I don't
+have a conflict though, and I encourage the same to anyone else in the
+tech community in the Twin Cities.
+
