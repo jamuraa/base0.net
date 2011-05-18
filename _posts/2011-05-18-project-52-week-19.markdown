@@ -1,0 +1,13 @@
+--- 
+title: "Project 52: Week 19"
+layout: post
+date: Wed May 18 12:47:44 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/19-nachos.jpg">
+<img title="Week 19: Nachos" src="/images/project52/19-nachos-postsize.jpg" />
+</a>
+
