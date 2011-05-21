@@ -10,6 +10,12 @@
     %link{:rel => "alternate", :type => "application/atom+xml", :href => "http://base0.net/atom.xml", :title => "base0.net Atom"}
 
   %body
+    #floater
+      %ul
+        %li
+          %a{:href => "/archive.html"} &laquo; Older Articles
+        %li
+          %a{:href => "/about.html"} About Me
     #wrapper
       #header
         %a{:href => "/"}
@@ -20,7 +26,8 @@
         .myinfo
           base0.net is all
           %br/
-          &copy; 2004-2011 Michael Janssen
+          &copy; 2004-2011
+          %a{:href => "/about.html"} Michael Janssen
           %br/
           Design inspired by
           %a{:href => "http://www.vostoktheme.com/"} Vostok
