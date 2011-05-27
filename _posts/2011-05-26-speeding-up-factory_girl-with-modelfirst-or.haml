@@ -1,0 +1,89 @@
+--- 
+title: Speeding up factory_girl tests with "Model.first or"
+layout: post
+date: Thu May 26 23:06:11 -0500 2011
+tags:
+ - life::hack
+ - factory_girl
+ - rspec
+---
+:markdown
+  Lately at work I've been trying to make sure that I follow test driven
+  development.  That means that I'm using [rspec](http://relishapp.com/rspec) with
+  [factory_girl](https://github.com/thoughtbot/factory_girl) in order to make building objects to test against
+  easier.  As the amount of tests that I have grows, testing gets longer
+  and longer.$
+
+  While this gives me a nice break from working, similar to the compile
+  time that a large program used to give me at my old job, usually I
+  want to see the results of my bugfix faster.  Turning on [rspec test
+  timing](http://www.idolhands.com/ruby-on-rails/specs-and-testing/tracking-down-slow-running-examples-in-rspec) had me confused though, because it was saying that the
+  longest test was similar to this one:
+
+:plain
+  {% highlight ruby %}
+  describe Product do
+
+    it "should have a working factory" do
+      x = Factory(:product)
+      x.should be_valid
+      x.save
+      x2 = Factory(:product)
+      x2.should be_valid
+    end
+  end
+  {% endhighlight %}
+
+:markdown
+  There's nothing there - it's all calls to factories that I've built.
+  So I went investigating what was actually happening there by making
+  a simple helper for telling me what was actually being built:
+
+:plain
+  {% highlight ruby %}
+  def get_model_classes
+    [].tap do |r| 
+      Dir["# {Rails.root.join("app/models/*.rb")}"].each do |fname|
+        modelname = fname.split('/')[-1].split('.')[0].camelcase
+        r << Kernel.const_get(modelname)
+      end
+    end
+  end
+
+  # shows a count of all of the relevant objects, to 
+  # determine when we are making too many objects in the world.
+  def show_object_counts(title = "")
+    @@all_models ||= get_model_classes
+    print "Objects in existence: # {title}\n"
+    @@all_models.each do |k|
+      if k.respond_to?(:all) then
+        c = k.all.count
+        next if c == 0
+        print " - # {c} # {k}\n"
+      end
+    end
+  end
+  {% endhighlight %}
+
+:markdown
+  Adding a call after the model factory showed me that I was making
+  7 User, 5 Address, and about 21 other support objects in order
+  to simply build a valid Product.  There should be ways to eliminate
+  a large number of those.
+  A lot of it comes from using `x.association :user` in the factory.
+  There are a lot of these in the various factories for this application
+  because I'm keeping track of who is creating various items.
+
+  What I really want to say in most of these places isn't "I need a
+  new user that relates to this" but instead "I need a user, any user"
+  So I've started using a construct that follows `Model.first or` in
+  these places, so `x.association :user` becomes
+  `x.user { User.first or Factory(:user) }`.
+
+  I went to building exactly one User and Address for the whole
+  test suite, and reduced the suite run time from 5m13s to 1m45s
+  by just switching to this wherever I needed an object and not a
+  new one.
+  I'd suggest it to anyone who is having a lot of slow tests and
+  is using factories, it's saved me at least a couple hours by
+  now considering how often I run tests.
