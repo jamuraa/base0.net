@@ -1,0 +1,18 @@
+--- 
+title: "Project 52: Weeks 20-22"
+layout: post
+date: 2011-06-05 17:00:06 -0500
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/20-flowers.jpg">
+<img title="Week 20: Flowers" src="/images/project52/20-flowers-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/21-stanthonyjpg">
+<img title="Week 21: St. Anthony Main" src="/images/project52/21-stanthony-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/22-frenchtoast.jpg">
+<img title="Week 22: French Toast" src="/images/project52/22-frenchtoast-postsize.jpg" />
+</a>
