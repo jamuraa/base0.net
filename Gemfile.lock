@@ -9,6 +9,7 @@ GEM
     directory_watcher (1.4.0)
     fssm (0.2.7)
     haml (3.1.1)
+    liquid (2.2.2)
     rdiscount (1.6.8)
     ruby-aaws (0.7.0)
     sass (3.1.2)
@@ -20,5 +21,6 @@ DEPENDENCIES
   compass
   directory_watcher
   haml
+  liquid
   rdiscount
   ruby-aaws

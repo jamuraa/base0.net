@@ -1,5 +1,6 @@
 source :rubygems
 
+gem 'liquid'
 gem 'haml'
 gem 'compass'
 gem 'rdiscount'
