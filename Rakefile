@@ -64,3 +64,26 @@ tags:
   puts "Created '_posts/#{time}-#{name}.markdown'"
   sh "vi _posts/#{time}-#{name}.markdown"
 end
+
+desc "List all the tags in use"
+task :list_tags do
+  require 'yaml'
+  tags = {}
+  Dir["_posts/*"].each do |fn|
+    print "Parsing #{fn}\n"
+    meta = YAML.load( File.open(fn) )
+    tags[fn] = meta["tags"] unless meta["tags"].nil?
+  end
+  print "All tags:\n"
+  tags_with_counts = tags.inject({}) do |hsh, tag| 
+    tag[1].each do |tagname|
+      hsh[tagname] ||= []
+      hsh[tagname] << tag[0]
+    end
+    hsh
+  end
+  tags_with_counts.to_a.sort { |a, b| b[1].count <=> a[1].count }.each do |tag, v|
+    print " %03d - #{tag}" % v.count
+    print "\n"
+  end
+end

@@ -4,7 +4,15 @@ title: !binary |
   zpXOu867zqzOtM6xOiDOtc62zqzPgc+EzrfOvM6xIM6/z4fPhM+O
 
 tags: 
-- "play, teach, learn, live-journal, planet-debian, conferences, \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82, \xCE\xBA\xCF\x8E\xCF\x83, presentation"
+ - play
+ - teach
+ - learn
+ - live-journal
+ - planet-debian
+ - conferences
+ - \xCE\xB5\xCE\xBB\xCE\xBB\xCE\xAC\xCF\x82
+ - \xCE\xBA\xCF\x8E\xCF\x83
+ - presentation
 date: 2007-07-04 08:06:33 -05:00
 ---
 The actual conference was not too difficult to get to - I ended up waiting for the bus much longer than I should have, sitting about 30 minutes.  That was kind of annoying, but more annoying was the issue that I had to make a connecting bus, but it wouldn't show up for another 40 minutes after the first one dropped me off.  This was just intolerable.  Luckily there was someone else who was going to the conference as well, and we both decided that waiting was not our cup of tea, and split a cab.  The cab was too expensive for 1 but just right to split, between the actual bus fare we would have to wait to pay and the imaginary unreasonable price to pay in order to get that far.
