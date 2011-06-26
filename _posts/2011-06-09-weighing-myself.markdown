@@ -46,7 +46,7 @@ important:
 
 ### Stand as close to the center of the scale as possible
 
-<img src="images/diet/stuff/scalefeet-postsize.jpg" />
+<img src="/images/diet/stuff/scalefeet-postsize.jpg" />
 
 This means that your weight will be distributed so as to make the
 assumptions of the manufacturer as correct as possible.  Using this
@@ -90,7 +90,7 @@ logbook right next to my scale, and I put my weight in it.
 
 [6]: http://www.reddit.com/r/loseit/
 
-<img src="images/diet/stuff/weightlog-postsize.jpg" />
+<img src="/images/diet/stuff/weightlog-postsize.jpg" />
 
 It's a simple book with the date, and the weight that I read off of
 the scale on that day.  Even though it just looks like a weight log,

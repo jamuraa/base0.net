@@ -1,0 +1,12 @@
+--- 
+title: "Project 52: Week 23"
+layout: post
+date: Wed Jun 22 01:36:49 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/23-worn.jpg">
+<img title="Week 23: Worn" src="/images/project52/23-worn-postsize.jpg" />
+</a>
