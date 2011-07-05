@@ -38,8 +38,8 @@ for things, because they have some pretty nice streets and like
 streetlights (well, one streetlight) in some of them.  Regardless,
 there was some nice views on the way to the hotel.
 
-<a href="/images/vac/springgreen11/usonian-inn-exterior.png">
-<img src="/images/vac/springgreen11/usonian-inn-exterior-postsize.png" />
+<a href="/images/vac/springgreen11/usonian-inn-exterior.jpg">
+<img src="/images/vac/springgreen11/usonian-inn-exterior-postsize.jpg" />
 </a>
 
 We're staying at the [Usonian Inn](http://usonianinn.com), which is unique in the world for
@@ -54,8 +54,8 @@ and is one of the only ones in the areas which is kept on a couple of
 the green registries.   While it's a little more expensive than a
 run-of-the-mill hotel, I think I would stay there again.
 
-<a href="/images/vac/springgreen11/usonian-inn-interior.png">
-<img src="/images/vac/springggreen11/usonian-inn-interior-postsize.png" />
+<a href="/images/vac/springgreen11/usonian-inn-interior.jpg">
+<img src="/images/vac/springgreen11/usonian-inn-interior-postsize.jpg" />
 </a>
 
 After we got situated, we wanted to get something to eat, so we drove
