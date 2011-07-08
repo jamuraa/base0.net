@@ -17,6 +17,48 @@ task :server do
   jekyll "--server --auto"
 end
 
+def find_non_postsize_images(dirname)
+  print "Walking directory " + dirname + "\n"
+  files = []
+  Dir.entries(dirname).each do |f|
+    print " -> #{dirname}/#{f}"
+    if f =~ /^\./
+      print " is hidden..\n"
+      next
+    end
+    if f =~ /\-postsize\.(png|jpg)$/
+      print " is postsize already..\n"
+      next
+    end
+    if File.directory?(dirname + '/' + f)
+      files += find_non_postsize_images(dirname + '/' + f)
+    else
+      postsize_filename = f.gsub(/\.(png|jpg)$/, '-postsize.\1')
+      if not File.exists?(dirname + '/' + postsize_filename)
+        print " is a candidate (no #{postsize_filename}).\n"
+        files << (dirname + '/' + f)
+      else
+        print " has a POSTSIZE already.\n"
+      end
+    end
+  end
+  return files
+end
+
+desc "Make images postsize if they aren't already"
+task :postsize do
+  image_candidates = find_non_postsize_images('images')
+  image_candidates.each do |filename|
+    width = %x(identify -format "%[fx:w]" #{filename})
+    if width.to_i > 610
+      postsize_filename = filename.gsub(/\.(png|jpg)/, '-postsize.\1')
+      print "Converting #{filename} to #{postsize_filename} since it's #{width.to_i} wide\n"
+      %x(convert #{filename} -resize 610x #{postsize_filename})
+      print %x(identify #{postsize_filename})
+    end
+  end
+end
+
 desc "Serve on Localhost with using development version"
 task :unstable do
   jekyll "--server", "../jekyll/bin/"
