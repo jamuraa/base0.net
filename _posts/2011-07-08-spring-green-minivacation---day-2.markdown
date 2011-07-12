@@ -7,7 +7,7 @@ tags:
  - plays
  - spring green 2011
 ---
-(This post is part of a series on a short vacation that I took with my lovely spouse [Diana Rajchel](http://www.dianarajchel.com) at the beginning of July)
+(This post is part of a series on a short vacation that I took with my lovely spouse [Diana Rajchel](http://www.dianarajchel.com) at the beginning of July 2011)
 
 Waking up at the [Usonian Inn](http://usonianinn.com) was interesting, because
 there are large bay windows that let in the light very well throughout the day,
