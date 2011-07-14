@@ -1,0 +1,22 @@
+--- 
+title: "Project 52: Week 24-27"
+layout: post
+date: Wed Jul 13 23:51:18 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+I'm a bit behind.  Have fun.
+<a rel="photo" href="/images/project52/24-bottletree.jpg">
+<img title="Week 24: Bottle Tree" src="/images/project52/24-bottletree-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/25-mustachio.jpg">
+<img title="Week 25: Mustachio" src="/images/project52/25-mustachio-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/26-caves.jpg">
+<img title="Week 26: Caves" src="/images/project52/26-caves-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/27-breakfast.jpg">
+<img title="Week 27: Breakfast" src="/images/project52/27-breakfast-postsize.jpg" />
+</a>
