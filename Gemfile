@@ -1,5 +1,6 @@
 source :rubygems
 
+gem 'rake'
 gem 'liquid'
 gem 'haml'
 gem 'compass'
