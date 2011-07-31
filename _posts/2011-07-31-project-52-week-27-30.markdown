@@ -1,0 +1,19 @@
+--- 
+title: "Project 52: Week 28-30"
+layout: post
+date: Wed Jul 31 14:16:20 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+I got behind again.  I need to take more pictures.
+<a rel="photo" href="/images/project52/28-homework.jpg">
+<img title="Week 28: Homework" src="/images/project52/28-homework-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/29-ketopizza.jpg">
+<img title="Week 29: Keto Pizza" src="/images/project52/29-ketopizza-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/30-blurrysunset.jpg">
+<img title="Week 20: Blurry Sunset" src="/images/project52/30-blurrysunset-postsize.jpg" />
+</a>
