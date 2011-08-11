@@ -1,0 +1,12 @@
+--- 
+title: "Project 52: Week 31"
+layout: post
+date: Wed Aug 10 20:50:20 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/31-locate.jpg">
+<img title="Week 31: Locate" src="/images/project52/31-locate-postsize.jpg" />
+</a>
