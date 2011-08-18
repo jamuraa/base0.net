@@ -1,0 +1,12 @@
+--- 
+title: "Project 52: Week 32"
+layout: post
+date: Wed Aug 10 20:50:20 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/32-stuffed.jpg">
+<img title="Week 32: Stuffed" src="/images/project52/32-stuffed-postsize.jpg" />
+</a>
