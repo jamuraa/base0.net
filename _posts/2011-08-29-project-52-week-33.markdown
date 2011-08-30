@@ -1,0 +1,12 @@
+--- 
+title: "Project 52: Week 33"
+layout: post
+date: Wed Aug 29 20:50:20 -0500 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/33-ouch.jpg">
+<img title="Week 33: Ouch" src="/images/project52/33-ouch-postsize.jpg" />
+</a>
