@@ -13,6 +13,9 @@ title: base0.net - In Transition
         {% if post.layout == 'amzmoviereview' %}
         {% include movie_fp_header.haml %}
         {% endif %}
+        {% if post.layout == 'amzbookreview' %}
+        {% include book_fp_header.haml %}
+        {% endif %}
         {{ post.content | before_fold }}
       %span.comment-link
         %a{:href => "{{ post.url }}/#disqus_thread"} Comments
