@@ -9,7 +9,9 @@ tags:
 - big-bang-theory-pictures
 - big-bang-theory-opening
 ---
-From [lizards]() last week to the big lizards this week.  These are the
+From
+[lizards](http://base0.net/posts/big-bang-theory-intro-7-iguanas-basking)
+last week to the big lizards this week.  These are the
 peacable kind, well, as peacable as you can expect from a gigantic lizard.
 
 <a rel="photo" href="/images/tbbt/00000225.png">
