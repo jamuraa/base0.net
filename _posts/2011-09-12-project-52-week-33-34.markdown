@@ -1,0 +1,15 @@
+--- 
+title: "Project 52: Week 34 &amp; 35"
+layout: post
+date: Mon Sep 12 23:19:27 CDT 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+<a rel="photo" href="/images/project52/34-spidery.jpg">
+<img title="Week 34: Spidery" src="/images/project52/34-spidery-postsize.jpg" />
+</a>
+<a rel="photo" href="/images/project52/35-droopy-flowers.jpg">
+<img title="Week 35: Droopy Flowers" src="/images/project52/35-droopy-flowers-postsize.jpg" />
+</a>
