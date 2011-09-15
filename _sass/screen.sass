@@ -12,34 +12,33 @@
 @import partials/form
 @import partials/two_col
 
-$normal-text-color: #BBB
-$hilighted-text-color: lighten($normal-text-color, 20%)
+$normal-text-color: #111
+$hilighted-text-color: darken($normal-text-color, 20%)
 $box-background: #3c3c3c
+$logo-dots-color: rgb(153, 153, 153)
 
 p
   margin: 1em 0
 
 body
-  background-color: #2f2f2f
-  font-size: 15px
-  line-height: 140%
-  font-family: 'Vegur-R', Helvetica, Arial, sans-serif
+  background-color: #fcfcfc
+  font-size: 16px
+  line-height: 160%
+  font-family: 'Lato', Helvetica, Arial, sans-serif
   text-rendering: optimizeLegibility
 
 #floater
-  background-color: $box-background
-  border-bottom-left-radius: 20px
-  padding: 20px
   position: fixed
-  right: 0px
-  top: 0px
+  right: 10px
+  top: 20px
 
 #floater ul
   list-style-type: none
 
 #wrapper
   color: $normal-text-color
-  margin: 0 auto
+  margin: 0
+  margin-left: 2em
   width: 700px
 
 #header
@@ -50,23 +49,20 @@ body
       padding-right: 95px
   font-size: 32px
   position: relative
-  padding-top: 32px
+  padding-top: 12px
   margin-bottom: -20px
-  .subtitle
-    position: absolute
-    right: 64px
-    bottom: 74px
-
 
 a:link
   color: $hilighted-text-color
 a:visited
   color: $normal-text-color
 
-$post-padding: 40px
+em
+  font-style: italic
+
+$post-padding: 20px
 
 .post
-  background: $box-background
   padding: $post-padding
   margin: $post-padding 0
   position: relative
@@ -80,6 +76,7 @@ $post-padding: 40px
       vertical-align: top
   h2
     font-size: 32px
+    font-family: 'Vollkorn', serif
     line-height: 28px
     color: $hilighted-text-color
     margin-bottom: 0.5em
@@ -88,10 +85,13 @@ $post-padding: 40px
       text-decoration: none
   h3
     font-size: 18px
+    font-weight: bold
   .date
     position: absolute
+    font-family: 'Vollkorn', serif
     right: $post-padding
     top: $post-padding
+    color: $logo-dots-color
   img
     border: 5px solid white
   .comment-link
@@ -125,8 +125,8 @@ $post-padding: 40px
 
 #footer
   .myinfo, .sites, .rss
-    width: 200px
-    padding-right: 50px
+    width: 220px
+    padding-right: 20px
     float: left
   .rss
     padding-right: 0px
