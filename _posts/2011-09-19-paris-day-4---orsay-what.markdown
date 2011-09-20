@@ -1,7 +1,7 @@
 --- 
 title: "Paris: Day 4 - Orsay what?"
 layout: post
-date: Mon Sep 19 17:06:29 -0500 2011
+date: Mon Sep 19 16:06:29 -0500 2011
 tags:
  - travel
  - paris
