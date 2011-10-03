@@ -1,0 +1,26 @@
+--- 
+title: "Project 52: Week 36, 37, 38, &amp; 39"
+layout: post
+date: Sun Oct  2 22:13:37 CDT 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+Got quite a ways behind on these.
+
+<a rel="photo" href="/images/project52/36-minihaha-falls.jpg">
+<img title="Week 36: Minihaha Falls" src="/images/project52/36-minihaha-falls-postsize.jpg" />
+</a>
+
+<a rel="photo" href="/images/project52/37-versailles.jpg">
+<img title="Week 37: Versailles" src="/images/project52/37-versailles-postsize.jpg" />
+</a>
+
+<a rel="photo" href="/images/project52/38-eiffel.jpg">
+<img title="Week 38: Eiffel" src="/images/project52/38-eiffel-postsize.jpg" />
+</a>
+
+<a rel="photo" href="/images/project52/39-silver-bulb.jpg">
+<img title="Week 39: Silver Bulb" src="/images/project52/39-silver-bulb-postsize.jpg" />
+</a>
