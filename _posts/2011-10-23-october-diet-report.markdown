@@ -26,7 +26,7 @@ me, because I am a tall as well as a big guy still.
 
 The low-carb diet itself has gone completely out of the window lately.
 I wasn't even trying to keep it while I was on vacation, and I
-kindof kept not keeping it after we returned from the vacation.  I
+kind of kept not keeping it after we returned from the vacation.  I
 have still been keeping track of my calories when I can, and trying to
 overestimate when I can't keep track of what exactly I am eating.  It
 continually is a struggle, because Diana is a great cook, and we have
@@ -58,11 +58,11 @@ enough.
 {{ "diet/beforeafter/summer_2010_to_october_2011.jpg" | postsizeimage }}
 
 That looks pretty good, partially because I was actually eating in the
-first pic, but I can't really find a better "before" pic for msyelf.
-The [before][2] and [after][3] pics are available in full size too.
+first picture, but I can't really find a better "before" picture for myself.
+The [before][2] and [after][3] pictures are available in full size too.
 I'm also wearing my new jeans in this picture, which are size 38.
 Compared to my old size I've lost about 10 inches.   The shirt I'm
-wearing is a size Large, and the before pic I'm wearing a 3XL shirt.
+wearing is a size Large, and the before picture I'm wearing a 3XL shirt.
 It's pretty great, but feels strange when I'm wearing clothes that are
 so small now.
 
@@ -109,7 +109,7 @@ here, and fed into my idea that I shouldn't be too hasty to increase
 back to the BMR.
 
 So there's my first intermediate goal met.  If I am still at or under
-230 at the end of the year, I'll claim victory and re-evaulate my
+230 at the end of the year, I'll claim victory and re-evaluate my
 health and my goals for my body for the 2012 year.  I'm still somewhat
 not happy when I look at myself, but my fitness goal I think might
 help with that a bit by reshaping my body a little more instead of
