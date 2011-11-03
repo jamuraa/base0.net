@@ -1,0 +1,15 @@
+--- 
+title: "Project 52: Week 40, 41, 42, &amp; 43"
+layout: post
+date: Wed Nov  2 20:18:40 CDT 2011
+tags:
+ - project52
+ - life::play
+ - photos
+---
+Got quite a ways behind on these, again.  I'm cheating on the last one, because I somehow didn't take any interesting pictures.
+
+{{ "project52/40-sunrise.jpg Week 40: Sunrise" | postsizeimage }}
+{{ "project52/41-the-hill.jpg Week 41: The Hill" | postsizeimage }}
+{{ "project52/42-coffee-stuff.jpg Week 42: Coffee Stuff" | postsizeimage }}
+{{ "project52/43-jardin-fountains.jpg Week 43: Jardins Fountains" | postsizeimage }}
