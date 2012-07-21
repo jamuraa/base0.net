@@ -29,7 +29,7 @@ biggest chunk in the whole year.   I'm getting kindof close to my yearly (modest
 hitting [212 in the year][2].  I might be reporting in the next diet post about making it.
 It won't mean that I will be stopping, but I will at least have a nice mid-year accomplishment.
 
-[2]: 
+[2]: http://base0.net/posts/twelve-in-twelve
 
 In [last month's report][3] I reported that I was signing up for [Goldy's Run][4] 5K, with a
 goal of completing it in less than half an hour.  I am happy to report that I ran it without any
