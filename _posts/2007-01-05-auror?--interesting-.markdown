@@ -16,7 +16,7 @@ date: 2007-01-05 12:36:12 -06:00
 </tr>
 <tr>
 <td style="background-color:4FA7D2; border: 1px solid black; color: 000000; padding: 2px;">Name/Username</td>
-<td style="background-color:FFFFFF; border: 1px solid black; padding: 2px; color: 000000"><input name="Name/Username" type="text" value="Michael Janssen" /></td>
+<td style="background-color:FFFFFF; border: 1px solid black; padding: 2px; color: 000000"><input name="Name/Username" type="text" value="Marie Janssen" /></td>
 </tr>
 <tr>
 <td style="background-color:4FA7D2; border: 1px solid black; color: 000000; padding: 2px;">Age</td>

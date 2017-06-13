@@ -21,7 +21,7 @@ layout: nil
       <title>{{ post.title }}</title>
       <link>http://base0.net{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
-      <author>jamuraa@base0.net (Michael Janssen)</author>
+      <author>jamuraa@base0.net (Marie Janssen)</author>
       <guid>http://base0.net{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
