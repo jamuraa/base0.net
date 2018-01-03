@@ -9,6 +9,7 @@ tags:
  - diet
  - charts
 ---
+
 Well, I've plonked out of the blogging for a little while now, but I hit another mark in my
 log book, so it's time for another diet and exercise update.  Weight is still going down, although
 not as fast as I would want it to, in general.  The exercise is going pretty great, and I have some

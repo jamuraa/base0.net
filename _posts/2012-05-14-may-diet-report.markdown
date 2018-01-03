@@ -97,7 +97,7 @@ according to plan.  Moving the rest days that I was previously doing to differen
 quite well, and while I wasn't happy with turning down the total mileage at the start, the addition of
 a long run to my week really gives me a great feeling of accomplishment every time.  So far my farthest
 run has been [just over 9 miles][7], but I have a scheduled double-digit coming up in a couple days which
-I see as a big milestone.  I'm going to have to start carrying some water soon, I think.
+I see as a big milestone. I'm going to have to start carrying some water soon, I think.
 
 [6]: https://www.tcmevents.org/events/red_white__boom_tc_half_marathon/
 [7]: http://www.dailymile.com/people/jamuraa/entries/14950750
